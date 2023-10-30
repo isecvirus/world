@@ -1,0 +1,83 @@
+{
+    "MS": {
+        "name": {
+            "common": "Montserrat",
+            "official": "Montserrat"
+        },
+        "country-codes": {
+            "alpha2": "MS",
+            "alpha3": "MSR",
+            "numeric": "500",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "664"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MS/flag.png",
+            "main-svg": "countries/MS/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf8",
+            "emblem-png": "countries/MS/emblem.png",
+            "emblem-svg": "countries/MS/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "MS"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/MS/anthem.mp3",
+        "capital": "Plymouth",
+        "latlng": [
+            16.75,
+            -62.2
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 102.0,
+        "demonym": [
+            "Montserratien",
+            "Montserratienne",
+            "Montserratian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/537257"
+        },
+        "legislature": [],
+        "population": 4922,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ms"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

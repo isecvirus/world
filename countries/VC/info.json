@@ -1,0 +1,83 @@
+{
+    "VC": {
+        "name": {
+            "common": "Saint Vincent and the Grenadines",
+            "official": "Saint Vincent and the Grenadines"
+        },
+        "country-codes": {
+            "alpha2": "VC",
+            "alpha3": "VCT",
+            "numeric": "670",
+            "ioc": "VIN"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "784"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/VC/flag.png",
+            "main-svg": "countries/VC/flag.svg",
+            "emoji": "\ud83c\uddfb\ud83c\udde8",
+            "emblem-png": "countries/VC/emblem.png",
+            "emblem-svg": "countries/VC/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "VC"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/VC/anthem.mp3",
+        "capital": "Kingstown",
+        "latlng": [
+            13.25,
+            -61.2
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 389.0,
+        "demonym": [
+            "Vincentaise",
+            "Vincentais",
+            "Saint Vincentian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
+        },
+        "legislature": [],
+        "population": 110947,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "WV"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".vc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

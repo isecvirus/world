@@ -1,0 +1,82 @@
+{
+    "VI": {
+        "name": {
+            "common": "United States Virgin Islands",
+            "official": "Virgin Islands of the United States"
+        },
+        "country-codes": {
+            "alpha2": "VI",
+            "alpha3": "VIR",
+            "numeric": "850",
+            "ioc": "ISV"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "340"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/VI/flag.png",
+            "main-svg": "countries/VI/flag.svg",
+            "emoji": "\ud83c\uddfb\ud83c\uddee",
+            "emblem-png": "countries/VI/emblem.png",
+            "emblem-svg": "countries/VI/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "VI",
+            "Virgin Islands, U.S."
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/VI/anthem.mp3",
+        "capital": "Charlotte Amalie",
+        "latlng": [
+            18.35,
+            -64.933333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 347.0,
+        "demonym": [
+            "Virgin Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
+            "openStreetMaps": "openstreetmap.org/relation/286898"
+        },
+        "legislature": [],
+        "population": 106290,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".vi"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

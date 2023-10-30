@@ -1,0 +1,86 @@
+{
+    "MH": {
+        "name": {
+            "common": "Marshall Islands",
+            "official": "Republic of the Marshall Islands"
+        },
+        "country-codes": {
+            "alpha2": "MH",
+            "alpha3": "MHL",
+            "numeric": "584",
+            "ioc": "MHL"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "92"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MH/flag.png",
+            "main-svg": "countries/MH/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\udded",
+            "emblem-png": "countries/MH/emblem.png",
+            "emblem-svg": "countries/MH/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "MH",
+            "Republic of the Marshall Islands",
+            "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "motto": [],
+        "anthem": "countries/MH/anthem.mp3",
+        "capital": "Majuro",
+        "latlng": [
+            9.0,
+            168.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "mah": "Marshallese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 181.0,
+        "demonym": [
+            "Marshallaise",
+            "Marshallais",
+            "Marshallese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/571771"
+        },
+        "legislature": [],
+        "population": 59194,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MH"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mh"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

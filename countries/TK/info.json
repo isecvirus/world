@@ -1,0 +1,83 @@
+{
+    "TK": {
+        "name": {
+            "common": "Tokelau",
+            "official": "Tokelau"
+        },
+        "country-codes": {
+            "alpha2": "TK",
+            "alpha3": "TKL",
+            "numeric": "772",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "90"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TK/flag.png",
+            "main-svg": "countries/TK/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddf0",
+            "emblem-png": "countries/TK/emblem.png",
+            "emblem-svg": "countries/TK/emblem.svg"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "TK"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/TK/anthem.mp3",
+        "capital": "Fakaofo",
+        "latlng": [
+            -9.0,
+            -172.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan",
+            "tkl": "Tokelauan"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 12.0,
+        "demonym": [
+            "Tokelauan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2186600"
+        },
+        "legislature": [],
+        "population": 1411,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".tk"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

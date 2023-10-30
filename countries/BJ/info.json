@@ -1,0 +1,90 @@
+{
+    "BJ": {
+        "name": {
+            "common": "Benin",
+            "official": "Republic of Benin"
+        },
+        "country-codes": {
+            "alpha2": "BJ",
+            "alpha3": "BEN",
+            "numeric": "204",
+            "ioc": "BEN"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "29"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BJ/flag.png",
+            "main-svg": "countries/BJ/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddef",
+            "emblem-png": "countries/BJ/emblem.png",
+            "emblem-svg": "countries/BJ/emblem.svg"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "BJ",
+            "Republic of Benin",
+            "R\u00e9publique du B\u00e9nin"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/BJ/anthem.mp3",
+        "capital": "Porto-Novo",
+        "latlng": [
+            9.5,
+            2.25
+        ],
+        "borders": [
+            "BFA",
+            "NER",
+            "NGA",
+            "TGO"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 112622.0,
+        "demonym": [
+            "Beninese",
+            "B\u00e9ninoise",
+            "B\u00e9ninois"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192784"
+        },
+        "legislature": [],
+        "population": 12123198,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "DY"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bj"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "GS": {
+        "name": {
+            "common": "South Georgia",
+            "official": "South Georgia and the South Sandwich Islands"
+        },
+        "country-codes": {
+            "alpha2": "GS",
+            "alpha3": "SGS",
+            "numeric": "239",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "00"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GS/flag.png",
+            "main-svg": "countries/GS/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddf8",
+            "emblem-png": "countries/GS/emblem.png",
+            "emblem-svg": "countries/GS/emblem.svg"
+        },
+        "currencies": {
+            "SHP": {
+                "name": "Saint Helena pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "GS",
+            "South Georgia and the South Sandwich Islands"
+        ],
+        "region": "Antarctic",
+        "subregion": "",
+        "motto": [],
+        "anthem": "countries/GS/anthem.mp3",
+        "capital": "King Edward Point",
+        "latlng": [
+            -54.5,
+            -37.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 3903.0,
+        "demonym": [
+            "South Georgian South Sandwich Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1983629"
+        },
+        "legislature": [],
+        "population": 30,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gs"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

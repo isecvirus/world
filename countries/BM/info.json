@@ -1,0 +1,86 @@
+{
+    "BM": {
+        "name": {
+            "common": "Bermuda",
+            "official": "Bermuda"
+        },
+        "country-codes": {
+            "alpha2": "BM",
+            "alpha3": "BMU",
+            "numeric": "060",
+            "ioc": "BER"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "441"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BM/flag.png",
+            "main-svg": "countries/BM/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf2",
+            "emblem-png": "countries/BM/emblem.png",
+            "emblem-svg": "countries/BM/emblem.svg"
+        },
+        "currencies": {
+            "BMD": {
+                "name": "Bermudian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "BM",
+            "The Islands of Bermuda",
+            "The Bermudas",
+            "Somers Isles"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "motto": [],
+        "anthem": "countries/BM/anthem.mp3",
+        "capital": "Hamilton",
+        "latlng": [
+            32.33333333,
+            -64.75
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 54.0,
+        "demonym": [
+            "Bermudian",
+            "Bermudienne",
+            "Bermudien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1993208"
+        },
+        "legislature": [],
+        "population": 63903,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".bm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

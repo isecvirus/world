@@ -1,0 +1,90 @@
+{
+    "AO": {
+        "name": {
+            "common": "Angola",
+            "official": "Republic of Angola"
+        },
+        "country-codes": {
+            "alpha2": "AO",
+            "alpha3": "AGO",
+            "numeric": "024",
+            "ioc": "ANG"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "44"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AO/flag.png",
+            "main-svg": "countries/AO/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddf4",
+            "emblem-png": "countries/AO/emblem.png",
+            "emblem-svg": "countries/AO/emblem.svg"
+        },
+        "currencies": {
+            "AOA": {
+                "name": "Angolan kwanza",
+                "symbol": "Kz"
+            }
+        },
+        "altSpellings": [
+            "AO",
+            "Rep\u00fablica de Angola",
+            "\u0281\u025bpublika de an'\u0261\u0254la"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/AO/anthem.mp3",
+        "capital": "Luanda",
+        "latlng": [
+            -12.5,
+            18.5
+        ],
+        "borders": [
+            "COG",
+            "COD",
+            "ZMB",
+            "NAM"
+        ],
+        "languages": {
+            "por": "Portuguese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1246700.0,
+        "demonym": [
+            "Angolais",
+            "Angolan",
+            "Angolaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195267"
+        },
+        "legislature": [],
+        "population": 32866268,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ANG"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ao"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

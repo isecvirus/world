@@ -1,0 +1,89 @@
+{
+    "PT": {
+        "name": {
+            "common": "Portugal",
+            "official": "Portuguese Republic"
+        },
+        "country-codes": {
+            "alpha2": "PT",
+            "alpha3": "PRT",
+            "numeric": "620",
+            "ioc": "POR"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "51"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PT/flag.png",
+            "main-svg": "countries/PT/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddf9",
+            "emblem-png": "countries/PT/emblem.png",
+            "emblem-svg": "countries/PT/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "PT",
+            "Portuguesa",
+            "Portuguese Republic",
+            "Rep\u00fablica Portuguesa"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/PT/anthem.mp3",
+        "capital": "Lisbon",
+        "latlng": [
+            39.5,
+            -8.0
+        ],
+        "borders": [
+            "ESP"
+        ],
+        "languages": {
+            "por": "Portuguese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 92090.0,
+        "demonym": [
+            "Portuguese",
+            "Portugais",
+            "Portugaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
+        },
+        "legislature": [],
+        "population": 10305564,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-01:00",
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "P"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pt"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

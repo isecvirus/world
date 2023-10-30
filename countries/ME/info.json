@@ -1,0 +1,90 @@
+{
+    "ME": {
+        "name": {
+            "common": "Montenegro",
+            "official": "Montenegro"
+        },
+        "country-codes": {
+            "alpha2": "ME",
+            "alpha3": "MNE",
+            "numeric": "499",
+            "ioc": "MNE"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "82"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ME/flag.png",
+            "main-svg": "countries/ME/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddea",
+            "emblem-png": "countries/ME/emblem.png",
+            "emblem-svg": "countries/ME/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "ME",
+            "Crna Gora"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/ME/anthem.mp3",
+        "capital": "Podgorica",
+        "latlng": [
+            42.5,
+            19.3
+        ],
+        "borders": [
+            "ALB",
+            "BIH",
+            "HRV",
+            "UNK",
+            "SRB"
+        ],
+        "languages": {
+            "cnr": "Montenegrin"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 13812.0,
+        "demonym": [
+            "Montenegrin",
+            "Mont\u00e9n\u00e9grine",
+            "Mont\u00e9n\u00e9grin"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53296"
+        },
+        "legislature": [],
+        "population": 621718,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SCG"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".me"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

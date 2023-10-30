@@ -1,0 +1,90 @@
+{
+    "LT": {
+        "name": {
+            "common": "Lithuania",
+            "official": "Republic of Lithuania"
+        },
+        "country-codes": {
+            "alpha2": "LT",
+            "alpha3": "LTU",
+            "numeric": "440",
+            "ioc": "LTU"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "70"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LT/flag.png",
+            "main-svg": "countries/LT/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\uddf9",
+            "emblem-png": "countries/LT/emblem.png",
+            "emblem-svg": "countries/LT/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "LT",
+            "Republic of Lithuania",
+            "Lietuvos Respublika"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/LT/anthem.mp3",
+        "capital": "Vilnius",
+        "latlng": [
+            56.0,
+            24.0
+        ],
+        "borders": [
+            "BLR",
+            "LVA",
+            "POL",
+            "RUS"
+        ],
+        "languages": {
+            "lit": "Lithuanian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 65300.0,
+        "demonym": [
+            "Lithuanian",
+            "Lituanienne",
+            "Lituanien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
+        },
+        "legislature": [],
+        "population": 2794700,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "LT"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".lt"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

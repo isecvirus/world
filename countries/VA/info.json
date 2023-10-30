@@ -1,0 +1,89 @@
+{
+    "VA": {
+        "name": {
+            "common": "Vatican City",
+            "official": "Vatican City State"
+        },
+        "country-codes": {
+            "alpha2": "VA",
+            "alpha3": "VAT",
+            "numeric": "336",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "906698",
+                "79"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/VA/flag.png",
+            "main-svg": "countries/VA/flag.svg",
+            "emoji": "\ud83c\uddfb\ud83c\udde6",
+            "emblem-png": "countries/VA/emblem.png",
+            "emblem-svg": "countries/VA/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "VA",
+            "Holy See (Vatican City State)",
+            "Vatican City State",
+            "Stato della Citt\u00e0 del Vaticano"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/VA/anthem.mp3",
+        "capital": "Vatican City",
+        "latlng": [
+            41.9,
+            12.45
+        ],
+        "borders": [
+            "ITA"
+        ],
+        "languages": {
+            "ita": "Italian",
+            "lat": "Latin"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 0.44,
+        "demonym": [
+            "Vatican",
+            "Vaticane"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/36989"
+        },
+        "legislature": [],
+        "population": 451,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "V"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".va"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

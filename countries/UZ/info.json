@@ -1,0 +1,92 @@
+{
+    "UZ": {
+        "name": {
+            "common": "Uzbekistan",
+            "official": "Republic of Uzbekistan"
+        },
+        "country-codes": {
+            "alpha2": "UZ",
+            "alpha3": "UZB",
+            "numeric": "860",
+            "ioc": "UZB"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "98"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/UZ/flag.png",
+            "main-svg": "countries/UZ/flag.svg",
+            "emoji": "\ud83c\uddfa\ud83c\uddff",
+            "emblem-png": "countries/UZ/emblem.png",
+            "emblem-svg": "countries/UZ/emblem.svg"
+        },
+        "currencies": {
+            "UZS": {
+                "name": "Uzbekistani so\u02bbm",
+                "symbol": "so'm"
+            }
+        },
+        "altSpellings": [
+            "UZ",
+            "Republic of Uzbekistan",
+            "O\u2018zbekiston Respublikasi",
+            "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "motto": [],
+        "anthem": "countries/UZ/anthem.mp3",
+        "capital": "Tashkent",
+        "latlng": [
+            41.0,
+            64.0
+        ],
+        "borders": [
+            "AFG",
+            "KAZ",
+            "KGZ",
+            "TJK",
+            "TKM"
+        ],
+        "languages": {
+            "rus": "Russian",
+            "uzb": "Uzbek"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 447400.0,
+        "demonym": [
+            "Ouzb\u00e8ke",
+            "Uzbekistani"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
+        },
+        "legislature": [],
+        "population": 34232050,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "UZ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".uz"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "ID": {
+        "name": {
+            "common": "Indonesia",
+            "official": "Republic of Indonesia"
+        },
+        "country-codes": {
+            "alpha2": "ID",
+            "alpha3": "IDN",
+            "numeric": "360",
+            "ioc": "INA"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ID/flag.png",
+            "main-svg": "countries/ID/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\udde9",
+            "emblem-png": "countries/ID/emblem.png",
+            "emblem-svg": "countries/ID/emblem.svg"
+        },
+        "currencies": {
+            "IDR": {
+                "name": "Indonesian rupiah",
+                "symbol": "Rp"
+            }
+        },
+        "altSpellings": [
+            "ID",
+            "Republic of Indonesia",
+            "Republik Indonesia"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/ID/anthem.mp3",
+        "capital": "Jakarta",
+        "latlng": [
+            -5.0,
+            120.0
+        ],
+        "borders": [
+            "TLS",
+            "MYS",
+            "PNG"
+        ],
+        "languages": {
+            "ind": "Indonesian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1904569.0,
+        "demonym": [
+            "Indon\u00e9sien",
+            "Indon\u00e9sienne",
+            "Indonesian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+        },
+        "legislature": [],
+        "population": 273523621,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RI"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".id"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "CV": {
+        "name": {
+            "common": "Cape Verde",
+            "official": "Republic of Cabo Verde"
+        },
+        "country-codes": {
+            "alpha2": "CV",
+            "alpha3": "CPV",
+            "numeric": "132",
+            "ioc": "CPV"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "38"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CV/flag.png",
+            "main-svg": "countries/CV/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddfb",
+            "emblem-png": "countries/CV/emblem.png",
+            "emblem-svg": "countries/CV/emblem.svg"
+        },
+        "currencies": {
+            "CVE": {
+                "name": "Cape Verdean escudo",
+                "symbol": "Esc"
+            }
+        },
+        "altSpellings": [
+            "CV",
+            "Republic of Cabo Verde",
+            "Rep\u00fablica de Cabo Verde"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/CV/anthem.mp3",
+        "capital": "Praia",
+        "latlng": [
+            16.5388,
+            23.0418
+        ],
+        "borders": [],
+        "languages": {
+            "por": "Portuguese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 4033.0,
+        "demonym": [
+            "Cap-verdienne",
+            "Cap-verdien",
+            "Cape Verdian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/535774"
+        },
+        "legislature": [],
+        "population": 555988,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CV"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cv"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "PM": {
+        "name": {
+            "common": "Saint Pierre and Miquelon",
+            "official": "Saint Pierre and Miquelon"
+        },
+        "country-codes": {
+            "alpha2": "PM",
+            "alpha3": "SPM",
+            "numeric": "666",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "08"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PM/flag.png",
+            "main-svg": "countries/PM/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddf2",
+            "emblem-png": "countries/PM/emblem.png",
+            "emblem-svg": "countries/PM/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "PM",
+            "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "motto": [],
+        "anthem": "countries/PM/anthem.mp3",
+        "capital": "Saint-Pierre",
+        "latlng": [
+            46.83333333,
+            -56.33333333
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 242.0,
+        "demonym": [
+            "Saint-Pierrais, Miquelonais",
+            "Saint-Pierraise, Miquelonaise",
+            "Saint-Pierrais, Miquelonnais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/3406826"
+        },
+        "legislature": [],
+        "population": 6069,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

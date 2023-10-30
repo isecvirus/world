@@ -1,0 +1,87 @@
+{
+    "HK": {
+        "name": {
+            "common": "Hong Kong",
+            "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+        },
+        "country-codes": {
+            "alpha2": "HK",
+            "alpha3": "HKG",
+            "numeric": "344",
+            "ioc": "HKG"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "52"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/HK/flag.png",
+            "main-svg": "countries/HK/flag.svg",
+            "emoji": "\ud83c\udded\ud83c\uddf0",
+            "emblem-png": "countries/HK/emblem.png",
+            "emblem-svg": "countries/HK/emblem.svg"
+        },
+        "currencies": {
+            "HKD": {
+                "name": "Hong Kong dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "HK"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/HK/anthem.mp3",
+        "capital": "City of Victoria",
+        "latlng": [
+            22.267,
+            114.188
+        ],
+        "borders": [
+            "CHN"
+        ],
+        "languages": {
+            "eng": "English",
+            "zho": "Chinese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1104.0,
+        "demonym": [
+            "Hong Konger",
+            "Hongkongaise",
+            "Hongkongais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/913110"
+        },
+        "legislature": [],
+        "population": 7500700,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "HK"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".hk",
+            ".\u9999\u6e2f"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

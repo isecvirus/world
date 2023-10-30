@@ -1,0 +1,87 @@
+{
+    "GH": {
+        "name": {
+            "common": "Ghana",
+            "official": "Republic of Ghana"
+        },
+        "country-codes": {
+            "alpha2": "GH",
+            "alpha3": "GHA",
+            "numeric": "288",
+            "ioc": "GHA"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "33"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GH/flag.png",
+            "main-svg": "countries/GH/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\udded",
+            "emblem-png": "countries/GH/emblem.png",
+            "emblem-svg": "countries/GH/emblem.svg"
+        },
+        "currencies": {
+            "GHS": {
+                "name": "Ghanaian cedi",
+                "symbol": "\u20b5"
+            }
+        },
+        "altSpellings": [
+            "GH"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/GH/anthem.mp3",
+        "capital": "Accra",
+        "latlng": [
+            8.0,
+            -2.0
+        ],
+        "borders": [
+            "BFA",
+            "CIV",
+            "TGO"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 238533.0,
+        "demonym": [
+            "Ghanaian",
+            "Ghan\u00e9en",
+            "Ghan\u00e9enne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+        },
+        "legislature": [],
+        "population": 31072945,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GH"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gh"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

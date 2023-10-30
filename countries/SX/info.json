@@ -1,0 +1,88 @@
+{
+    "SX": {
+        "name": {
+            "common": "Sint Maarten",
+            "official": "Sint Maarten"
+        },
+        "country-codes": {
+            "alpha2": "SX",
+            "alpha3": "SXM",
+            "numeric": "534",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "721"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SX/flag.png",
+            "main-svg": "countries/SX/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddfd",
+            "emblem-png": "countries/SX/emblem.png",
+            "emblem-svg": "countries/SX/emblem.svg"
+        },
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "\u0192"
+            }
+        },
+        "altSpellings": [
+            "SX",
+            "Sint Maarten (Dutch part)"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/SX/anthem.mp3",
+        "capital": "Philipsburg",
+        "latlng": [
+            18.033333,
+            -63.05
+        ],
+        "borders": [
+            "MAF"
+        ],
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 34.0,
+        "demonym": [
+            "Saint-Martinoise",
+            "Saint-Martinois",
+            "St. Maartener"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1231790"
+        },
+        "legislature": [],
+        "population": 40812,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SX"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".sx"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

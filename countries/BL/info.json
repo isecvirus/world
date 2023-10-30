@@ -1,0 +1,86 @@
+{
+    "BL": {
+        "name": {
+            "common": "Saint Barth\u00e9lemy",
+            "official": "Collectivity of Saint Barth\u00e9lemy"
+        },
+        "country-codes": {
+            "alpha2": "BL",
+            "alpha3": "BLM",
+            "numeric": "652",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "90"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BL/flag.png",
+            "main-svg": "countries/BL/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf1",
+            "emblem-png": "countries/BL/emblem.png",
+            "emblem-svg": "countries/BL/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "BL",
+            "St. Barthelemy",
+            "Collectivity of Saint Barth\u00e9lemy",
+            "Collectivit\u00e9 de Saint-Barth\u00e9lemy"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/BL/anthem.mp3",
+        "capital": "Gustavia",
+        "latlng": [
+            18.5,
+            -63.41666666
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 21.0,
+        "demonym": [
+            "Barth\u00e9lom\u00e9en",
+            "Barth\u00e9lom\u00e9enne",
+            "Saint Barth\u00e9lemy Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Mc7GqH466S7AAk297",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/7552779"
+        },
+        "legislature": [],
+        "population": 4255,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bl"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

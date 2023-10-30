@@ -1,0 +1,81 @@
+{
+    "AW": {
+        "name": {
+            "common": "Aruba",
+            "official": "Aruba"
+        },
+        "country-codes": {
+            "alpha2": "AW",
+            "alpha3": "ABW",
+            "numeric": "533",
+            "ioc": "ARU"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "97"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AW/flag.png",
+            "main-svg": "countries/AW/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddfc",
+            "emblem-png": "countries/AW/emblem.png",
+            "emblem-svg": "countries/AW/emblem.svg"
+        },
+        "currencies": {
+            "AWG": {
+                "name": "Aruban florin",
+                "symbol": "\u0192"
+            }
+        },
+        "altSpellings": [
+            "AW"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/AW/anthem.mp3",
+        "capital": "Oranjestad",
+        "latlng": [
+            12.5,
+            -69.96666666
+        ],
+        "borders": [],
+        "languages": {
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 180.0,
+        "demonym": [
+            "Aruban",
+            "Arubais",
+            "Arubaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1231749"
+        },
+        "legislature": [],
+        "population": 106766,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "side": "right"
+        },
+        "tld": [
+            ".aw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

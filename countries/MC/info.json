@@ -1,0 +1,86 @@
+{
+    "MC": {
+        "name": {
+            "common": "Monaco",
+            "official": "Principality of Monaco"
+        },
+        "country-codes": {
+            "alpha2": "MC",
+            "alpha3": "MCO",
+            "numeric": "492",
+            "ioc": "MON"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "77"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MC/flag.png",
+            "main-svg": "countries/MC/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\udde8",
+            "emblem-png": "countries/MC/emblem.png",
+            "emblem-svg": "countries/MC/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "MC",
+            "Principality of Monaco",
+            "Principaut\u00e9 de Monaco"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "motto": [],
+        "anthem": "countries/MC/anthem.mp3",
+        "capital": "Monaco",
+        "latlng": [
+            43.73333333,
+            7.4
+        ],
+        "borders": [
+            "FRA"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2.02,
+        "demonym": [
+            "Monegasque",
+            "Mon\u00e9gasque"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
+        },
+        "legislature": [],
+        "population": 39244,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MC"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

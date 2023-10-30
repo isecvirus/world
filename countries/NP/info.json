@@ -1,0 +1,88 @@
+{
+    "NP": {
+        "name": {
+            "common": "Nepal",
+            "official": "Federal Democratic Republic of Nepal"
+        },
+        "country-codes": {
+            "alpha2": "NP",
+            "alpha3": "NPL",
+            "numeric": "524",
+            "ioc": "NEP"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "77"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NP/flag.png",
+            "main-svg": "countries/NP/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddf5",
+            "emblem-png": "countries/NP/emblem.png",
+            "emblem-svg": "countries/NP/emblem.svg"
+        },
+        "currencies": {
+            "NPR": {
+                "name": "Nepalese rupee",
+                "symbol": "\u20a8"
+            }
+        },
+        "altSpellings": [
+            "NP",
+            "Federal Democratic Republic of Nepal",
+            "Lokt\u0101ntrik Ganatantra Nep\u0101l"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/NP/anthem.mp3",
+        "capital": "Kathmandu",
+        "latlng": [
+            28.0,
+            84.0
+        ],
+        "borders": [
+            "CHN",
+            "IND"
+        ],
+        "languages": {
+            "nep": "Nepali"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 147181.0,
+        "demonym": [
+            "N\u00e9palais",
+            "Nepalese",
+            "N\u00e9palaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
+        },
+        "legislature": [],
+        "population": 29136808,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+05:45"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NEP"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".np"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

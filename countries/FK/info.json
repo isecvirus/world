@@ -1,0 +1,85 @@
+{
+    "FK": {
+        "name": {
+            "common": "Falkland Islands",
+            "official": "Falkland Islands"
+        },
+        "country-codes": {
+            "alpha2": "FK",
+            "alpha3": "FLK",
+            "numeric": "238",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "00"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/FK/flag.png",
+            "main-svg": "countries/FK/flag.svg",
+            "emoji": "\ud83c\uddeb\ud83c\uddf0",
+            "emblem-png": "countries/FK/emblem.png",
+            "emblem-svg": "countries/FK/emblem.svg"
+        },
+        "currencies": {
+            "FKP": {
+                "name": "Falkland Islands pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "FK",
+            "Islas Malvinas",
+            "Falkland Islands (Malvinas)"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/FK/anthem.mp3",
+        "capital": "Stanley",
+        "latlng": [
+            -51.75,
+            -59.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 12173.0,
+        "demonym": [
+            "Malouinne",
+            "Malouin",
+            "Falkland Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
+        },
+        "legislature": [],
+        "population": 2563,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".fk"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

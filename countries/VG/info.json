@@ -1,0 +1,82 @@
+{
+    "VG": {
+        "name": {
+            "common": "British Virgin Islands",
+            "official": "Virgin Islands"
+        },
+        "country-codes": {
+            "alpha2": "VG",
+            "alpha3": "VGB",
+            "numeric": "092",
+            "ioc": "IVB"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "284"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/VG/flag.png",
+            "main-svg": "countries/VG/flag.svg",
+            "emoji": "\ud83c\uddfb\ud83c\uddec",
+            "emblem-png": "countries/VG/emblem.png",
+            "emblem-svg": "countries/VG/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "VG",
+            "Virgin Islands, British"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/VG/anthem.mp3",
+        "capital": "Road Town",
+        "latlng": [
+            18.431383,
+            -64.62305
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 151.0,
+        "demonym": [
+            "Virgin Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/285454"
+        },
+        "legislature": [],
+        "population": 30237,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BVI"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".vg"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

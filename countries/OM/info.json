@@ -1,0 +1,89 @@
+{
+    "OM": {
+        "name": {
+            "common": "Oman",
+            "official": "Sultanate of Oman"
+        },
+        "country-codes": {
+            "alpha2": "OM",
+            "alpha3": "OMN",
+            "numeric": "512",
+            "ioc": "OMA"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "68"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/OM/flag.png",
+            "main-svg": "countries/OM/flag.svg",
+            "emoji": "\ud83c\uddf4\ud83c\uddf2",
+            "emblem-png": "countries/OM/emblem.png",
+            "emblem-svg": "countries/OM/emblem.svg"
+        },
+        "currencies": {
+            "OMR": {
+                "name": "Omani rial",
+                "symbol": "\u0631.\u0639."
+            }
+        },
+        "altSpellings": [
+            "OM",
+            "Sultanate of Oman",
+            "Sal\u1e6danat \u02bbUm\u0101n"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/OM/anthem.mp3",
+        "capital": "Muscat",
+        "latlng": [
+            21.0,
+            57.0
+        ],
+        "borders": [
+            "SAU",
+            "ARE",
+            "YEM"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 309500.0,
+        "demonym": [
+            "Omanais",
+            "Omani",
+            "Omanaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/305138"
+        },
+        "legislature": [],
+        "population": 5106622,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "OM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".om"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

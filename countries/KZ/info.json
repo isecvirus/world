@@ -1,0 +1,100 @@
+{
+    "KZ": {
+        "name": {
+            "common": "Kazakhstan",
+            "official": "Republic of Kazakhstan"
+        },
+        "country-codes": {
+            "alpha2": "KZ",
+            "alpha3": "KAZ",
+            "numeric": "398",
+            "ioc": "KAZ"
+        },
+        "idd": {
+            "root": "+7",
+            "suffixes": [
+                "6",
+                "7"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KZ/flag.png",
+            "main-svg": "countries/KZ/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddff",
+            "emblem-png": "countries/KZ/emblem.png",
+            "emblem-svg": "countries/KZ/emblem.svg"
+        },
+        "currencies": {
+            "KZT": {
+                "name": "Kazakhstani tenge",
+                "symbol": "\u20b8"
+            }
+        },
+        "altSpellings": [
+            "KZ",
+            "Qazaqstan",
+            "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Republic of Kazakhstan",
+            "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "Qazaqstan Respubl\u00efkas\u0131",
+            "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Respublika Kazakhstan"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "motto": [],
+        "anthem": "countries/KZ/anthem.mp3",
+        "capital": "Nur-Sultan",
+        "latlng": [
+            48.0196,
+            66.9237
+        ],
+        "borders": [
+            "CHN",
+            "KGZ",
+            "RUS",
+            "TKM",
+            "UZB"
+        ],
+        "languages": {
+            "kaz": "Kazakh",
+            "rus": "Russian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2724900.0,
+        "demonym": [
+            "Kazakhstani",
+            "Kazakhstanais",
+            "Kazakhstanaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/214665"
+        },
+        "legislature": [],
+        "population": 18754440,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "KZ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".kz",
+            ".\u049b\u0430\u0437"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

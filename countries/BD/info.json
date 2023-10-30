@@ -1,0 +1,88 @@
+{
+    "BD": {
+        "name": {
+            "common": "Bangladesh",
+            "official": "People's Republic of Bangladesh"
+        },
+        "country-codes": {
+            "alpha2": "BD",
+            "alpha3": "BGD",
+            "numeric": "050",
+            "ioc": "BAN"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "80"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BD/flag.png",
+            "main-svg": "countries/BD/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\udde9",
+            "emblem-png": "countries/BD/emblem.png",
+            "emblem-svg": "countries/BD/emblem.svg"
+        },
+        "currencies": {
+            "BDT": {
+                "name": "Bangladeshi taka",
+                "symbol": "\u09f3"
+            }
+        },
+        "altSpellings": [
+            "BD",
+            "People's Republic of Bangladesh",
+            "G\u00f4n\u00f4pr\u00f4jat\u00f4ntri Bangladesh"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/BD/anthem.mp3",
+        "capital": "Dhaka",
+        "latlng": [
+            24.0,
+            90.0
+        ],
+        "borders": [
+            "MMR",
+            "IND"
+        ],
+        "languages": {
+            "ben": "Bengali"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 147570.0,
+        "demonym": [
+            "Bangladeshi",
+            "Bangladais",
+            "Bangladaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
+        },
+        "legislature": [],
+        "population": 164689383,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BD"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".bd"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

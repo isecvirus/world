@@ -1,0 +1,87 @@
+{
+    "GT": {
+        "name": {
+            "common": "Guatemala",
+            "official": "Republic of Guatemala"
+        },
+        "country-codes": {
+            "alpha2": "GT",
+            "alpha3": "GTM",
+            "numeric": "320",
+            "ioc": "GUA"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "02"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GT/flag.png",
+            "main-svg": "countries/GT/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddf9",
+            "emblem-png": "countries/GT/emblem.png",
+            "emblem-svg": "countries/GT/emblem.svg"
+        },
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        },
+        "altSpellings": [
+            "GT"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "motto": [],
+        "anthem": "countries/GT/anthem.mp3",
+        "capital": "Guatemala City",
+        "latlng": [
+            15.5,
+            -90.25
+        ],
+        "borders": [
+            "BLZ",
+            "SLV",
+            "HND",
+            "MEX"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 108889.0,
+        "demonym": [
+            "Guat\u00e9malt\u00e8que",
+            "Guatemalan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
+        },
+        "legislature": [],
+        "population": 16858333,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GCA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gt"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

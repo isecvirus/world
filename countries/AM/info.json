@@ -1,0 +1,91 @@
+{
+    "AM": {
+        "name": {
+            "common": "Armenia",
+            "official": "Republic of Armenia"
+        },
+        "country-codes": {
+            "alpha2": "AM",
+            "alpha3": "ARM",
+            "numeric": "051",
+            "ioc": "ARM"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "74"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AM/flag.png",
+            "main-svg": "countries/AM/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddf2",
+            "emblem-png": "countries/AM/emblem.png",
+            "emblem-svg": "countries/AM/emblem.svg"
+        },
+        "currencies": {
+            "AMD": {
+                "name": "Armenian dram",
+                "symbol": "\u058f"
+            }
+        },
+        "altSpellings": [
+            "AM",
+            "Hayastan",
+            "Republic of Armenia",
+            "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/AM/anthem.mp3",
+        "capital": "Yerevan",
+        "latlng": [
+            40.0,
+            45.0
+        ],
+        "borders": [
+            "AZE",
+            "GEO",
+            "IRN",
+            "TUR"
+        ],
+        "languages": {
+            "hye": "Armenian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 29743.0,
+        "demonym": [
+            "Armenian",
+            "Arm\u00e9nien",
+            "Arm\u00e9nienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
+        },
+        "legislature": [],
+        "population": 2963234,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".am"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

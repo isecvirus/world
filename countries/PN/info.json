@@ -1,0 +1,85 @@
+{
+    "PN": {
+        "name": {
+            "common": "Pitcairn Islands",
+            "official": "Pitcairn Group of Islands"
+        },
+        "country-codes": {
+            "alpha2": "PN",
+            "alpha3": "PCN",
+            "numeric": "612",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PN/flag.png",
+            "main-svg": "countries/PN/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddf3",
+            "emblem-png": "countries/PN/emblem.png",
+            "emblem-svg": "countries/PN/emblem.svg"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "PN",
+            "Pitcairn",
+            "Pitcairn Henderson Ducie and Oeno Islands"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/PN/anthem.mp3",
+        "capital": "Adamstown",
+        "latlng": [
+            -25.06666666,
+            -130.1
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 47.0,
+        "demonym": [
+            "Pitcairnais",
+            "Pitcairn Islander",
+            "Pitcairnaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2185375"
+        },
+        "legislature": [],
+        "population": 56,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".pn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

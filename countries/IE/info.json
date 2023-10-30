@@ -1,0 +1,89 @@
+{
+    "IE": {
+        "name": {
+            "common": "Ireland",
+            "official": "Republic of Ireland"
+        },
+        "country-codes": {
+            "alpha2": "IE",
+            "alpha3": "IRL",
+            "numeric": "372",
+            "ioc": "IRL"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "53"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/IE/flag.png",
+            "main-svg": "countries/IE/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\uddea",
+            "emblem-png": "countries/IE/emblem.png",
+            "emblem-svg": "countries/IE/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "IE",
+            "\u00c9ire",
+            "Republic of Ireland",
+            "Poblacht na h\u00c9ireann"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/IE/anthem.mp3",
+        "capital": "Dublin",
+        "latlng": [
+            53.0,
+            -8.0
+        ],
+        "borders": [
+            "GBR"
+        ],
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 70273.0,
+        "demonym": [
+            "Irlandaise",
+            "Irlandais",
+            "Irish"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
+        },
+        "legislature": [],
+        "population": 4994724,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "IRL"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ie"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

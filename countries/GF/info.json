@@ -1,0 +1,88 @@
+{
+    "GF": {
+        "name": {
+            "common": "French Guiana",
+            "official": "Guiana"
+        },
+        "country-codes": {
+            "alpha2": "GF",
+            "alpha3": "GUF",
+            "numeric": "254",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "94"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GF/flag.png",
+            "main-svg": "countries/GF/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddeb",
+            "emblem-png": "countries/GF/emblem.png",
+            "emblem-svg": "countries/GF/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "GF",
+            "Guiana",
+            "Guyane"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/GF/anthem.mp3",
+        "capital": "Cayenne",
+        "latlng": [
+            4.0,
+            -53.0
+        ],
+        "borders": [
+            "BRA",
+            "SUR"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 83534.0,
+        "demonym": [
+            "Guyanaise",
+            "Guianan",
+            "Guyanais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
+        },
+        "legislature": [],
+        "population": 254541,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gf"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "ML": {
+        "name": {
+            "common": "Mali",
+            "official": "Republic of Mali"
+        },
+        "country-codes": {
+            "alpha2": "ML",
+            "alpha3": "MLI",
+            "numeric": "466",
+            "ioc": "MLI"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "23"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ML/flag.png",
+            "main-svg": "countries/ML/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf1",
+            "emblem-png": "countries/ML/emblem.png",
+            "emblem-svg": "countries/ML/emblem.svg"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "ML",
+            "Republic of Mali",
+            "R\u00e9publique du Mali"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/ML/anthem.mp3",
+        "capital": "Bamako",
+        "latlng": [
+            17.0,
+            -4.0
+        ],
+        "borders": [
+            "DZA",
+            "BFA",
+            "GIN",
+            "CIV",
+            "MRT",
+            "NER",
+            "SEN"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1240192.0,
+        "demonym": [
+            "Malien",
+            "Malienne",
+            "Malian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
+        },
+        "legislature": [],
+        "population": 20250834,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RMM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ml"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

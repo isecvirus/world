@@ -1,0 +1,93 @@
+{
+    "CM": {
+        "name": {
+            "common": "Cameroon",
+            "official": "Republic of Cameroon"
+        },
+        "country-codes": {
+            "alpha2": "CM",
+            "alpha3": "CMR",
+            "numeric": "120",
+            "ioc": "CMR"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "37"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CM/flag.png",
+            "main-svg": "countries/CM/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddf2",
+            "emblem-png": "countries/CM/emblem.png",
+            "emblem-svg": "countries/CM/emblem.svg"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "CM",
+            "Republic of Cameroon",
+            "R\u00e9publique du Cameroun"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/CM/anthem.mp3",
+        "capital": "Yaound\u00e9",
+        "latlng": [
+            6.0,
+            12.0
+        ],
+        "borders": [
+            "CAF",
+            "TCD",
+            "COG",
+            "GNQ",
+            "GAB",
+            "NGA"
+        ],
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 475442.0,
+        "demonym": [
+            "Camerounais",
+            "Camerounaise",
+            "Cameroonian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192830"
+        },
+        "legislature": [],
+        "population": 26545864,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CAM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

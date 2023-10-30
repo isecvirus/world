@@ -1,0 +1,87 @@
+{
+    "MN": {
+        "name": {
+            "common": "Mongolia",
+            "official": "Mongolia"
+        },
+        "country-codes": {
+            "alpha2": "MN",
+            "alpha3": "MNG",
+            "numeric": "496",
+            "ioc": "MGL"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "76"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MN/flag.png",
+            "main-svg": "countries/MN/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf3",
+            "emblem-png": "countries/MN/emblem.png",
+            "emblem-svg": "countries/MN/emblem.svg"
+        },
+        "currencies": {
+            "MNT": {
+                "name": "Mongolian t\u00f6gr\u00f6g",
+                "symbol": "\u20ae"
+            }
+        },
+        "altSpellings": [
+            "MN"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/MN/anthem.mp3",
+        "capital": "Ulan Bator",
+        "latlng": [
+            46.0,
+            105.0
+        ],
+        "borders": [
+            "CHN",
+            "RUS"
+        ],
+        "languages": {
+            "mon": "Mongolian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1564110.0,
+        "demonym": [
+            "Mongol",
+            "Mongolian",
+            "Mongole"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/161033"
+        },
+        "legislature": [],
+        "population": 3278292,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MGL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

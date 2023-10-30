@@ -1,0 +1,87 @@
+{
+    "NR": {
+        "name": {
+            "common": "Nauru",
+            "official": "Republic of Nauru"
+        },
+        "country-codes": {
+            "alpha2": "NR",
+            "alpha3": "NRU",
+            "numeric": "520",
+            "ioc": "NRU"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "74"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NR/flag.png",
+            "main-svg": "countries/NR/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddf7",
+            "emblem-png": "countries/NR/emblem.png",
+            "emblem-svg": "countries/NR/emblem.svg"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "NR",
+            "Naoero",
+            "Pleasant Island",
+            "Republic of Nauru",
+            "Ripublik Naoero"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "motto": [],
+        "anthem": "countries/NR/anthem.mp3",
+        "capital": "Yaren",
+        "latlng": [
+            -0.53333333,
+            166.91666666
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "nau": "Nauru"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 21.0,
+        "demonym": [
+            "Nauruan",
+            "Nauruane"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/571804"
+        },
+        "legislature": [],
+        "population": 10834,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NAU"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".nr"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

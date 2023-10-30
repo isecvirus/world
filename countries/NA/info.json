@@ -1,0 +1,102 @@
+{
+    "NA": {
+        "name": {
+            "common": "Namibia",
+            "official": "Republic of Namibia"
+        },
+        "country-codes": {
+            "alpha2": "NA",
+            "alpha3": "NAM",
+            "numeric": "516",
+            "ioc": "NAM"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "64"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NA/flag.png",
+            "main-svg": "countries/NA/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\udde6",
+            "emblem-png": "countries/NA/emblem.png",
+            "emblem-svg": "countries/NA/emblem.svg"
+        },
+        "currencies": {
+            "NAD": {
+                "name": "Namibian dollar",
+                "symbol": "$"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "altSpellings": [
+            "NA",
+            "Namibi\u00eb",
+            "Republic of Namibia"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "motto": [],
+        "anthem": "countries/NA/anthem.mp3",
+        "capital": "Windhoek",
+        "latlng": [
+            -22.0,
+            17.0
+        ],
+        "borders": [
+            "AGO",
+            "BWA",
+            "ZAF",
+            "ZMB"
+        ],
+        "languages": {
+            "afr": "Afrikaans",
+            "deu": "German",
+            "eng": "English",
+            "her": "Herero",
+            "hgm": "Khoekhoe",
+            "kwn": "Kwangali",
+            "loz": "Lozi",
+            "ndo": "Ndonga",
+            "tsn": "Tswana"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 825615.0,
+        "demonym": [
+            "Namibien",
+            "Namibienne",
+            "Namibian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195266"
+        },
+        "legislature": [],
+        "population": 2540916,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NAM"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".na"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

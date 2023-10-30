@@ -1,0 +1,90 @@
+{
+    "BF": {
+        "name": {
+            "common": "Burkina Faso",
+            "official": "Burkina Faso"
+        },
+        "country-codes": {
+            "alpha2": "BF",
+            "alpha3": "BFA",
+            "numeric": "854",
+            "ioc": "BUR"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "26"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BF/flag.png",
+            "main-svg": "countries/BF/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddeb",
+            "emblem-png": "countries/BF/emblem.png",
+            "emblem-svg": "countries/BF/emblem.svg"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "BF"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/BF/anthem.mp3",
+        "capital": "Ouagadougou",
+        "latlng": [
+            13.0,
+            -2.0
+        ],
+        "borders": [
+            "BEN",
+            "CIV",
+            "GHA",
+            "MLI",
+            "NER",
+            "TGO"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 272967.0,
+        "demonym": [
+            "Burkinabe",
+            "Burkinab\u00e9",
+            "Burkinab\u00e9e"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192783"
+        },
+        "legislature": [],
+        "population": 20903278,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BF"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bf"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

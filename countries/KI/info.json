@@ -1,0 +1,92 @@
+{
+    "KI": {
+        "name": {
+            "common": "Kiribati",
+            "official": "Independent and Sovereign Republic of Kiribati"
+        },
+        "country-codes": {
+            "alpha2": "KI",
+            "alpha3": "KIR",
+            "numeric": "296",
+            "ioc": "KIR"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "86"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KI/flag.png",
+            "main-svg": "countries/KI/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddee",
+            "emblem-png": "countries/KI/emblem.png",
+            "emblem-svg": "countries/KI/emblem.svg"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "KID": {
+                "name": "Kiribati dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "KI",
+            "Republic of Kiribati",
+            "Ribaberiki Kiribati"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "motto": [],
+        "anthem": "countries/KI/anthem.mp3",
+        "capital": "South Tarawa",
+        "latlng": [
+            1.41666666,
+            173.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "gil": "Gilbertese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 811.0,
+        "demonym": [
+            "Kiribatienne",
+            "I-Kiribati",
+            "Kiribatien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/NBfYvrndW4skAimw9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/571178"
+        },
+        "legislature": [],
+        "population": 119446,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+12:00",
+            "UTC+13:00",
+            "UTC+14:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "KIR"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ki"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

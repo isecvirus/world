@@ -1,0 +1,92 @@
+{
+    "UG": {
+        "name": {
+            "common": "Uganda",
+            "official": "Republic of Uganda"
+        },
+        "country-codes": {
+            "alpha2": "UG",
+            "alpha3": "UGA",
+            "numeric": "800",
+            "ioc": "UGA"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "56"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/UG/flag.png",
+            "main-svg": "countries/UG/flag.svg",
+            "emoji": "\ud83c\uddfa\ud83c\uddec",
+            "emblem-png": "countries/UG/emblem.png",
+            "emblem-svg": "countries/UG/emblem.svg"
+        },
+        "currencies": {
+            "UGX": {
+                "name": "Ugandan shilling",
+                "symbol": "Sh"
+            }
+        },
+        "altSpellings": [
+            "UG",
+            "Republic of Uganda",
+            "Jamhuri ya Uganda"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/UG/anthem.mp3",
+        "capital": "Kampala",
+        "latlng": [
+            1.0,
+            32.0
+        ],
+        "borders": [
+            "COD",
+            "KEN",
+            "RWA",
+            "SSD",
+            "TZA"
+        ],
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 241550.0,
+        "demonym": [
+            "Ugandan",
+            "Ougandais",
+            "Ougandaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192796"
+        },
+        "legislature": [],
+        "population": 45741000,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "EAU"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ug"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

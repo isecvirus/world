@@ -1,0 +1,84 @@
+{
+    "GP": {
+        "name": {
+            "common": "Guadeloupe",
+            "official": "Guadeloupe"
+        },
+        "country-codes": {
+            "alpha2": "GP",
+            "alpha3": "GLP",
+            "numeric": "312",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "90"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GP/flag.png",
+            "main-svg": "countries/GP/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddf5",
+            "emblem-png": "countries/GP/emblem.png",
+            "emblem-svg": "countries/GP/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "GP",
+            "Gwadloup"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/GP/anthem.mp3",
+        "capital": "Basse-Terre",
+        "latlng": [
+            16.25,
+            -61.583333
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1628.0,
+        "demonym": [
+            "Guadeloup\u00e9en",
+            "Guadeloup\u00e9enne",
+            "Guadeloupian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
+        },
+        "legislature": [],
+        "population": 400132,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gp"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

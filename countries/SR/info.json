@@ -1,0 +1,91 @@
+{
+    "SR": {
+        "name": {
+            "common": "Suriname",
+            "official": "Republic of Suriname"
+        },
+        "country-codes": {
+            "alpha2": "SR",
+            "alpha3": "SUR",
+            "numeric": "740",
+            "ioc": "SUR"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "97"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SR/flag.png",
+            "main-svg": "countries/SR/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddf7",
+            "emblem-png": "countries/SR/emblem.png",
+            "emblem-svg": "countries/SR/emblem.svg"
+        },
+        "currencies": {
+            "SRD": {
+                "name": "Surinamese dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "SR",
+            "Sarnam",
+            "Sranangron",
+            "Republic of Suriname",
+            "Republiek Suriname"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/SR/anthem.mp3",
+        "capital": "Paramaribo",
+        "latlng": [
+            4.0,
+            -56.0
+        ],
+        "borders": [
+            "BRA",
+            "GUF",
+            "GUY"
+        ],
+        "languages": {
+            "nld": "Dutch"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 163820.0,
+        "demonym": [
+            "Surinamer",
+            "Surinamaise",
+            "Surinamais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287082"
+        },
+        "legislature": [],
+        "population": 586634,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SME"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".sr"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

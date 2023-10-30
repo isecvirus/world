@@ -1,0 +1,86 @@
+{
+    "MT": {
+        "name": {
+            "common": "Malta",
+            "official": "Republic of Malta"
+        },
+        "country-codes": {
+            "alpha2": "MT",
+            "alpha3": "MLT",
+            "numeric": "470",
+            "ioc": "MLT"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "56"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MT/flag.png",
+            "main-svg": "countries/MT/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf9",
+            "emblem-png": "countries/MT/emblem.png",
+            "emblem-svg": "countries/MT/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "MT",
+            "Republic of Malta",
+            "Repubblika ta' Malta"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/MT/anthem.mp3",
+        "capital": "Valletta",
+        "latlng": [
+            35.9375,
+            14.3754
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "mlt": "Maltese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 316.0,
+        "demonym": [
+            "Maltais",
+            "Maltese",
+            "Maltaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
+        },
+        "legislature": [],
+        "population": 525285,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "M"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".mt"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

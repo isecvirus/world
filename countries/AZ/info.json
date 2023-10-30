@@ -1,0 +1,92 @@
+{
+    "AZ": {
+        "name": {
+            "common": "Azerbaijan",
+            "official": "Republic of Azerbaijan"
+        },
+        "country-codes": {
+            "alpha2": "AZ",
+            "alpha3": "AZE",
+            "numeric": "031",
+            "ioc": "AZE"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "94"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AZ/flag.png",
+            "main-svg": "countries/AZ/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddff",
+            "emblem-png": "countries/AZ/emblem.png",
+            "emblem-svg": "countries/AZ/emblem.svg"
+        },
+        "currencies": {
+            "AZN": {
+                "name": "Azerbaijani manat",
+                "symbol": "\u20bc"
+            }
+        },
+        "altSpellings": [
+            "AZ",
+            "Republic of Azerbaijan",
+            "Az\u0259rbaycan Respublikas\u0131"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/AZ/anthem.mp3",
+        "capital": "Baku",
+        "latlng": [
+            40.5,
+            47.5
+        ],
+        "borders": [
+            "ARM",
+            "GEO",
+            "IRN",
+            "RUS",
+            "TUR"
+        ],
+        "languages": {
+            "aze": "Azerbaijani",
+            "rus": "Russian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 86600.0,
+        "demonym": [
+            "Azerba\u00efdjanaise",
+            "Azerba\u00efdjanais",
+            "Azerbaijani"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/364110"
+        },
+        "legislature": [],
+        "population": 10110116,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AZ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".az"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

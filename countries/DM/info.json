@@ -1,0 +1,86 @@
+{
+    "DM": {
+        "name": {
+            "common": "Dominica",
+            "official": "Commonwealth of Dominica"
+        },
+        "country-codes": {
+            "alpha2": "DM",
+            "alpha3": "DMA",
+            "numeric": "212",
+            "ioc": "DMA"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "767"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/DM/flag.png",
+            "main-svg": "countries/DM/flag.svg",
+            "emoji": "\ud83c\udde9\ud83c\uddf2",
+            "emblem-png": "countries/DM/emblem.png",
+            "emblem-svg": "countries/DM/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "DM",
+            "Dominique",
+            "Wai\u2018tu kubuli",
+            "Commonwealth of Dominica"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/DM/anthem.mp3",
+        "capital": "Roseau",
+        "latlng": [
+            15.41666666,
+            -61.33333333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 751.0,
+        "demonym": [
+            "Dominiquaise",
+            "Dominiquais",
+            "Dominican"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307823"
+        },
+        "legislature": [],
+        "population": 71991,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "WD"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".dm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

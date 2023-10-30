@@ -1,0 +1,83 @@
+{
+    "NC": {
+        "name": {
+            "common": "New Caledonia",
+            "official": "New Caledonia"
+        },
+        "country-codes": {
+            "alpha2": "NC",
+            "alpha3": "NCL",
+            "numeric": "540",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "87"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NC/flag.png",
+            "main-svg": "countries/NC/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\udde8",
+            "emblem-png": "countries/NC/emblem.png",
+            "emblem-svg": "countries/NC/emblem.svg"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
+        "altSpellings": [
+            "NC"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "motto": [],
+        "anthem": "countries/NC/anthem.mp3",
+        "capital": "Noum\u00e9a",
+        "latlng": [
+            -21.5,
+            165.5
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 18575.0,
+        "demonym": [
+            "N\u00e9o-Cal\u00e9donien",
+            "New Caledonian",
+            "N\u00e9o-Cal\u00e9donienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/3407643"
+        },
+        "legislature": [],
+        "population": 271960,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".nc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

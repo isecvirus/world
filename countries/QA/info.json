@@ -1,0 +1,88 @@
+{
+    "QA": {
+        "name": {
+            "common": "Qatar",
+            "official": "State of Qatar"
+        },
+        "country-codes": {
+            "alpha2": "QA",
+            "alpha3": "QAT",
+            "numeric": "634",
+            "ioc": "QAT"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "74"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/QA/flag.png",
+            "main-svg": "countries/QA/flag.svg",
+            "emoji": "\ud83c\uddf6\ud83c\udde6",
+            "emblem-png": "countries/QA/emblem.png",
+            "emblem-svg": "countries/QA/emblem.svg"
+        },
+        "currencies": {
+            "QAR": {
+                "name": "Qatari riyal",
+                "symbol": "\u0631.\u0642"
+            }
+        },
+        "altSpellings": [
+            "QA",
+            "State of Qatar",
+            "Dawlat Qa\u1e6dar"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/QA/anthem.mp3",
+        "capital": "Doha",
+        "latlng": [
+            25.5,
+            51.25
+        ],
+        "borders": [
+            "SAU"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 11586.0,
+        "demonym": [
+            "Qatarienne",
+            "Qatari",
+            "Qatarien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
+        },
+        "legislature": [],
+        "population": 2881060,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "Q"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".qa",
+            "\u0642\u0637\u0631."
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

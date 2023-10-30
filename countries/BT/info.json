@@ -1,0 +1,91 @@
+{
+    "BT": {
+        "name": {
+            "common": "Bhutan",
+            "official": "Kingdom of Bhutan"
+        },
+        "country-codes": {
+            "alpha2": "BT",
+            "alpha3": "BTN",
+            "numeric": "064",
+            "ioc": "BHU"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "75"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BT/flag.png",
+            "main-svg": "countries/BT/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf9",
+            "emblem-png": "countries/BT/emblem.png",
+            "emblem-svg": "countries/BT/emblem.svg"
+        },
+        "currencies": {
+            "BTN": {
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu."
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\u20b9"
+            }
+        },
+        "altSpellings": [
+            "BT",
+            "Kingdom of Bhutan"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/BT/anthem.mp3",
+        "capital": "Thimphu",
+        "latlng": [
+            27.5,
+            90.5
+        ],
+        "borders": [
+            "CHN",
+            "IND"
+        ],
+        "languages": {
+            "dzo": "Dzongkha"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 38394.0,
+        "demonym": [
+            "Bhoutanaise",
+            "Bhoutanais",
+            "Bhutanese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/184629"
+        },
+        "legislature": [],
+        "population": 771612,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BHT"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".bt"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "GL": {
+        "name": {
+            "common": "Greenland",
+            "official": "Greenland"
+        },
+        "country-codes": {
+            "alpha2": "GL",
+            "alpha3": "GRL",
+            "numeric": "304",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "99"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GL/flag.png",
+            "main-svg": "countries/GL/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddf1",
+            "emblem-png": "countries/GL/emblem.png",
+            "emblem-svg": "countries/GL/emblem.svg"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "krone",
+                "symbol": "kr."
+            }
+        },
+        "altSpellings": [
+            "GL",
+            "Gr\u00f8nland"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "motto": [],
+        "anthem": "countries/GL/anthem.mp3",
+        "capital": "Nuuk",
+        "latlng": [
+            72.0,
+            -40.0
+        ],
+        "borders": [],
+        "languages": {
+            "kal": "Greenlandic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2166086.0,
+        "demonym": [
+            "Groenlandais",
+            "Groenlandaise",
+            "Greenlandic"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
+        },
+        "legislature": [],
+        "population": 56367,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC+00:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "DK"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gl"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

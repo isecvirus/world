@@ -1,0 +1,95 @@
+{
+    "TR": {
+        "name": {
+            "common": "Turkey",
+            "official": "Republic of Turkey"
+        },
+        "country-codes": {
+            "alpha2": "TR",
+            "alpha3": "TUR",
+            "numeric": "792",
+            "ioc": "TUR"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "0"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TR/flag.png",
+            "main-svg": "countries/TR/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddf7",
+            "emblem-png": "countries/TR/emblem.png",
+            "emblem-svg": "countries/TR/emblem.svg"
+        },
+        "currencies": {
+            "TRY": {
+                "name": "Turkish lira",
+                "symbol": "\u20ba"
+            }
+        },
+        "altSpellings": [
+            "TR",
+            "Turkiye",
+            "Republic of Turkey",
+            "T\u00fcrkiye Cumhuriyeti"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/TR/anthem.mp3",
+        "capital": "Ankara",
+        "latlng": [
+            39.0,
+            35.0
+        ],
+        "borders": [
+            "ARM",
+            "AZE",
+            "BGR",
+            "GEO",
+            "GRC",
+            "IRN",
+            "IRQ",
+            "SYR"
+        ],
+        "languages": {
+            "tur": "Turkish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 783562.0,
+        "demonym": [
+            "Turc",
+            "Turque",
+            "Turkish"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/174737"
+        },
+        "legislature": [],
+        "population": 84339067,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "TR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".tr"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

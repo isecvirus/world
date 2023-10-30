@@ -1,0 +1,89 @@
+{
+    "EE": {
+        "name": {
+            "common": "Estonia",
+            "official": "Republic of Estonia"
+        },
+        "country-codes": {
+            "alpha2": "EE",
+            "alpha3": "EST",
+            "numeric": "233",
+            "ioc": "EST"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "72"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/EE/flag.png",
+            "main-svg": "countries/EE/flag.svg",
+            "emoji": "\ud83c\uddea\ud83c\uddea",
+            "emblem-png": "countries/EE/emblem.png",
+            "emblem-svg": "countries/EE/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "EE",
+            "Eesti",
+            "Republic of Estonia",
+            "Eesti Vabariik"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/EE/anthem.mp3",
+        "capital": "Tallinn",
+        "latlng": [
+            59.0,
+            26.0
+        ],
+        "borders": [
+            "LVA",
+            "RUS"
+        ],
+        "languages": {
+            "est": "Estonian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 45227.0,
+        "demonym": [
+            "Estonienne",
+            "Estonien",
+            "Estonian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/79510"
+        },
+        "legislature": [],
+        "population": 1331057,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "EST"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ee"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

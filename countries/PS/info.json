@@ -1,0 +1,99 @@
+{
+    "PS": {
+        "name": {
+            "common": "Palestine",
+            "official": "State of Palestine"
+        },
+        "country-codes": {
+            "alpha2": "PS",
+            "alpha3": "PSE",
+            "numeric": "275",
+            "ioc": "PLE"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "70"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PS/flag.png",
+            "main-svg": "countries/PS/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddf8",
+            "emblem-png": "countries/PS/emblem.png",
+            "emblem-svg": "countries/PS/emblem.svg"
+        },
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "E\u00a3"
+            },
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\u20aa"
+            },
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "JD"
+            }
+        },
+        "altSpellings": [
+            "PS",
+            "Palestine, State of",
+            "State of Palestine",
+            "Dawlat Filas\u1e6din"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/PS/anthem.mp3",
+        "capital": "Ramallah",
+        "latlng": [
+            31.9,
+            35.2
+        ],
+        "borders": [
+            "ISR",
+            "EGY",
+            "JOR"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 6220.0,
+        "demonym": [
+            "Palestinienne",
+            "Palestinien",
+            "Palestinian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
+        },
+        "legislature": [],
+        "population": 4803269,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PS"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ps",
+            "\u0641\u0644\u0633\u0637\u064a\u0646."
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

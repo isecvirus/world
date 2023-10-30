@@ -1,0 +1,88 @@
+{
+    "BZ": {
+        "name": {
+            "common": "Belize",
+            "official": "Belize"
+        },
+        "country-codes": {
+            "alpha2": "BZ",
+            "alpha3": "BLZ",
+            "numeric": "084",
+            "ioc": "BIZ"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "01"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BZ/flag.png",
+            "main-svg": "countries/BZ/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddff",
+            "emblem-png": "countries/BZ/emblem.png",
+            "emblem-svg": "countries/BZ/emblem.svg"
+        },
+        "currencies": {
+            "BZD": {
+                "name": "Belize dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "BZ"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "motto": [],
+        "anthem": "countries/BZ/anthem.mp3",
+        "capital": "Belmopan",
+        "latlng": [
+            17.25,
+            -88.75
+        ],
+        "borders": [
+            "GTM",
+            "MEX"
+        ],
+        "languages": {
+            "bjz": "Belizean Creole",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 22966.0,
+        "demonym": [
+            "B\u00e9lizienne",
+            "B\u00e9lizien",
+            "Belizean"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
+        },
+        "legislature": [],
+        "population": 397621,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BH"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bz"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

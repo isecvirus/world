@@ -1,0 +1,100 @@
+{
+    "BO": {
+        "name": {
+            "common": "Bolivia",
+            "official": "Plurinational State of Bolivia"
+        },
+        "country-codes": {
+            "alpha2": "BO",
+            "alpha3": "BOL",
+            "numeric": "068",
+            "ioc": "BOL"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "91"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BO/flag.png",
+            "main-svg": "countries/BO/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf4",
+            "emblem-png": "countries/BO/emblem.png",
+            "emblem-svg": "countries/BO/emblem.svg"
+        },
+        "currencies": {
+            "BOB": {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        },
+        "altSpellings": [
+            "BO",
+            "Buliwya",
+            "Wuliwya",
+            "Bolivia, Plurinational State of",
+            "Plurinational State of Bolivia",
+            "Estado Plurinacional de Bolivia",
+            "Buliwya Mamallaqta",
+            "Wuliwya Suyu",
+            "Tet\u00e3 Vol\u00edvia"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/BO/anthem.mp3",
+        "capital": "Sucre",
+        "latlng": [
+            -17.0,
+            -65.0
+        ],
+        "borders": [
+            "ARG",
+            "BRA",
+            "CHL",
+            "PRY",
+            "PER"
+        ],
+        "languages": {
+            "aym": "Aymara",
+            "grn": "Guaran\u00ed",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1098581.0,
+        "demonym": [
+            "Bolivien",
+            "Bolivienne",
+            "Bolivian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+        },
+        "legislature": [],
+        "population": 11673029,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BOL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bo"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

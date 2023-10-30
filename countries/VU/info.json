@@ -1,0 +1,88 @@
+{
+    "VU": {
+        "name": {
+            "common": "Vanuatu",
+            "official": "Republic of Vanuatu"
+        },
+        "country-codes": {
+            "alpha2": "VU",
+            "alpha3": "VUT",
+            "numeric": "548",
+            "ioc": "VAN"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "78"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/VU/flag.png",
+            "main-svg": "countries/VU/flag.svg",
+            "emoji": "\ud83c\uddfb\ud83c\uddfa",
+            "emblem-png": "countries/VU/emblem.png",
+            "emblem-svg": "countries/VU/emblem.svg"
+        },
+        "currencies": {
+            "VUV": {
+                "name": "Vanuatu vatu",
+                "symbol": "Vt"
+            }
+        },
+        "altSpellings": [
+            "VU",
+            "Republic of Vanuatu",
+            "Ripablik blong Vanuatu",
+            "R\u00e9publique de Vanuatu"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "motto": [],
+        "anthem": "countries/VU/anthem.mp3",
+        "capital": "Port Vila",
+        "latlng": [
+            -16.0,
+            167.0
+        ],
+        "borders": [],
+        "languages": {
+            "bis": "Bislama",
+            "eng": "English",
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 12189.0,
+        "demonym": [
+            "Vanuatuan",
+            "Vanuatuane",
+            "Ni-Vanuatu"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
+        },
+        "legislature": [],
+        "population": 307150,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "VU"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".vu"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "SM": {
+        "name": {
+            "common": "San Marino",
+            "official": "Republic of San Marino"
+        },
+        "country-codes": {
+            "alpha2": "SM",
+            "alpha3": "SMR",
+            "numeric": "674",
+            "ioc": "SMR"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "78"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SM/flag.png",
+            "main-svg": "countries/SM/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddf2",
+            "emblem-png": "countries/SM/emblem.png",
+            "emblem-svg": "countries/SM/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "SM",
+            "Republic of San Marino",
+            "Repubblica di San Marino"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/SM/anthem.mp3",
+        "capital": "City of San Marino",
+        "latlng": [
+            43.76666666,
+            12.41666666
+        ],
+        "borders": [
+            "ITA"
+        ],
+        "languages": {
+            "ita": "Italian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 61.0,
+        "demonym": [
+            "Sammarinese",
+            "Saint-Marinais",
+            "Saint-Marinaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
+        },
+        "legislature": [],
+        "population": 33938,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RSM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".sm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "SZ": {
+        "name": {
+            "common": "Eswatini",
+            "official": "Kingdom of Eswatini"
+        },
+        "country-codes": {
+            "alpha2": "SZ",
+            "alpha3": "SWZ",
+            "numeric": "748",
+            "ioc": "SWZ"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "68"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SZ/flag.png",
+            "main-svg": "countries/SZ/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddff",
+            "emblem-png": "countries/SZ/emblem.png",
+            "emblem-svg": "countries/SZ/emblem.svg"
+        },
+        "currencies": {
+            "SZL": {
+                "name": "Swazi lilangeni",
+                "symbol": "L"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "altSpellings": [
+            "SZ",
+            "Swaziland",
+            "weSwatini",
+            "Swatini",
+            "Ngwane",
+            "Kingdom of Eswatini",
+            "Umbuso weSwatini"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "motto": [],
+        "anthem": "countries/SZ/anthem.mp3",
+        "capital": "Mbabane",
+        "latlng": [
+            -26.5,
+            31.5
+        ],
+        "borders": [
+            "MOZ",
+            "ZAF"
+        ],
+        "languages": {
+            "eng": "English",
+            "ssw": "Swazi"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 17364.0,
+        "demonym": [
+            "Swazie",
+            "Swazi"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+        },
+        "legislature": [],
+        "population": 1160164,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SD"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".sz"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

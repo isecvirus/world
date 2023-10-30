@@ -1,0 +1,90 @@
+{
+    "CL": {
+        "name": {
+            "common": "Chile",
+            "official": "Republic of Chile"
+        },
+        "country-codes": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "numeric": "152",
+            "ioc": "CHI"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CL/flag.png",
+            "main-svg": "countries/CL/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddf1",
+            "emblem-png": "countries/CL/emblem.png",
+            "emblem-svg": "countries/CL/emblem.svg"
+        },
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "CL",
+            "Republic of Chile",
+            "Rep\u00fablica de Chile"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/CL/anthem.mp3",
+        "capital": "Santiago",
+        "latlng": [
+            -30.0,
+            -71.0
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 756102.0,
+        "demonym": [
+            "Chilean",
+            "Chilienne",
+            "Chilien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+        },
+        "legislature": [],
+        "population": 19116209,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RCH"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cl"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

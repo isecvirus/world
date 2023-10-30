@@ -1,0 +1,92 @@
+{
+    "GQ": {
+        "name": {
+            "common": "Equatorial Guinea",
+            "official": "Republic of Equatorial Guinea"
+        },
+        "country-codes": {
+            "alpha2": "GQ",
+            "alpha3": "GNQ",
+            "numeric": "226",
+            "ioc": "GEQ"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "40"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GQ/flag.png",
+            "main-svg": "countries/GQ/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddf6",
+            "emblem-png": "countries/GQ/emblem.png",
+            "emblem-svg": "countries/GQ/emblem.svg"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "GQ",
+            "Republic of Equatorial Guinea",
+            "Rep\u00fablica de Guinea Ecuatorial",
+            "R\u00e9publique de Guin\u00e9e \u00e9quatoriale",
+            "Rep\u00fablica da Guin\u00e9 Equatorial"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/GQ/anthem.mp3",
+        "capital": "Malabo",
+        "latlng": [
+            2.0,
+            10.0
+        ],
+        "borders": [
+            "CMR",
+            "GAB"
+        ],
+        "languages": {
+            "fra": "French",
+            "por": "Portuguese",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 28051.0,
+        "demonym": [
+            "\u00c9quato-guin\u00e9enne",
+            "\u00c9quato-guin\u00e9en",
+            "Equatorial Guinean"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192791"
+        },
+        "legislature": [],
+        "population": 1402985,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GQ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gq"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

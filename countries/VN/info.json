@@ -1,0 +1,90 @@
+{
+    "VN": {
+        "name": {
+            "common": "Vietnam",
+            "official": "Socialist Republic of Vietnam"
+        },
+        "country-codes": {
+            "alpha2": "VN",
+            "alpha3": "VNM",
+            "numeric": "704",
+            "ioc": "VIE"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/VN/flag.png",
+            "main-svg": "countries/VN/flag.svg",
+            "emoji": "\ud83c\uddfb\ud83c\uddf3",
+            "emblem-png": "countries/VN/emblem.png",
+            "emblem-svg": "countries/VN/emblem.svg"
+        },
+        "currencies": {
+            "VND": {
+                "name": "Vietnamese \u0111\u1ed3ng",
+                "symbol": "\u20ab"
+            }
+        },
+        "altSpellings": [
+            "VN",
+            "Socialist Republic of Vietnam",
+            "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam",
+            "Viet Nam"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/VN/anthem.mp3",
+        "capital": "Hanoi",
+        "latlng": [
+            16.16666666,
+            107.83333333
+        ],
+        "borders": [
+            "KHM",
+            "CHN",
+            "LAO"
+        ],
+        "languages": {
+            "vie": "Vietnamese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 331212.0,
+        "demonym": [
+            "Vietnamien",
+            "Vietnamese",
+            "Vietnamienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/49915"
+        },
+        "legislature": [],
+        "population": 97338583,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "VN"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".vn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

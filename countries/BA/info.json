@@ -1,0 +1,90 @@
+{
+    "BA": {
+        "name": {
+            "common": "Bosnia and Herzegovina",
+            "official": "Bosnia and Herzegovina"
+        },
+        "country-codes": {
+            "alpha2": "BA",
+            "alpha3": "BIH",
+            "numeric": "070",
+            "ioc": "BIH"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "87"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BA/flag.png",
+            "main-svg": "countries/BA/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\udde6",
+            "emblem-png": "countries/BA/emblem.png",
+            "emblem-svg": "countries/BA/emblem.svg"
+        },
+        "currencies": {
+            "BAM": {
+                "name": "Bosnia and Herzegovina convertible mark"
+            }
+        },
+        "altSpellings": [
+            "BA",
+            "Bosnia-Herzegovina",
+            "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/BA/anthem.mp3",
+        "capital": "Sarajevo",
+        "latlng": [
+            44.0,
+            18.0
+        ],
+        "borders": [
+            "HRV",
+            "MNE",
+            "SRB"
+        ],
+        "languages": {
+            "bos": "Bosnian",
+            "hrv": "Croatian",
+            "srp": "Serbian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 51209.0,
+        "demonym": [
+            "Bosnien",
+            "Bosnian, Herzegovinian",
+            "Bosnienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2528142"
+        },
+        "legislature": [],
+        "population": 3280815,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BIH"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ba"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

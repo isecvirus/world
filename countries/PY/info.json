@@ -1,0 +1,91 @@
+{
+    "PY": {
+        "name": {
+            "common": "Paraguay",
+            "official": "Republic of Paraguay"
+        },
+        "country-codes": {
+            "alpha2": "PY",
+            "alpha3": "PRY",
+            "numeric": "600",
+            "ioc": "PAR"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "95"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PY/flag.png",
+            "main-svg": "countries/PY/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddfe",
+            "emblem-png": "countries/PY/emblem.png",
+            "emblem-svg": "countries/PY/emblem.svg"
+        },
+        "currencies": {
+            "PYG": {
+                "name": "Paraguayan guaran\u00ed",
+                "symbol": "\u20b2"
+            }
+        },
+        "altSpellings": [
+            "PY",
+            "Republic of Paraguay",
+            "Rep\u00fablica del Paraguay",
+            "Tet\u00e3 Paragu\u00e1i"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/PY/anthem.mp3",
+        "capital": "Asunci\u00f3n",
+        "latlng": [
+            -23.0,
+            -58.0
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "BRA"
+        ],
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 406752.0,
+        "demonym": [
+            "Paraguayan",
+            "Paraguayenne",
+            "Paraguayen"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
+        },
+        "legislature": [],
+        "population": 7132530,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PY"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".py"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

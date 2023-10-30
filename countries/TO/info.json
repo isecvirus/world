@@ -1,0 +1,84 @@
+{
+    "TO": {
+        "name": {
+            "common": "Tonga",
+            "official": "Kingdom of Tonga"
+        },
+        "country-codes": {
+            "alpha2": "TO",
+            "alpha3": "TON",
+            "numeric": "776",
+            "ioc": "TGA"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "76"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TO/flag.png",
+            "main-svg": "countries/TO/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddf4",
+            "emblem-png": "countries/TO/emblem.png",
+            "emblem-svg": "countries/TO/emblem.svg"
+        },
+        "currencies": {
+            "TOP": {
+                "name": "Tongan pa\u02bbanga",
+                "symbol": "T$"
+            }
+        },
+        "altSpellings": [
+            "TO"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/TO/anthem.mp3",
+        "capital": "Nuku'alofa",
+        "latlng": [
+            -20.0,
+            -175.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "ton": "Tongan"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 747.0,
+        "demonym": [
+            "Tongan",
+            "Tonguien",
+            "Tonguienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2186665"
+        },
+        "legislature": [],
+        "population": 105697,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "TO"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".to"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

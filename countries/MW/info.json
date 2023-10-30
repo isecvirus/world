@@ -1,0 +1,89 @@
+{
+    "MW": {
+        "name": {
+            "common": "Malawi",
+            "official": "Republic of Malawi"
+        },
+        "country-codes": {
+            "alpha2": "MW",
+            "alpha3": "MWI",
+            "numeric": "454",
+            "ioc": "MAW"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "65"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MW/flag.png",
+            "main-svg": "countries/MW/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddfc",
+            "emblem-png": "countries/MW/emblem.png",
+            "emblem-svg": "countries/MW/emblem.svg"
+        },
+        "currencies": {
+            "MWK": {
+                "name": "Malawian kwacha",
+                "symbol": "MK"
+            }
+        },
+        "altSpellings": [
+            "MW",
+            "Republic of Malawi"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/MW/anthem.mp3",
+        "capital": "Lilongwe",
+        "latlng": [
+            -13.5,
+            34.0
+        ],
+        "borders": [
+            "MOZ",
+            "TZA",
+            "ZMB"
+        ],
+        "languages": {
+            "eng": "English",
+            "nya": "Chewa"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 118484.0,
+        "demonym": [
+            "Malawian",
+            "Malawien",
+            "Malawienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
+        },
+        "legislature": [],
+        "population": 19129955,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MW"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".mw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

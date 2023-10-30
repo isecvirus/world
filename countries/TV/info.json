@@ -1,0 +1,87 @@
+{
+    "TV": {
+        "name": {
+            "common": "Tuvalu",
+            "official": "Tuvalu"
+        },
+        "country-codes": {
+            "alpha2": "TV",
+            "alpha3": "TUV",
+            "numeric": "798",
+            "ioc": "TUV"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "88"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TV/flag.png",
+            "main-svg": "countries/TV/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddfb",
+            "emblem-png": "countries/TV/emblem.png",
+            "emblem-svg": "countries/TV/emblem.svg"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "TVD": {
+                "name": "Tuvaluan dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "TV"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/TV/anthem.mp3",
+        "capital": "Funafuti",
+        "latlng": [
+            -8.0,
+            178.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "tvl": "Tuvaluan"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 26.0,
+        "demonym": [
+            "Tuvaluan",
+            "Tuvaluane"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2177266"
+        },
+        "legislature": [],
+        "population": 11792,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "TUV"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".tv"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

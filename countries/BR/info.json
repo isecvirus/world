@@ -1,0 +1,100 @@
+{
+    "BR": {
+        "name": {
+            "common": "Brazil",
+            "official": "Federative Republic of Brazil"
+        },
+        "country-codes": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "numeric": "076",
+            "ioc": "BRA"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "5"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BR/flag.png",
+            "main-svg": "countries/BR/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf7",
+            "emblem-png": "countries/BR/emblem.png",
+            "emblem-svg": "countries/BR/emblem.svg"
+        },
+        "currencies": {
+            "BRL": {
+                "name": "Brazilian real",
+                "symbol": "R$"
+            }
+        },
+        "altSpellings": [
+            "BR",
+            "Brasil",
+            "Federative Republic of Brazil",
+            "Rep\u00fablica Federativa do Brasil"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/BR/anthem.mp3",
+        "capital": "Bras\u00edlia",
+        "latlng": [
+            -10.0,
+            -55.0
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "COL",
+            "GUF",
+            "GUY",
+            "PRY",
+            "PER",
+            "SUR",
+            "URY",
+            "VEN"
+        ],
+        "languages": {
+            "por": "Portuguese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 8515767.0,
+        "demonym": [
+            "Brazilian",
+            "Br\u00e9silien",
+            "Br\u00e9silienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+        },
+        "legislature": [],
+        "population": 212559409,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".br"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

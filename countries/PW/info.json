@@ -1,0 +1,86 @@
+{
+    "PW": {
+        "name": {
+            "common": "Palau",
+            "official": "Republic of Palau"
+        },
+        "country-codes": {
+            "alpha2": "PW",
+            "alpha3": "PLW",
+            "numeric": "585",
+            "ioc": "PLW"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "80"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PW/flag.png",
+            "main-svg": "countries/PW/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddfc",
+            "emblem-png": "countries/PW/emblem.png",
+            "emblem-svg": "countries/PW/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "PW",
+            "Republic of Palau",
+            "Beluu er a Belau"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "motto": [],
+        "anthem": "countries/PW/anthem.mp3",
+        "capital": "Ngerulmud",
+        "latlng": [
+            7.5,
+            134.5
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "pau": "Palauan"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 459.0,
+        "demonym": [
+            "Palauan",
+            "Paluane",
+            "Paluan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
+        },
+        "legislature": [],
+        "population": 18092,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PAL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

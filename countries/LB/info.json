@@ -1,0 +1,89 @@
+{
+    "LB": {
+        "name": {
+            "common": "Lebanon",
+            "official": "Lebanese Republic"
+        },
+        "country-codes": {
+            "alpha2": "LB",
+            "alpha3": "LBN",
+            "numeric": "422",
+            "ioc": "LBN"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "61"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LB/flag.png",
+            "main-svg": "countries/LB/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\udde7",
+            "emblem-png": "countries/LB/emblem.png",
+            "emblem-svg": "countries/LB/emblem.svg"
+        },
+        "currencies": {
+            "LBP": {
+                "name": "Lebanese pound",
+                "symbol": "\u0644.\u0644"
+            }
+        },
+        "altSpellings": [
+            "LB",
+            "Lebanese Republic",
+            "Al-Jumh\u016br\u012byah Al-Libn\u0101n\u012byah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/LB/anthem.mp3",
+        "capital": "Beirut",
+        "latlng": [
+            33.83333333,
+            35.83333333
+        ],
+        "borders": [
+            "ISR",
+            "SYR"
+        ],
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 10452.0,
+        "demonym": [
+            "Libanaise",
+            "Libanais",
+            "Lebanese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
+        },
+        "legislature": [],
+        "population": 6825442,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".lb"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

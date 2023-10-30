@@ -1,0 +1,96 @@
+{
+    "IN": {
+        "name": {
+            "common": "India",
+            "official": "Republic of India"
+        },
+        "country-codes": {
+            "alpha2": "IN",
+            "alpha3": "IND",
+            "numeric": "356",
+            "ioc": "IND"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/IN/flag.png",
+            "main-svg": "countries/IN/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\uddf3",
+            "emblem-png": "countries/IN/emblem.png",
+            "emblem-svg": "countries/IN/emblem.svg"
+        },
+        "currencies": {
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\u20b9"
+            }
+        },
+        "altSpellings": [
+            "IN",
+            "Bh\u0101rat",
+            "Republic of India",
+            "Bharat Ganrajya",
+            "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/IN/anthem.mp3",
+        "capital": "New Delhi",
+        "latlng": [
+            20.0,
+            77.0
+        ],
+        "borders": [
+            "BGD",
+            "BTN",
+            "MMR",
+            "CHN",
+            "NPL",
+            "PAK"
+        ],
+        "languages": {
+            "eng": "English",
+            "hin": "Hindi",
+            "tam": "Tamil"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 3287590.0,
+        "demonym": [
+            "Indian",
+            "Indien",
+            "Indienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+        },
+        "legislature": [],
+        "population": 1380004385,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "IND"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".in"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

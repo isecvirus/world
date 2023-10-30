@@ -1,0 +1,94 @@
+{
+    "TH": {
+        "name": {
+            "common": "Thailand",
+            "official": "Kingdom of Thailand"
+        },
+        "country-codes": {
+            "alpha2": "TH",
+            "alpha3": "THA",
+            "numeric": "764",
+            "ioc": "THA"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TH/flag.png",
+            "main-svg": "countries/TH/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\udded",
+            "emblem-png": "countries/TH/emblem.png",
+            "emblem-svg": "countries/TH/emblem.svg"
+        },
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "\u0e3f"
+            }
+        },
+        "altSpellings": [
+            "TH",
+            "Prathet",
+            "Thai",
+            "Kingdom of Thailand",
+            "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
+            "Ratcha Anachak Thai"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/TH/anthem.mp3",
+        "capital": "Bangkok",
+        "latlng": [
+            15.0,
+            100.0
+        ],
+        "borders": [
+            "MMR",
+            "KHM",
+            "LAO",
+            "MYS"
+        ],
+        "languages": {
+            "tha": "Thai"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 513120.0,
+        "demonym": [
+            "Tha\u00eflandais",
+            "Tha\u00eflandaise",
+            "Thai"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
+        },
+        "legislature": [],
+        "population": 69799978,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "T"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".th",
+            ".\u0e44\u0e17\u0e22"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "AG": {
+        "name": {
+            "common": "Antigua and Barbuda",
+            "official": "Antigua and Barbuda"
+        },
+        "country-codes": {
+            "alpha2": "AG",
+            "alpha3": "ATG",
+            "numeric": "028",
+            "ioc": "ANT"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "268"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AG/flag.png",
+            "main-svg": "countries/AG/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddec",
+            "emblem-png": "countries/AG/emblem.png",
+            "emblem-svg": "countries/AG/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "AG"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/AG/anthem.mp3",
+        "capital": "Saint John's",
+        "latlng": [
+            17.05,
+            -61.8
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 442.0,
+        "demonym": [
+            "Antiguaise et barbudienne",
+            "Antiguaise et barbudien",
+            "Antiguan, Barbudan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/536900"
+        },
+        "legislature": [],
+        "population": 97928,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AG"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ag"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "CN": {
+        "name": {
+            "common": "China",
+            "official": "People's Republic of China"
+        },
+        "country-codes": {
+            "alpha2": "CN",
+            "alpha3": "CHN",
+            "numeric": "156",
+            "ioc": "CHN"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CN/flag.png",
+            "main-svg": "countries/CN/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddf3",
+            "emblem-png": "countries/CN/emblem.png",
+            "emblem-svg": "countries/CN/emblem.svg"
+        },
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\u00a5"
+            }
+        },
+        "altSpellings": [
+            "CN",
+            "Zh\u014dnggu\u00f3",
+            "Zhongguo",
+            "Zhonghua",
+            "People's Republic of China",
+            "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+            "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/CN/anthem.mp3",
+        "capital": "Beijing",
+        "latlng": [
+            35.0,
+            105.0
+        ],
+        "borders": [
+            "AFG",
+            "BTN",
+            "MMR",
+            "HKG",
+            "IND",
+            "KAZ",
+            "NPL",
+            "PRK",
+            "KGZ",
+            "LAO",
+            "MAC",
+            "MNG",
+            "PAK",
+            "RUS",
+            "TJK",
+            "VNM"
+        ],
+        "languages": {
+            "zho": "Chinese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 9706961.0,
+        "demonym": [
+            "Chinoise",
+            "Chinois",
+            "Chinese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+        },
+        "legislature": [],
+        "population": 1402112000,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RC"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cn",
+            ".\u4e2d\u56fd",
+            ".\u4e2d\u570b",
+            ".\u516c\u53f8",
+            ".\u7f51\u7edc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

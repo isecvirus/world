@@ -1,0 +1,91 @@
+{
+    "MA": {
+        "name": {
+            "common": "Morocco",
+            "official": "Kingdom of Morocco"
+        },
+        "country-codes": {
+            "alpha2": "MA",
+            "alpha3": "MAR",
+            "numeric": "504",
+            "ioc": "MAR"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "12"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MA/flag.png",
+            "main-svg": "countries/MA/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\udde6",
+            "emblem-png": "countries/MA/emblem.png",
+            "emblem-svg": "countries/MA/emblem.svg"
+        },
+        "currencies": {
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "\u062f.\u0645."
+            }
+        },
+        "altSpellings": [
+            "MA",
+            "Kingdom of Morocco",
+            "Al-Mamlakah al-Ma\u0121ribiyah"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "motto": [],
+        "anthem": "countries/MA/anthem.mp3",
+        "capital": "Rabat",
+        "latlng": [
+            32.0,
+            -5.0
+        ],
+        "borders": [
+            "DZA",
+            "ESH",
+            "ESP"
+        ],
+        "languages": {
+            "ara": "Arabic",
+            "ber": "Berber"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 446550.0,
+        "demonym": [
+            "Marocain",
+            "Marocaine",
+            "Moroccan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/3630439"
+        },
+        "legislature": [],
+        "population": 36910558,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ma",
+            "\u0627\u0644\u0645\u063a\u0631\u0628."
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

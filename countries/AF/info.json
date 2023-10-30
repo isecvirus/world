@@ -1,0 +1,455 @@
+{
+  "AF": {
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan"
+    },
+    "country-codes": {
+      "alpha2": "AF",
+      "alpha3": "AFG",
+      "numeric": "004",
+      "ioc": "AFG"
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "phone-number": {
+      "area-code": {
+        "Badghis": "41",
+        "Badkhshan": "52",
+        "Baghlan": "58",
+        "Balkh": "50",
+        "Bamian": "23",
+        "Dorkondi": "26",
+        "Farah": "43",
+        "Faryab": "57",
+        "Ghazni": "31",
+        "Ghowr": "42",
+        "Heart": "40",
+        "Helmand": "34",
+        "Jowzjan": "54",
+        "Kabul": "20",
+        "Kandahar": "30",
+        "Kapisa": "22",
+        "Khost": "27",
+        "Kunarha": "62",
+        "Kunduz": "51",
+        "Laghman": "63",
+        "Logar": "25",
+        "Nangarhar": "60",
+        "Nimruz": "44",
+        "Nurestan": "61",
+        "Paktia": "64",
+        "Paktika": "65",
+        "Panjshar": "28",
+        "Parwan": "21",
+        "Samangan": "55",
+        "Sar-E Pol": "56",
+        "Takhar": "53",
+        "Uruzgan": "32",
+        "Wardak": "24",
+        "Zabol": "33"
+      },
+      "fixed-landline-codes": {
+        "094 xx yyyyyyy": "Afghanistan",
+        "020 yyy yyyy": "Kabul",
+        "026 yyy yyyy": "Daykundi",
+        "030 yyy yyyy": "Kandahar",
+        "040 yyy yyyy": "Herat",
+        "050 yyy yyyy": "Mazar-i-Sharif",
+        "060 yyy yyyy": "Jalalabad",
+        "070 yyy yyyy": "Gardez"
+      },
+      "access-codes": {
+        "international-call-prefix": "00",
+        "trunk-prefix": "0"
+      },
+      "format": {
+        "xx": "is the area code (two digits long)",
+        "y": "is the number"
+      }
+    },
+    "flag": {
+      "main-png": "countries/AF/flag.png",
+      "main-svg": "countries/AF/flag.svg",
+      "emoji": "🇦🇫",
+      "emblem-svg": "countries/AF/emblem.png",
+      "emblem-png": "countries/AF/emblem.svg"
+    },
+    "currencies": {
+      "AFN": {
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    },
+    "altSpellings": [
+      "AF",
+      "Afġānistān"
+    ],
+    "region": "asia",
+    "subregion": "southern asia",
+    "translations": {
+      "ara": {
+        "official": "جمهورية أففانستان الإسلامية",
+        "common": "أفغانستان"
+      },
+      "bre": {
+        "official": "Republik Islamek Afghanistan",
+        "common": "Afghanistan"
+      },
+      "ces": {
+        "official": "Afghánská islámská republika",
+        "common": "Afghánistán"
+      },
+      "cym": {
+        "official": "Gweriniaeth Islamaidd Affganistan",
+        "common": "Affganistan"
+      },
+      "deu": {
+        "official": "Islamische Republik Afghanistan",
+        "common": "Afghanistan"
+      },
+      "est": {
+        "official": "Afganistani Islamivabariik",
+        "common": "Afganistan"
+      },
+      "fin": {
+        "official": "Afganistanin islamilainen tasavalta",
+        "common": "Afganistan"
+      },
+      "fra": {
+        "official": "République islamique d'Afghanistan",
+        "common": "Afghanistan"
+      },
+      "hrv": {
+        "official": "Islamska Republika Afganistan",
+        "common": "Afganistan"
+      },
+      "hun": {
+        "official": "Afganisztáni Iszlám Köztársaság",
+        "common": "Afganisztán"
+      },
+      "ita": {
+        "official": "Repubblica islamica dell'Afghanistan",
+        "common": "Afghanistan"
+      },
+      "jpn": {
+        "official": "アフガニスタン·イスラム共和国",
+        "common": "アフガニスタン"
+      },
+      "kor": {
+        "official": "아프가니스탄 이슬람 공화국",
+        "common": "아프가니스탄"
+      },
+      "nld": {
+        "official": "Islamitische Republiek Afghanistan",
+        "common": "Afghanistan"
+      },
+      "per": {
+        "official": "جمهوری اسلامی افغانستان",
+        "common": "افغانستان"
+      },
+      "pol": {
+        "official": "Islamska Republika Afganistanu",
+        "common": "Afganistan"
+      },
+      "por": {
+        "official": "República Islâmica do Afeganistão",
+        "common": "Afeganistão"
+      },
+      "rus": {
+        "official": "Исламская Республика Афганистан",
+        "common": "Афганистан"
+      },
+      "slk": {
+        "official": "Afgánsky islamský štát",
+        "common": "Afganistan"
+      },
+      "spa": {
+        "official": "República Islámica de Afganistán",
+        "common": "Afganistán"
+      },
+      "swe": {
+        "official": "Islamiska republiken Afghanistan",
+        "common": "Afghanistan"
+      },
+      "tur": {
+        "official": "Afganistan İslam Cumhuriyeti",
+        "common": "Afganistan"
+      },
+      "urd": {
+        "official": "اسلامی جمہوریہ افغانستان",
+        "common": "افغانستان"
+      },
+      "zho": {
+        "official": "阿富汗伊斯兰共和国",
+        "common": "阿富汗"
+      }
+    },
+    "motto": [
+      "There is no god but God, Muhammad is the messenger of God",
+      "\u0644\u064e\u0627\u0020\u0625\u0650\u0644\u0670\u0647\u064e\u0020\u0625\u0650\u0644\u064e\u0651\u0627\u0020\u0671\u0644\u0644\u0647\u060c\u0020\u0645\u064f\u062d\u064e\u0645\u064e\u0651\u062f\u064c\u0020\u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064f\u0020\u0671\u0644\u0644\u0647"
+    ],
+    "anthem": "countries\\AF\\anthem.wav",
+    "capital": "Kabul",
+    "latlng": [
+      33.0,
+      65.0
+    ],
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "languages": [
+      "Pashto",
+      "Dari",
+      "Turkmen"
+    ],
+    "ethnic-groups": {
+      "Pashtun": 42,
+      "Tajik": 27,
+      "Hazara": 9,
+      "Uzbek": 9,
+      "Aimaq": 4,
+      "Turkmen": 3,
+      "Baloch": 2
+    },
+    "religion": {
+      "islam (official)": 99.7
+    },
+    "area": 652230,
+    "demonym": [
+      "Afghan"
+    ],
+    "establishment": {
+      "Hotak dynasty": "1709–1738",
+      "Durrani Empire": "1747–1823",
+      "Emirate": "1823–1839",
+      "Restoration of the Durrani Kingdom": "1839–1842",
+      "Restoration of the Emirate": "1842–1926",
+      "Dost Mohammad unites Afghanistan": "27 May 1863",
+      "Anglo-Afghan Agreement": "26 May 1879",
+      "Independence": "19 August 1919",
+      "Kingdom": "9 June 1926",
+      "Republic": "17 July 1973",
+      "Democratic Republic": "27–28 April 1978",
+      "Islamic State": "28 April 1992",
+      "Islamic Emirate": "27 September 1996",
+      "Islamic Republic": "26 January 2004",
+      "Restoration of Islamic Emirate": "15 August 2021"
+    },
+    "government": {
+      "Supreme Leader": "Hibatullah Akhundzada",
+      "Prime Minister": "Hasan Akhund (acting)",
+      "Chief Justice": "Abdul Hakim Ishaqzai"
+    },
+    "legislature": [
+      "Leadership Council"
+    ],
+    "population": 38346720,
+    "landlocked": true,
+    "independent": true,
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/303427"
+    },
+    "timezones": [
+      "UTC+4:30"
+    ],
+    "date-format": "dd/mm/yyyy",
+    "car": {
+      "signs": [
+        "AFG"
+      ],
+      "side": "right"
+    },
+    "tld": [
+      "af",
+      "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "cities": {
+      "Kabul": {
+        "province": "Kabul",
+        "population": 13500000
+      },
+      "Kandahar": {
+        "province": "Kandahar",
+        "population": 1500000
+      },
+      "Herat": {
+        "province": "Herat",
+        "population": 2345000
+      },
+      "Mazar-i-Sharif": {
+        "province": "Balkh",
+        "population": 1905567
+      },
+      "Kunduz": {
+        "province": "Kunduz",
+        "population": 970000
+      },
+      "Jalalabad": {
+        "province": "Nangarhar",
+        "population": 1900000
+      },
+      "Taloqan": {
+        "province": "Takhar",
+        "population": 700000
+      },
+      "Puli Khumri": {
+        "province": "Baghlan",
+        "population": 679000
+      },
+      "Charikar": {
+        "province": "Parwan",
+        "population": 450000
+      },
+      "Lashkargah": {
+        "province": "Helmand",
+        "population": 1000000
+      },
+      "Sheberghan": {
+        "province": "Jowzjan",
+        "population": 400000
+      },
+      "Ghazni": {
+        "province": "Ghazni",
+        "population": 675909
+      },
+      "Khost": {
+        "province": "Khost",
+        "population": 432000
+      },
+      "Sar-e Pol": {
+        "province": "Sar-e Pol",
+        "population": 390000
+      },
+      "Chaghcharan": {
+        "province": "Ghor",
+        "population": 290000
+      },
+      "Mihtarlam": {
+        "province": "Laghman",
+        "population": 230000
+      },
+      "Farah": {
+        "province": "Farah",
+        "population": 590000
+      },
+      "Puli Alam": {
+        "province": "Logar",
+        "population": 199000
+      }
+    },
+    "startOfWeek": "monday",
+    "keywords": [
+      "Afghanistan",
+      "War in Afghanistan (2001-2021)",
+      "Soviet-Afghan War",
+      "Provinces of Afghanistan",
+      "Afghans",
+      "Afghan",
+      "President of Afghanistan",
+      "Afghanistan conflict (1978-present)",
+      "History of Afghanistan",
+      "Taliban",
+      "Economy of Afghanistan",
+      "War in Afghanistan",
+      "Emblem of Afghanistan",
+      "Demographics of Afghanistan",
+      "Flag of Afghanistan",
+      "Afghanistan-Pakistan relations",
+      "List of heads of state of Afghanistan",
+      "Republic of Afghanistan",
+      "United States invasion of Afghanistan",
+      "Afghan Armed Forces",
+      "Pashtuns",
+      "Time in Afghanistan",
+      "Durand Line",
+      "Women in Afghanistan",
+      "List of wars involving Afghanistan",
+      "List of cities in Afghanistan",
+      "Kingdom of Afghanistan",
+      "Democratic Republic of Afghanistan",
+      "Afghan Army",
+      "The Afghan",
+      "Afghanistan-India relations",
+      "Afghan mujahideen",
+      "Energy in Afghanistan",
+      "Ethnic groups in Afghanistan",
+      "Anglo-Afghan War",
+      "Kabul",
+      "Islamic Republic of Afghanistan",
+      "Afghan cuisine",
+      "Languages of Afghanistan",
+      "Afghanistan-United States relations",
+      "Emirate of Afghanistan",
+      "Afghanistan Premier League",
+      "Rail transport in Afghanistan",
+      "Geography of Afghanistan",
+      "Ministry of Defense (Afghanistan)",
+      "Cabinet of Afghanistan",
+      "Third Anglo-Afghan War",
+      "Afghanistan national football team",
+      "2022 in Afghanistan",
+      "Balochistan, Afghanistan",
+      "COVID-19 pandemic in Afghanistan",
+      "Dari",
+      "Afghanistan-Pakistan border skirmishes",
+      "Christianity in Afghanistan",
+      "2023 in Afghanistan",
+      "Politics of Afghanistan",
+      "Foreign relations of Afghanistan",
+      "Government of Afghanistan",
+      "List of diplomatic missions of Afghanistan",
+      "Afghanistan national cricket team",
+      "Tajiks",
+      "Withdrawal of United States troops from Afghanistan",
+      "Transitional Islamic State of Afghanistan",
+      "Fall of Kabul (2021)",
+      "Afghanistan-China relations",
+      "Operational Service Medal for Afghanistan",
+      "Prime Minister of Afghanistan",
+      "Afghan diaspora",
+      "Transport in Afghanistan",
+      "Afghan Hound",
+      "Islamic State of Afghanistan",
+      "Withdrawal of United States troops from Afghanistan (2020-2021)",
+      "First Anglo-Afghan War",
+      "List of Afghanistan War (2001-2021) documentaries",
+      "Supreme Leader of Afghanistan",
+      "Operation Herrick",
+      "Afghan afghani",
+      "Hazaras",
+      "Afghanistan Campaign Medal",
+      "Afghanistan National Television",
+      "Ministry of Foreign Affairs (Afghanistan)",
+      "Public holidays in Afghanistan",
+      "2020-2023 ICC Cricket World Cup Super League",
+      "Second Anglo-Afghan War",
+      "Operation Enduring Freedom",
+      "Afghanistan (disambiguation)",
+      "Civilian casualties in the war in Afghanistan (2001-2021)",
+      "Football in Afghanistan",
+      "History of the Jews in Afghanistan",
+      "Culture of Afghanistan",
+      "Afghanistan Liberation Organization",
+      "Hinduism in Afghanistan",
+      "Islamic Emirate of Afghanistan (1996-2001)",
+      "Afghanistan Mujahedin Freedom Fighters Front",
+      "Recognition of the Islamic Emirate of Afghanistan",
+      "Invasions of Afghanistan",
+      "Religion in Afghanistan",
+      "Education in Afghanistan",
+      "List of airports in Afghanistan",
+      "Ahmad Shah Khan, Crown Prince of Afghanistan"
+    ]
+  }
+}

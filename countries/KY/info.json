@@ -1,0 +1,83 @@
+{
+    "KY": {
+        "name": {
+            "common": "Cayman Islands",
+            "official": "Cayman Islands"
+        },
+        "country-codes": {
+            "alpha2": "KY",
+            "alpha3": "CYM",
+            "numeric": "136",
+            "ioc": "CAY"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "345"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KY/flag.png",
+            "main-svg": "countries/KY/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddfe",
+            "emblem-png": "countries/KY/emblem.png",
+            "emblem-svg": "countries/KY/emblem.svg"
+        },
+        "currencies": {
+            "KYD": {
+                "name": "Cayman Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "KY"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/KY/anthem.mp3",
+        "capital": "George Town",
+        "latlng": [
+            19.3133,
+            81.2546
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 264.0,
+        "demonym": [
+            "Caymanian",
+            "Ca\u00efmanien",
+            "Ca\u00efmanienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/7269765"
+        },
+        "legislature": [],
+        "population": 65720,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ky"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

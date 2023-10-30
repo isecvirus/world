@@ -1,0 +1,83 @@
+{
+    "CC": {
+        "name": {
+            "common": "Cocos (Keeling) Islands",
+            "official": "Territory of the Cocos (Keeling) Islands"
+        },
+        "country-codes": {
+            "alpha2": "CC",
+            "alpha3": "CCK",
+            "numeric": "166",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CC/flag.png",
+            "main-svg": "countries/CC/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\udde8",
+            "emblem-png": "countries/CC/emblem.png",
+            "emblem-svg": "countries/CC/emblem.svg"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "CC",
+            "Keeling Islands",
+            "Cocos Islands"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "motto": [],
+        "anthem": "countries/CC/anthem.mp3",
+        "capital": "West Island",
+        "latlng": [
+            12.1642,
+            96.871
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 14.0,
+        "demonym": [
+            "Cocos Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/3eCdKVpVfMcZyKcK6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/82636"
+        },
+        "legislature": [],
+        "population": 544,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AUS"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".cc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

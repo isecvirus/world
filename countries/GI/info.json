@@ -1,0 +1,85 @@
+{
+    "GI": {
+        "name": {
+            "common": "Gibraltar",
+            "official": "Gibraltar"
+        },
+        "country-codes": {
+            "alpha2": "GI",
+            "alpha3": "GIB",
+            "numeric": "292",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "50"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GI/flag.png",
+            "main-svg": "countries/GI/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddee",
+            "emblem-png": "countries/GI/emblem.png",
+            "emblem-svg": "countries/GI/emblem.svg"
+        },
+        "currencies": {
+            "GIP": {
+                "name": "Gibraltar pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "GI"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/GI/anthem.mp3",
+        "capital": "Gibraltar",
+        "latlng": [
+            36.13333333,
+            -5.35
+        ],
+        "borders": [
+            "ESP"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 6.0,
+        "demonym": [
+            "Gibraltarien",
+            "Gibraltarienne",
+            "Gibraltar"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
+        },
+        "legislature": [],
+        "population": 33691,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GBZ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gi"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

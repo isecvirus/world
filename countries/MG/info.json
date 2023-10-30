@@ -1,0 +1,86 @@
+{
+    "MG": {
+        "name": {
+            "common": "Madagascar",
+            "official": "Republic of Madagascar"
+        },
+        "country-codes": {
+            "alpha2": "MG",
+            "alpha3": "MDG",
+            "numeric": "450",
+            "ioc": "MAD"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "61"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MG/flag.png",
+            "main-svg": "countries/MG/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddec",
+            "emblem-png": "countries/MG/emblem.png",
+            "emblem-svg": "countries/MG/emblem.svg"
+        },
+        "currencies": {
+            "MGA": {
+                "name": "Malagasy ariary",
+                "symbol": "Ar"
+            }
+        },
+        "altSpellings": [
+            "MG",
+            "Republic of Madagascar",
+            "Repoblikan'i Madagasikara",
+            "R\u00e9publique de Madagascar"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/MG/anthem.mp3",
+        "capital": "Antananarivo",
+        "latlng": [
+            -20.0,
+            47.0
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French",
+            "mlg": "Malagasy"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 587041.0,
+        "demonym": [
+            "Malgache",
+            "Malagasy"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/447325"
+        },
+        "legislature": [],
+        "population": 27691019,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mg"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

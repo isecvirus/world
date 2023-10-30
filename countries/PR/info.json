@@ -1,0 +1,87 @@
+{
+    "PR": {
+        "name": {
+            "common": "Puerto Rico",
+            "official": "Commonwealth of Puerto Rico"
+        },
+        "country-codes": {
+            "alpha2": "PR",
+            "alpha3": "PRI",
+            "numeric": "630",
+            "ioc": "PUR"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "787",
+                "939"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PR/flag.png",
+            "main-svg": "countries/PR/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddf7",
+            "emblem-png": "countries/PR/emblem.png",
+            "emblem-svg": "countries/PR/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "PR",
+            "Commonwealth of Puerto Rico",
+            "Estado Libre Asociado de Puerto Rico"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/PR/anthem.mp3",
+        "capital": "San Juan",
+        "latlng": [
+            18.25,
+            -66.5
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 8870.0,
+        "demonym": [
+            "Portoricain",
+            "Puerto Rican",
+            "Portoricaine"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
+        },
+        "legislature": [],
+        "population": 3194034,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pr"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

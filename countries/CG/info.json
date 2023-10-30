@@ -1,0 +1,93 @@
+{
+    "CG": {
+        "name": {
+            "common": "Republic of the Congo",
+            "official": "Republic of the Congo"
+        },
+        "country-codes": {
+            "alpha2": "CG",
+            "alpha3": "COG",
+            "numeric": "178",
+            "ioc": "CGO"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "42"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CG/flag.png",
+            "main-svg": "countries/CG/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddec",
+            "emblem-png": "countries/CG/emblem.png",
+            "emblem-svg": "countries/CG/emblem.svg"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "CG",
+            "Congo",
+            "Congo-Brazzaville"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/CG/anthem.mp3",
+        "capital": "Brazzaville",
+        "latlng": [
+            -1.0,
+            15.0
+        ],
+        "borders": [
+            "AGO",
+            "CMR",
+            "CAF",
+            "COD",
+            "GAB"
+        ],
+        "languages": {
+            "fra": "French",
+            "kon": "Kikongo",
+            "lin": "Lingala"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 342000.0,
+        "demonym": [
+            "Congolais",
+            "Congolese",
+            "Congolaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192794"
+        },
+        "legislature": [],
+        "population": 5657000,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RCB"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cg"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

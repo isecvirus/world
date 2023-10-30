@@ -1,0 +1,88 @@
+{
+    "MD": {
+        "name": {
+            "common": "Moldova",
+            "official": "Republic of Moldova"
+        },
+        "country-codes": {
+            "alpha2": "MD",
+            "alpha3": "MDA",
+            "numeric": "498",
+            "ioc": "MDA"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "73"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MD/flag.png",
+            "main-svg": "countries/MD/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\udde9",
+            "emblem-png": "countries/MD/emblem.png",
+            "emblem-svg": "countries/MD/emblem.svg"
+        },
+        "currencies": {
+            "MDL": {
+                "name": "Moldovan leu",
+                "symbol": "L"
+            }
+        },
+        "altSpellings": [
+            "MD",
+            "Moldova, Republic of",
+            "Republic of Moldova",
+            "Republica Moldova"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "motto": [],
+        "anthem": "countries/MD/anthem.mp3",
+        "capital": "Chi\u0219in\u0103u",
+        "latlng": [
+            47.0,
+            29.0
+        ],
+        "borders": [
+            "ROU",
+            "UKR"
+        ],
+        "languages": {
+            "ron": "Romanian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 33846.0,
+        "demonym": [
+            "Moldave",
+            "Moldovan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
+        },
+        "legislature": [],
+        "population": 2617820,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MD"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".md"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

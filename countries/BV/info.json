@@ -1,0 +1,76 @@
+{
+    "BV": {
+        "name": {
+            "common": "Bouvet Island",
+            "official": "Bouvet Island"
+        },
+        "country-codes": {
+            "alpha2": "BV",
+            "alpha3": "BVT",
+            "numeric": "074",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "7"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BV/flag.png",
+            "main-svg": "countries/BV/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddfb",
+            "emblem-png": "countries/BV/emblem.png",
+            "emblem-svg": "countries/BV/emblem.svg"
+        },
+        "currencies": {},
+        "altSpellings": [
+            "BV",
+            "Bouvet\u00f8ya",
+            "Bouvet-\u00f8ya"
+        ],
+        "region": "Antarctic",
+        "subregion": "",
+        "motto": [],
+        "anthem": "countries/BV/anthem.mp3",
+        "capital": "",
+        "latlng": [
+            54.4208,
+            3.3464
+        ],
+        "borders": [],
+        "languages": {
+            "nor": "Norwegian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 49.0,
+        "demonym": [],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
+            "openStreetMaps": "https://www.openstreetmap.org/way/174996681"
+        },
+        "legislature": [],
+        "population": 0,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bv"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

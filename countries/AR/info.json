@@ -1,0 +1,91 @@
+{
+    "AR": {
+        "name": {
+            "common": "Argentina",
+            "official": "Argentine Republic"
+        },
+        "country-codes": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "numeric": "032",
+            "ioc": "ARG"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AR/flag.png",
+            "main-svg": "countries/AR/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddf7",
+            "emblem-png": "countries/AR/emblem.png",
+            "emblem-svg": "countries/AR/emblem.svg"
+        },
+        "currencies": {
+            "ARS": {
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "AR",
+            "Argentine Republic",
+            "Rep\u00fablica Argentina"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/AR/anthem.mp3",
+        "capital": "Buenos Aires",
+        "latlng": [
+            -34.0,
+            -64.0
+        ],
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "PRY",
+            "URY"
+        ],
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2780400.0,
+        "demonym": [
+            "Argentin",
+            "Argentine"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+        },
+        "legislature": [],
+        "population": 45376763,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ar"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

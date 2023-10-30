@@ -1,0 +1,73 @@
+{
+    "HM": {
+        "name": {
+            "common": "Heard Island and McDonald Islands",
+            "official": "Heard Island and McDonald Islands"
+        },
+        "country-codes": {
+            "alpha2": "HM",
+            "alpha3": "HMD",
+            "numeric": "334",
+            "ioc": ""
+        },
+        "idd": {},
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/HM/flag.png",
+            "main-svg": "countries/HM/flag.svg",
+            "emoji": "\ud83c\udded\ud83c\uddf2",
+            "emblem-png": "countries/HM/emblem.png",
+            "emblem-svg": "countries/HM/emblem.svg"
+        },
+        "currencies": {},
+        "altSpellings": [
+            "HM",
+            "Heard Island and McDonald Islands"
+        ],
+        "region": "Antarctic",
+        "subregion": "",
+        "motto": [],
+        "anthem": "countries/HM/anthem.mp3",
+        "capital": "",
+        "latlng": [
+            53.0818,
+            73.5042
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 412.0,
+        "demonym": [
+            "Heard and McDonald Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2177227"
+        },
+        "legislature": [],
+        "population": 0,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".hm",
+            ".aq"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

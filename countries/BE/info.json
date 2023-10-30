@@ -1,0 +1,97 @@
+{
+    "BE": {
+        "name": {
+            "common": "Belgium",
+            "official": "Kingdom of Belgium"
+        },
+        "country-codes": {
+            "alpha2": "BE",
+            "alpha3": "BEL",
+            "numeric": "056",
+            "ioc": "BEL"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BE/flag.png",
+            "main-svg": "countries/BE/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddea",
+            "emblem-png": "countries/BE/emblem.png",
+            "emblem-svg": "countries/BE/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "BE",
+            "Belgi\u00eb",
+            "Belgie",
+            "Belgien",
+            "Belgique",
+            "Kingdom of Belgium",
+            "Koninkrijk Belgi\u00eb",
+            "Royaume de Belgique",
+            "K\u00f6nigreich Belgien"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "motto": [],
+        "anthem": "countries/BE/anthem.mp3",
+        "capital": "Brussels",
+        "latlng": [
+            50.83333333,
+            4.0
+        ],
+        "borders": [
+            "FRA",
+            "DEU",
+            "LUX",
+            "NLD"
+        ],
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 30528.0,
+        "demonym": [
+            "Belgian",
+            "Belge"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/52411"
+        },
+        "legislature": [],
+        "population": 11555997,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "B"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".be"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

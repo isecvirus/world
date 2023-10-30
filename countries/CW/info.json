@@ -1,0 +1,90 @@
+{
+    "CW": {
+        "name": {
+            "common": "Cura\u00e7ao",
+            "official": "Country of Cura\u00e7ao"
+        },
+        "country-codes": {
+            "alpha2": "CW",
+            "alpha3": "CUW",
+            "numeric": "531",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "99"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CW/flag.png",
+            "main-svg": "countries/CW/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddfc",
+            "emblem-png": "countries/CW/emblem.png",
+            "emblem-svg": "countries/CW/emblem.svg"
+        },
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "\u0192"
+            }
+        },
+        "altSpellings": [
+            "CW",
+            "Curacao",
+            "K\u00f2rsou",
+            "Country of Cura\u00e7ao",
+            "Land Cura\u00e7ao",
+            "Pais K\u00f2rsou"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/CW/anthem.mp3",
+        "capital": "Willemstad",
+        "latlng": [
+            12.116667,
+            -68.933333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 444.0,
+        "demonym": [
+            "Curacien",
+            "Curacienne",
+            "Cura\u00e7aoan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1216719"
+        },
+        "legislature": [],
+        "population": 155014,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CW"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

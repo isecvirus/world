@@ -1,0 +1,93 @@
+{
+    "UA": {
+        "name": {
+            "common": "Ukraine",
+            "official": "Ukraine"
+        },
+        "country-codes": {
+            "alpha2": "UA",
+            "alpha3": "UKR",
+            "numeric": "804",
+            "ioc": "UKR"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "80"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/UA/flag.png",
+            "main-svg": "countries/UA/flag.svg",
+            "emoji": "\ud83c\uddfa\ud83c\udde6",
+            "emblem-png": "countries/UA/emblem.png",
+            "emblem-svg": "countries/UA/emblem.svg"
+        },
+        "currencies": {
+            "UAH": {
+                "name": "Ukrainian hryvnia",
+                "symbol": "\u20b4"
+            }
+        },
+        "altSpellings": [
+            "UA",
+            "Ukrayina"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "motto": [],
+        "anthem": "countries/UA/anthem.mp3",
+        "capital": "Kyiv",
+        "latlng": [
+            49.0,
+            32.0
+        ],
+        "borders": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "languages": {
+            "ukr": "Ukrainian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 603500.0,
+        "demonym": [
+            "Ukrainienne",
+            "Ukrainian",
+            "Ukrainien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+        },
+        "legislature": [],
+        "population": 44134693,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "UA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ua",
+            ".\u0443\u043a\u0440"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

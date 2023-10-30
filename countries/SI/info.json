@@ -1,0 +1,89 @@
+{
+    "SI": {
+        "name": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia"
+        },
+        "country-codes": {
+            "alpha2": "SI",
+            "alpha3": "SVN",
+            "numeric": "705",
+            "ioc": "SLO"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "86"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SI/flag.png",
+            "main-svg": "countries/SI/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddee",
+            "emblem-png": "countries/SI/emblem.png",
+            "emblem-svg": "countries/SI/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "SI",
+            "Republic of Slovenia",
+            "Republika Slovenija"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "motto": [],
+        "anthem": "countries/SI/anthem.mp3",
+        "capital": "Ljubljana",
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ],
+        "borders": [
+            "AUT",
+            "HRV",
+            "ITA",
+            "HUN"
+        ],
+        "languages": {
+            "slv": "Slovene"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 20273.0,
+        "demonym": [
+            "Slov\u00e8ne",
+            "Slovene"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
+        },
+        "legislature": [],
+        "population": 2100126,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SLO"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".si"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

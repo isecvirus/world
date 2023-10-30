@@ -1,0 +1,94 @@
+{
+    "KP": {
+        "name": {
+            "common": "North Korea",
+            "official": "Democratic People's Republic of Korea"
+        },
+        "country-codes": {
+            "alpha2": "KP",
+            "alpha3": "PRK",
+            "numeric": "408",
+            "ioc": "PRK"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "50"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KP/flag.png",
+            "main-svg": "countries/KP/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddf5",
+            "emblem-png": "countries/KP/emblem.png",
+            "emblem-svg": "countries/KP/emblem.svg"
+        },
+        "currencies": {
+            "KPW": {
+                "name": "North Korean won",
+                "symbol": "\u20a9"
+            }
+        },
+        "altSpellings": [
+            "KP",
+            "Democratic People's Republic of Korea",
+            "DPRK",
+            "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+            "Chos\u014fn Minjuju\u016di Inmin Konghwaguk",
+            "Korea, Democratic People's Republic of",
+            "\ubd81\ud55c",
+            "\ubd81\uc870\uc120"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/KP/anthem.mp3",
+        "capital": "Pyongyang",
+        "latlng": [
+            40.0,
+            127.0
+        ],
+        "borders": [
+            "CHN",
+            "KOR",
+            "RUS"
+        ],
+        "languages": {
+            "kor": "Korean"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 120538.0,
+        "demonym": [
+            "Nord-cor\u00e9enne",
+            "Nord-cor\u00e9en",
+            "North Korean"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
+        },
+        "legislature": [],
+        "population": 25778815,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".kp"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

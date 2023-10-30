@@ -1,0 +1,91 @@
+{
+    "HR": {
+        "name": {
+            "common": "Croatia",
+            "official": "Republic of Croatia"
+        },
+        "country-codes": {
+            "alpha2": "HR",
+            "alpha3": "HRV",
+            "numeric": "191",
+            "ioc": "CRO"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "85"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/HR/flag.png",
+            "main-svg": "countries/HR/flag.svg",
+            "emoji": "\ud83c\udded\ud83c\uddf7",
+            "emblem-png": "countries/HR/emblem.png",
+            "emblem-svg": "countries/HR/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "HR",
+            "Hrvatska",
+            "Republic of Croatia",
+            "Republika Hrvatska"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/HR/anthem.mp3",
+        "capital": "Zagreb",
+        "latlng": [
+            45.16666666,
+            15.5
+        ],
+        "borders": [
+            "BIH",
+            "HUN",
+            "MNE",
+            "SRB",
+            "SVN"
+        ],
+        "languages": {
+            "hrv": "Croatian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 56594.0,
+        "demonym": [
+            "Croatian",
+            "Croate"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/214885"
+        },
+        "legislature": [],
+        "population": 4047200,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "HR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".hr"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

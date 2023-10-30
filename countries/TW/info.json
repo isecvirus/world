@@ -1,0 +1,90 @@
+{
+    "TW": {
+        "name": {
+            "common": "Taiwan",
+            "official": "Republic of China (Taiwan)"
+        },
+        "country-codes": {
+            "alpha2": "TW",
+            "alpha3": "TWN",
+            "numeric": "158",
+            "ioc": "TPE"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "86"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TW/flag.png",
+            "main-svg": "countries/TW/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddfc",
+            "emblem-png": "countries/TW/emblem.png",
+            "emblem-svg": "countries/TW/emblem.svg"
+        },
+        "currencies": {
+            "TWD": {
+                "name": "New Taiwan dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "TW",
+            "T\u00e1iw\u0101n",
+            "Republic of China",
+            "\u4e2d\u83ef\u6c11\u570b",
+            "Zh\u014dnghu\u00e1 M\u00edngu\u00f3",
+            "Chinese Taipei"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/TW/anthem.mp3",
+        "capital": "Taipei",
+        "latlng": [
+            23.5,
+            121.0
+        ],
+        "borders": [],
+        "languages": {
+            "zho": "Chinese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 36193.0,
+        "demonym": [
+            "Taiwanese",
+            "Ta\u00efwanaise",
+            "Ta\u00efwanais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/449220"
+        },
+        "legislature": [],
+        "population": 23503349,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RC"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".tw",
+            ".\u53f0\u7063",
+            ".\u53f0\u6e7e"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

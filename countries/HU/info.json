@@ -1,0 +1,91 @@
+{
+    "HU": {
+        "name": {
+            "common": "Hungary",
+            "official": "Hungary"
+        },
+        "country-codes": {
+            "alpha2": "HU",
+            "alpha3": "HUN",
+            "numeric": "348",
+            "ioc": "HUN"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/HU/flag.png",
+            "main-svg": "countries/HU/flag.svg",
+            "emoji": "\ud83c\udded\ud83c\uddfa",
+            "emblem-png": "countries/HU/emblem.png",
+            "emblem-svg": "countries/HU/emblem.svg"
+        },
+        "currencies": {
+            "HUF": {
+                "name": "Hungarian forint",
+                "symbol": "Ft"
+            }
+        },
+        "altSpellings": [
+            "HU"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "motto": [],
+        "anthem": "countries/HU/anthem.mp3",
+        "capital": "Budapest",
+        "latlng": [
+            47.0,
+            20.0
+        ],
+        "borders": [
+            "AUT",
+            "HRV",
+            "ROU",
+            "SRB",
+            "SVK",
+            "SVN",
+            "UKR"
+        ],
+        "languages": {
+            "hun": "Hungarian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 93028.0,
+        "demonym": [
+            "Hungarian",
+            "Hongroise",
+            "Hongrois"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+        },
+        "legislature": [],
+        "population": 9749763,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "H"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".hu"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

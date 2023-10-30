@@ -1,0 +1,83 @@
+{
+    "MQ": {
+        "name": {
+            "common": "Martinique",
+            "official": "Martinique"
+        },
+        "country-codes": {
+            "alpha2": "MQ",
+            "alpha3": "MTQ",
+            "numeric": "474",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "96"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MQ/flag.png",
+            "main-svg": "countries/MQ/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf6",
+            "emblem-png": "countries/MQ/emblem.png",
+            "emblem-svg": "countries/MQ/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "MQ"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/MQ/anthem.mp3",
+        "capital": "Fort-de-France",
+        "latlng": [
+            14.666667,
+            -61.0
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1128.0,
+        "demonym": [
+            "Martinican",
+            "Martiniquaise",
+            "Martiniquais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
+        },
+        "legislature": [],
+        "population": 378243,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mq"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

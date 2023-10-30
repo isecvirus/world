@@ -1,0 +1,87 @@
+{
+    "AS": {
+        "name": {
+            "common": "American Samoa",
+            "official": "American Samoa"
+        },
+        "country-codes": {
+            "alpha2": "AS",
+            "alpha3": "ASM",
+            "numeric": "016",
+            "ioc": "ASA"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "684"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AS/flag.png",
+            "main-svg": "countries/AS/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddf8",
+            "emblem-png": "countries/AS/emblem.png",
+            "emblem-svg": "countries/AS/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "AS",
+            "Amerika S\u0101moa",
+            "Amelika S\u0101moa",
+            "S\u0101moa Amelika"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/AS/anthem.mp3",
+        "capital": "Pago Pago",
+        "latlng": [
+            -14.33333333,
+            -170.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 199.0,
+        "demonym": [
+            "Samoane",
+            "American Samoan",
+            "Samoan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2177187"
+        },
+        "legislature": [],
+        "population": 55197,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".as"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

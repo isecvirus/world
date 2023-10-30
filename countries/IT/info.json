@@ -1,0 +1,92 @@
+{
+    "IT": {
+        "name": {
+            "common": "Italy",
+            "official": "Italian Republic"
+        },
+        "country-codes": {
+            "alpha2": "IT",
+            "alpha3": "ITA",
+            "numeric": "380",
+            "ioc": "ITA"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "9"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/IT/flag.png",
+            "main-svg": "countries/IT/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\uddf9",
+            "emblem-png": "countries/IT/emblem.png",
+            "emblem-svg": "countries/IT/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "IT",
+            "Italian Republic",
+            "Repubblica italiana"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/IT/anthem.mp3",
+        "capital": "Rome",
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ],
+        "borders": [
+            "AUT",
+            "FRA",
+            "SMR",
+            "SVN",
+            "CHE",
+            "VAT"
+        ],
+        "languages": {
+            "ita": "Italian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 301336.0,
+        "demonym": [
+            "Italien",
+            "Italian",
+            "Italienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+        },
+        "legislature": [],
+        "population": 59554023,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "I"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".it"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

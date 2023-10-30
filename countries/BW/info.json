@@ -1,0 +1,91 @@
+{
+    "BW": {
+        "name": {
+            "common": "Botswana",
+            "official": "Republic of Botswana"
+        },
+        "country-codes": {
+            "alpha2": "BW",
+            "alpha3": "BWA",
+            "numeric": "072",
+            "ioc": "BOT"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "67"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BW/flag.png",
+            "main-svg": "countries/BW/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddfc",
+            "emblem-png": "countries/BW/emblem.png",
+            "emblem-svg": "countries/BW/emblem.svg"
+        },
+        "currencies": {
+            "BWP": {
+                "name": "Botswana pula",
+                "symbol": "P"
+            }
+        },
+        "altSpellings": [
+            "BW",
+            "Republic of Botswana",
+            "Lefatshe la Botswana"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "motto": [],
+        "anthem": "countries/BW/anthem.mp3",
+        "capital": "Gaborone",
+        "latlng": [
+            -22.0,
+            24.0
+        ],
+        "borders": [
+            "NAM",
+            "ZAF",
+            "ZMB",
+            "ZWE"
+        ],
+        "languages": {
+            "eng": "English",
+            "tsn": "Tswana"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 582000.0,
+        "demonym": [
+            "Botswanaise",
+            "Botswanais",
+            "Motswana"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
+        },
+        "legislature": [],
+        "population": 2351625,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BW"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".bw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

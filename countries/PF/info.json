@@ -1,0 +1,88 @@
+{
+    "PF": {
+        "name": {
+            "common": "French Polynesia",
+            "official": "French Polynesia"
+        },
+        "country-codes": {
+            "alpha2": "PF",
+            "alpha3": "PYF",
+            "numeric": "258",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "89"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PF/flag.png",
+            "main-svg": "countries/PF/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddeb",
+            "emblem-png": "countries/PF/emblem.png",
+            "emblem-svg": "countries/PF/emblem.svg"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
+        "altSpellings": [
+            "PF",
+            "Polyn\u00e9sie fran\u00e7aise",
+            "French Polynesia",
+            "P\u014dr\u012bnetia Far\u0101ni"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/PF/anthem.mp3",
+        "capital": "Papeet\u0113",
+        "latlng": [
+            17.6797,
+            149.4068
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 4167.0,
+        "demonym": [
+            "Polyn\u00e9sienne",
+            "Polyn\u00e9sien",
+            "French Polynesian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/3412620"
+        },
+        "legislature": [],
+        "population": 280904,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pf"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

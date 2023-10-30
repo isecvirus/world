@@ -1,0 +1,91 @@
+{
+    "AL": {
+        "name": {
+            "common": "Albania",
+            "official": "Republic of Albania"
+        },
+        "country-codes": {
+            "alpha2": "AL",
+            "alpha3": "ALB",
+            "numeric": "008",
+            "ioc": "ALB"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "55"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AL/flag.png",
+            "main-svg": "countries/AL/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddf1",
+            "emblem-png": "countries/AL/emblem.png",
+            "emblem-svg": "countries/AL/emblem.svg"
+        },
+        "currencies": {
+            "ALL": {
+                "name": "Albanian lek",
+                "symbol": "L"
+            }
+        },
+        "altSpellings": [
+            "AL",
+            "Shqip\u00ebri",
+            "Shqip\u00ebria",
+            "Shqipnia"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/AL/anthem.mp3",
+        "capital": "Tirana",
+        "latlng": [
+            41.0,
+            20.0
+        ],
+        "borders": [
+            "MNE",
+            "GRC",
+            "MKD",
+            "UNK"
+        ],
+        "languages": {
+            "sqi": "Albanian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 28748.0,
+        "demonym": [
+            "Albanian",
+            "Albanais",
+            "Albanaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53292"
+        },
+        "legislature": [],
+        "population": 2837743,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".al"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

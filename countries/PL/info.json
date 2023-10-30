@@ -1,0 +1,93 @@
+{
+    "PL": {
+        "name": {
+            "common": "Poland",
+            "official": "Republic of Poland"
+        },
+        "country-codes": {
+            "alpha2": "PL",
+            "alpha3": "POL",
+            "numeric": "616",
+            "ioc": "POL"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "8"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PL/flag.png",
+            "main-svg": "countries/PL/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddf1",
+            "emblem-png": "countries/PL/emblem.png",
+            "emblem-svg": "countries/PL/emblem.svg"
+        },
+        "currencies": {
+            "PLN": {
+                "name": "Polish z\u0142oty",
+                "symbol": "z\u0142"
+            }
+        },
+        "altSpellings": [
+            "PL",
+            "Republic of Poland",
+            "Rzeczpospolita Polska"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "motto": [],
+        "anthem": "countries/PL/anthem.mp3",
+        "capital": "Warsaw",
+        "latlng": [
+            52.0,
+            20.0
+        ],
+        "borders": [
+            "BLR",
+            "CZE",
+            "DEU",
+            "LTU",
+            "RUS",
+            "SVK",
+            "UKR"
+        ],
+        "languages": {
+            "pol": "Polish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 312679.0,
+        "demonym": [
+            "Polonaise",
+            "Polish",
+            "Polonais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/49715"
+        },
+        "legislature": [],
+        "population": 37950802,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pl"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "PH": {
+        "name": {
+            "common": "Philippines",
+            "official": "Republic of the Philippines"
+        },
+        "country-codes": {
+            "alpha2": "PH",
+            "alpha3": "PHL",
+            "numeric": "608",
+            "ioc": "PHI"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "3"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PH/flag.png",
+            "main-svg": "countries/PH/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\udded",
+            "emblem-png": "countries/PH/emblem.png",
+            "emblem-svg": "countries/PH/emblem.svg"
+        },
+        "currencies": {
+            "PHP": {
+                "name": "Philippine peso",
+                "symbol": "\u20b1"
+            }
+        },
+        "altSpellings": [
+            "PH",
+            "Republic of the Philippines",
+            "Rep\u00fablika ng Pilipinas"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/PH/anthem.mp3",
+        "capital": "Manila",
+        "latlng": [
+            13.0,
+            122.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "fil": "Filipino"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 342353.0,
+        "demonym": [
+            "Philippine",
+            "Filipino",
+            "Philippin"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+        },
+        "legislature": [],
+        "population": 109581085,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RP"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ph"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "KR": {
+        "name": {
+            "common": "South Korea",
+            "official": "Republic of Korea"
+        },
+        "country-codes": {
+            "alpha2": "KR",
+            "alpha3": "KOR",
+            "numeric": "410",
+            "ioc": "KOR"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KR/flag.png",
+            "main-svg": "countries/KR/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddf7",
+            "emblem-png": "countries/KR/emblem.png",
+            "emblem-svg": "countries/KR/emblem.svg"
+        },
+        "currencies": {
+            "KRW": {
+                "name": "South Korean won",
+                "symbol": "\u20a9"
+            }
+        },
+        "altSpellings": [
+            "KR",
+            "Korea, Republic of",
+            "Republic of Korea",
+            "\ub0a8\ud55c",
+            "\ub0a8\uc870\uc120"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/KR/anthem.mp3",
+        "capital": "Seoul",
+        "latlng": [
+            37.0,
+            127.5
+        ],
+        "borders": [
+            "PRK"
+        ],
+        "languages": {
+            "kor": "Korean"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 100210.0,
+        "demonym": [
+            "Sud-cor\u00e9en",
+            "Sud-cor\u00e9enne",
+            "South Korean"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
+        },
+        "legislature": [],
+        "population": 51780579,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ROK"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".kr",
+            ".\ud55c\uad6d"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

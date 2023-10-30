@@ -1,0 +1,87 @@
+{
+    "SC": {
+        "name": {
+            "common": "Seychelles",
+            "official": "Republic of Seychelles"
+        },
+        "country-codes": {
+            "alpha2": "SC",
+            "alpha3": "SYC",
+            "numeric": "690",
+            "ioc": "SEY"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "48"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SC/flag.png",
+            "main-svg": "countries/SC/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\udde8",
+            "emblem-png": "countries/SC/emblem.png",
+            "emblem-svg": "countries/SC/emblem.svg"
+        },
+        "currencies": {
+            "SCR": {
+                "name": "Seychellois rupee",
+                "symbol": "\u20a8"
+            }
+        },
+        "altSpellings": [
+            "SC",
+            "Republic of Seychelles",
+            "Repiblik Sesel",
+            "R\u00e9publique des Seychelles"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/SC/anthem.mp3",
+        "capital": "Victoria",
+        "latlng": [
+            -4.58333333,
+            55.66666666
+        ],
+        "borders": [],
+        "languages": {
+            "crs": "Seychellois Creole",
+            "eng": "English",
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 452.0,
+        "demonym": [
+            "Seychelloise",
+            "Seychellois"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/536765"
+        },
+        "legislature": [],
+        "population": 98462,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SY"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".sc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

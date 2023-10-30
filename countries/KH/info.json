@@ -1,0 +1,92 @@
+{
+    "KH": {
+        "name": {
+            "common": "Cambodia",
+            "official": "Kingdom of Cambodia"
+        },
+        "country-codes": {
+            "alpha2": "KH",
+            "alpha3": "KHM",
+            "numeric": "116",
+            "ioc": "CAM"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "55"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KH/flag.png",
+            "main-svg": "countries/KH/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\udded",
+            "emblem-png": "countries/KH/emblem.png",
+            "emblem-svg": "countries/KH/emblem.svg"
+        },
+        "currencies": {
+            "KHR": {
+                "name": "Cambodian riel",
+                "symbol": "\u17db"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "KH",
+            "Kingdom of Cambodia"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/KH/anthem.mp3",
+        "capital": "Phnom Penh",
+        "latlng": [
+            13.0,
+            105.0
+        ],
+        "borders": [
+            "LAO",
+            "THA",
+            "VNM"
+        ],
+        "languages": {
+            "khm": "Khmer"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 181035.0,
+        "demonym": [
+            "Cambodgienne",
+            "Cambodian",
+            "Cambodgien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
+        },
+        "legislature": [],
+        "population": 16718971,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "K"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".kh"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

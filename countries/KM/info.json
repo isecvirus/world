@@ -1,0 +1,89 @@
+{
+    "KM": {
+        "name": {
+            "common": "Comoros",
+            "official": "Union of the Comoros"
+        },
+        "country-codes": {
+            "alpha2": "KM",
+            "alpha3": "COM",
+            "numeric": "174",
+            "ioc": "COM"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "69"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KM/flag.png",
+            "main-svg": "countries/KM/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddf2",
+            "emblem-png": "countries/KM/emblem.png",
+            "emblem-svg": "countries/KM/emblem.svg"
+        },
+        "currencies": {
+            "KMF": {
+                "name": "Comorian franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "KM",
+            "Union of the Comoros",
+            "Union des Comores",
+            "Udzima wa Komori",
+            "al-Itti\u1e25\u0101d al-Qumur\u012b"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/KM/anthem.mp3",
+        "capital": "Moroni",
+        "latlng": [
+            -12.16666666,
+            44.25
+        ],
+        "borders": [],
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French",
+            "zdj": "Comorian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1862.0,
+        "demonym": [
+            "Comorien",
+            "Comoran",
+            "Comorienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/eas4GP28C1GyStnu6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/535790"
+        },
+        "legislature": [],
+        "population": 869595,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "COM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".km"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

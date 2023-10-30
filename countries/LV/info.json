@@ -1,0 +1,90 @@
+{
+    "LV": {
+        "name": {
+            "common": "Latvia",
+            "official": "Republic of Latvia"
+        },
+        "country-codes": {
+            "alpha2": "LV",
+            "alpha3": "LVA",
+            "numeric": "428",
+            "ioc": "LAT"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "71"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LV/flag.png",
+            "main-svg": "countries/LV/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\uddfb",
+            "emblem-png": "countries/LV/emblem.png",
+            "emblem-svg": "countries/LV/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "LV",
+            "Republic of Latvia",
+            "Latvijas Republika"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/LV/anthem.mp3",
+        "capital": "Riga",
+        "latlng": [
+            57.0,
+            25.0
+        ],
+        "borders": [
+            "BLR",
+            "EST",
+            "LTU",
+            "RUS"
+        ],
+        "languages": {
+            "lav": "Latvian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 64559.0,
+        "demonym": [
+            "Lettone",
+            "Letton",
+            "Latvian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
+        },
+        "legislature": [],
+        "population": 1901548,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "LV"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".lv"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "PK": {
+        "name": {
+            "common": "Pakistan",
+            "official": "Islamic Republic of Pakistan"
+        },
+        "country-codes": {
+            "alpha2": "PK",
+            "alpha3": "PAK",
+            "numeric": "586",
+            "ioc": "PAK"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PK/flag.png",
+            "main-svg": "countries/PK/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddf0",
+            "emblem-png": "countries/PK/emblem.png",
+            "emblem-svg": "countries/PK/emblem.svg"
+        },
+        "currencies": {
+            "PKR": {
+                "name": "Pakistani rupee",
+                "symbol": "\u20a8"
+            }
+        },
+        "altSpellings": [
+            "PK",
+            "P\u0101kist\u0101n",
+            "Islamic Republic of Pakistan",
+            "Isl\u0101m\u012b Jumh\u016briya'eh P\u0101kist\u0101n"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/PK/anthem.mp3",
+        "capital": "Islamabad",
+        "latlng": [
+            30.0,
+            70.0
+        ],
+        "borders": [
+            "AFG",
+            "CHN",
+            "IND",
+            "IRN"
+        ],
+        "languages": {
+            "eng": "English",
+            "urd": "Urdu"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 881912.0,
+        "demonym": [
+            "Pakistani",
+            "Pakistanais",
+            "Pakistanaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307573"
+        },
+        "legislature": [],
+        "population": 220892331,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PK"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".pk"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

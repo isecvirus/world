@@ -1,0 +1,92 @@
+{
+    "TL": {
+        "name": {
+            "common": "Timor-Leste",
+            "official": "Democratic Republic of Timor-Leste"
+        },
+        "country-codes": {
+            "alpha2": "TL",
+            "alpha3": "TLS",
+            "numeric": "626",
+            "ioc": "TLS"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "70"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TL/flag.png",
+            "main-svg": "countries/TL/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddf1",
+            "emblem-png": "countries/TL/emblem.png",
+            "emblem-svg": "countries/TL/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "TL",
+            "East Timor",
+            "Democratic Republic of Timor-Leste",
+            "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
+            "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste",
+            "Tim\u00f3r Lorosa'e",
+            "Timor Lorosae"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/TL/anthem.mp3",
+        "capital": "Dili",
+        "latlng": [
+            -8.83333333,
+            125.91666666
+        ],
+        "borders": [
+            "IDN"
+        ],
+        "languages": {
+            "por": "Portuguese",
+            "tet": "Tetum"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 14874.0,
+        "demonym": [
+            "East Timorese",
+            "Est-timorais",
+            "Est-timoraise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/305142"
+        },
+        "legislature": [],
+        "population": 1318442,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "TL"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".tl"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

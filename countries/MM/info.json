@@ -1,0 +1,92 @@
+{
+    "MM": {
+        "name": {
+            "common": "Myanmar",
+            "official": "Republic of the Union of Myanmar"
+        },
+        "country-codes": {
+            "alpha2": "MM",
+            "alpha3": "MMR",
+            "numeric": "104",
+            "ioc": "MYA"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "5"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MM/flag.png",
+            "main-svg": "countries/MM/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf2",
+            "emblem-png": "countries/MM/emblem.png",
+            "emblem-svg": "countries/MM/emblem.svg"
+        },
+        "currencies": {
+            "MMK": {
+                "name": "Burmese kyat",
+                "symbol": "Ks"
+            }
+        },
+        "altSpellings": [
+            "MM",
+            "Burma",
+            "Republic of the Union of Myanmar",
+            "Pyidaunzu Thanm\u0103da My\u0103ma Nainngandaw"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/MM/anthem.mp3",
+        "capital": "Naypyidaw",
+        "latlng": [
+            22.0,
+            98.0
+        ],
+        "borders": [
+            "BGD",
+            "CHN",
+            "IND",
+            "LAO",
+            "THA"
+        ],
+        "languages": {
+            "mya": "Burmese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 676578.0,
+        "demonym": [
+            "Birmane",
+            "Birman",
+            "Burmese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/50371"
+        },
+        "legislature": [],
+        "population": 54409794,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BUR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

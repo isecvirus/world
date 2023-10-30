@@ -1,0 +1,83 @@
+{
+    "AI": {
+        "name": {
+            "common": "Anguilla",
+            "official": "Anguilla"
+        },
+        "country-codes": {
+            "alpha2": "AI",
+            "alpha3": "AIA",
+            "numeric": "660",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "264"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AI/flag.png",
+            "main-svg": "countries/AI/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddee",
+            "emblem-png": "countries/AI/emblem.png",
+            "emblem-svg": "countries/AI/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "AI"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/AI/anthem.mp3",
+        "capital": "The Valley",
+        "latlng": [
+            18.25,
+            -63.16666666
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 91.0,
+        "demonym": [
+            "Anguillane",
+            "Anguillan",
+            "Anguillian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
+        },
+        "legislature": [],
+        "population": 13452,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ai"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "MO": {
+        "name": {
+            "common": "Macau",
+            "official": "Macao Special Administrative Region of the People's Republic of China"
+        },
+        "country-codes": {
+            "alpha2": "MO",
+            "alpha3": "MAC",
+            "numeric": "446",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "53"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MO/flag.png",
+            "main-svg": "countries/MO/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf4",
+            "emblem-png": "countries/MO/emblem.png",
+            "emblem-svg": "countries/MO/emblem.svg"
+        },
+        "currencies": {
+            "MOP": {
+                "name": "Macanese pataca",
+                "symbol": "P"
+            }
+        },
+        "altSpellings": [
+            "MO",
+            "\u6fb3\u95e8",
+            "Macao",
+            "Macao Special Administrative Region of the People's Republic of China",
+            "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340",
+            "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/MO/anthem.mp3",
+        "capital": "",
+        "latlng": [
+            22.16666666,
+            113.55
+        ],
+        "borders": [
+            "CHN"
+        ],
+        "languages": {
+            "por": "Portuguese",
+            "zho": "Chinese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 30.0,
+        "demonym": [
+            "Macanaise",
+            "Macanais",
+            "Macanese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
+        },
+        "legislature": [],
+        "population": 649342,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MO"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".mo"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

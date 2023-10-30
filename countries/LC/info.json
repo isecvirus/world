@@ -1,0 +1,83 @@
+{
+    "LC": {
+        "name": {
+            "common": "Saint Lucia",
+            "official": "Saint Lucia"
+        },
+        "country-codes": {
+            "alpha2": "LC",
+            "alpha3": "LCA",
+            "numeric": "662",
+            "ioc": "LCA"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "758"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LC/flag.png",
+            "main-svg": "countries/LC/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\udde8",
+            "emblem-png": "countries/LC/emblem.png",
+            "emblem-svg": "countries/LC/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "LC"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/LC/anthem.mp3",
+        "capital": "Castries",
+        "latlng": [
+            13.88333333,
+            -60.96666666
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 616.0,
+        "demonym": [
+            "Saint Lucian",
+            "Saint-Lucien",
+            "Saint-Lucienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+        },
+        "legislature": [],
+        "population": 183629,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "WL"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".lc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

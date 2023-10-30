@@ -1,0 +1,89 @@
+{
+    "MF": {
+        "name": {
+            "common": "Saint Martin",
+            "official": "Saint Martin"
+        },
+        "country-codes": {
+            "alpha2": "MF",
+            "alpha3": "MAF",
+            "numeric": "663",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "90"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MF/flag.png",
+            "main-svg": "countries/MF/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddeb",
+            "emblem-png": "countries/MF/emblem.png",
+            "emblem-svg": "countries/MF/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "MF",
+            "Collectivity of Saint Martin",
+            "Collectivit\u00e9 de Saint-Martin",
+            "Saint Martin (French part)"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/MF/anthem.mp3",
+        "capital": "Marigot",
+        "latlng": [
+            18.0708,
+            63.0501
+        ],
+        "borders": [
+            "SXM"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 53.0,
+        "demonym": [
+            "Saint-Martinoise",
+            "Saint Martin Islander",
+            "Saint-Martinois"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/63064"
+        },
+        "legislature": [],
+        "population": 38659,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".fr",
+            ".gp"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

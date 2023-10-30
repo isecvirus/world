@@ -1,0 +1,89 @@
+{
+    "PG": {
+        "name": {
+            "common": "Papua New Guinea",
+            "official": "Independent State of Papua New Guinea"
+        },
+        "country-codes": {
+            "alpha2": "PG",
+            "alpha3": "PNG",
+            "numeric": "598",
+            "ioc": "PNG"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "75"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PG/flag.png",
+            "main-svg": "countries/PG/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddec",
+            "emblem-png": "countries/PG/emblem.png",
+            "emblem-svg": "countries/PG/emblem.svg"
+        },
+        "currencies": {
+            "PGK": {
+                "name": "Papua New Guinean kina",
+                "symbol": "K"
+            }
+        },
+        "altSpellings": [
+            "PG",
+            "Independent State of Papua New Guinea",
+            "Independen Stet bilong Papua Niugini"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "motto": [],
+        "anthem": "countries/PG/anthem.mp3",
+        "capital": "Port Moresby",
+        "latlng": [
+            -6.0,
+            147.0
+        ],
+        "borders": [
+            "IDN"
+        ],
+        "languages": {
+            "eng": "English",
+            "hmo": "Hiri Motu",
+            "tpi": "Tok Pisin"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 462840.0,
+        "demonym": [
+            "Papouasien",
+            "Papua New Guinean",
+            "Papouasienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+            "openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
+        },
+        "legislature": [],
+        "population": 8947027,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PNG"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".pg"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

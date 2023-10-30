@@ -1,0 +1,91 @@
+{
+    "NG": {
+        "name": {
+            "common": "Nigeria",
+            "official": "Federal Republic of Nigeria"
+        },
+        "country-codes": {
+            "alpha2": "NG",
+            "alpha3": "NGA",
+            "numeric": "566",
+            "ioc": "NGR"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "34"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NG/flag.png",
+            "main-svg": "countries/NG/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddec",
+            "emblem-png": "countries/NG/emblem.png",
+            "emblem-svg": "countries/NG/emblem.svg"
+        },
+        "currencies": {
+            "NGN": {
+                "name": "Nigerian naira",
+                "symbol": "\u20a6"
+            }
+        },
+        "altSpellings": [
+            "NG",
+            "Nijeriya",
+            "Na\u00edj\u00edr\u00ed\u00e0",
+            "Federal Republic of Nigeria"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/NG/anthem.mp3",
+        "capital": "Abuja",
+        "latlng": [
+            10.0,
+            8.0
+        ],
+        "borders": [
+            "BEN",
+            "CMR",
+            "TCD",
+            "NER"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 923768.0,
+        "demonym": [
+            "Nig\u00e9riane",
+            "Nig\u00e9rian",
+            "Nigerian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
+        },
+        "legislature": [],
+        "population": 206139587,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "WAN"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ng"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

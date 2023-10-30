@@ -1,0 +1,93 @@
+{
+    "BY": {
+        "name": {
+            "common": "Belarus",
+            "official": "Republic of Belarus"
+        },
+        "country-codes": {
+            "alpha2": "BY",
+            "alpha3": "BLR",
+            "numeric": "112",
+            "ioc": "BLR"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "75"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BY/flag.png",
+            "main-svg": "countries/BY/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddfe",
+            "emblem-png": "countries/BY/emblem.png",
+            "emblem-svg": "countries/BY/emblem.svg"
+        },
+        "currencies": {
+            "BYN": {
+                "name": "Belarusian ruble",
+                "symbol": "Br"
+            }
+        },
+        "altSpellings": [
+            "BY",
+            "Bielaru\u015b",
+            "Republic of Belarus",
+            "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f",
+            "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "motto": [],
+        "anthem": "countries/BY/anthem.mp3",
+        "capital": "Minsk",
+        "latlng": [
+            53.0,
+            28.0
+        ],
+        "borders": [
+            "LVA",
+            "LTU",
+            "POL",
+            "RUS",
+            "UKR"
+        ],
+        "languages": {
+            "bel": "Belarusian",
+            "rus": "Russian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 207600.0,
+        "demonym": [
+            "Bi\u00e9lorusse",
+            "Belarusian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/59065"
+        },
+        "legislature": [],
+        "population": 9398861,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BY"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".by"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "TM": {
+        "name": {
+            "common": "Turkmenistan",
+            "official": "Turkmenistan"
+        },
+        "country-codes": {
+            "alpha2": "TM",
+            "alpha3": "TKM",
+            "numeric": "795",
+            "ioc": "TKM"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "93"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TM/flag.png",
+            "main-svg": "countries/TM/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddf2",
+            "emblem-png": "countries/TM/emblem.png",
+            "emblem-svg": "countries/TM/emblem.svg"
+        },
+        "currencies": {
+            "TMT": {
+                "name": "Turkmenistan manat",
+                "symbol": "m"
+            }
+        },
+        "altSpellings": [
+            "TM"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "motto": [],
+        "anthem": "countries/TM/anthem.mp3",
+        "capital": "Ashgabat",
+        "latlng": [
+            40.0,
+            60.0
+        ],
+        "borders": [
+            "AFG",
+            "IRN",
+            "KAZ",
+            "UZB"
+        ],
+        "languages": {
+            "rus": "Russian",
+            "tuk": "Turkmen"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 488100.0,
+        "demonym": [
+            "Turkmen",
+            "Turkm\u00e8ne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/223026"
+        },
+        "legislature": [],
+        "population": 6031187,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "TM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".tm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

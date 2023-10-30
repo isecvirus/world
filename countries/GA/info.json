@@ -1,0 +1,89 @@
+{
+    "GA": {
+        "name": {
+            "common": "Gabon",
+            "official": "Gabonese Republic"
+        },
+        "country-codes": {
+            "alpha2": "GA",
+            "alpha3": "GAB",
+            "numeric": "266",
+            "ioc": "GAB"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "41"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GA/flag.png",
+            "main-svg": "countries/GA/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\udde6",
+            "emblem-png": "countries/GA/emblem.png",
+            "emblem-svg": "countries/GA/emblem.svg"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "GA",
+            "Gabonese Republic",
+            "R\u00e9publique Gabonaise"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/GA/anthem.mp3",
+        "capital": "Libreville",
+        "latlng": [
+            -1.0,
+            11.75
+        ],
+        "borders": [
+            "CMR",
+            "COG",
+            "GNQ"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 267668.0,
+        "demonym": [
+            "Gabonaise",
+            "Gabonese",
+            "Gabonais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
+        },
+        "legislature": [],
+        "population": 2225728,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "G"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ga"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

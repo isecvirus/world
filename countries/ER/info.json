@@ -1,0 +1,94 @@
+{
+    "ER": {
+        "name": {
+            "common": "Eritrea",
+            "official": "State of Eritrea"
+        },
+        "country-codes": {
+            "alpha2": "ER",
+            "alpha3": "ERI",
+            "numeric": "232",
+            "ioc": "ERI"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "91"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ER/flag.png",
+            "main-svg": "countries/ER/flag.svg",
+            "emoji": "\ud83c\uddea\ud83c\uddf7",
+            "emblem-png": "countries/ER/emblem.png",
+            "emblem-svg": "countries/ER/emblem.svg"
+        },
+        "currencies": {
+            "ERN": {
+                "name": "Eritrean nakfa",
+                "symbol": "Nfk"
+            }
+        },
+        "altSpellings": [
+            "ER",
+            "State of Eritrea",
+            "\u1203\u1308\u1228 \u12a4\u122d\u1275\u122b",
+            "Dawlat Iritriy\u00e1",
+            "\u02beErtr\u0101",
+            "Iritriy\u0101"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/ER/anthem.mp3",
+        "capital": "Asmara",
+        "latlng": [
+            15.0,
+            39.0
+        ],
+        "borders": [
+            "DJI",
+            "ETH",
+            "SDN"
+        ],
+        "languages": {
+            "ara": "Arabic",
+            "eng": "English",
+            "tir": "Tigrinya"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 117600.0,
+        "demonym": [
+            "\u00c9rythr\u00e9en",
+            "Eritrean",
+            "\u00c9rythr\u00e9enne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/296961"
+        },
+        "legislature": [],
+        "population": 5352000,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ER"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".er"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

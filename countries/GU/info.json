@@ -1,0 +1,84 @@
+{
+    "GU": {
+        "name": {
+            "common": "Guam",
+            "official": "Guam"
+        },
+        "country-codes": {
+            "alpha2": "GU",
+            "alpha3": "GUM",
+            "numeric": "316",
+            "ioc": "GUM"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "671"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GU/flag.png",
+            "main-svg": "countries/GU/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddfa",
+            "emblem-png": "countries/GU/emblem.png",
+            "emblem-svg": "countries/GU/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "GU",
+            "Gu\u00e5h\u00e5n"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "motto": [],
+        "anthem": "countries/GU/anthem.mp3",
+        "capital": "Hag\u00e5t\u00f1a",
+        "latlng": [
+            13.46666666,
+            144.78333333
+        ],
+        "borders": [],
+        "languages": {
+            "cha": "Chamorro",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 549.0,
+        "demonym": [
+            "Guamanian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/306001"
+        },
+        "legislature": [],
+        "population": 168783,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gu"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

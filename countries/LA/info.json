@@ -1,0 +1,92 @@
+{
+    "LA": {
+        "name": {
+            "common": "Laos",
+            "official": "Lao People's Democratic Republic"
+        },
+        "country-codes": {
+            "alpha2": "LA",
+            "alpha3": "LAO",
+            "numeric": "418",
+            "ioc": "LAO"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "56"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LA/flag.png",
+            "main-svg": "countries/LA/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\udde6",
+            "emblem-png": "countries/LA/emblem.png",
+            "emblem-svg": "countries/LA/emblem.svg"
+        },
+        "currencies": {
+            "LAK": {
+                "name": "Lao kip",
+                "symbol": "\u20ad"
+            }
+        },
+        "altSpellings": [
+            "LA",
+            "Lao",
+            "Lao People's Democratic Republic",
+            "Sathalanalat Paxathipatai Paxaxon Lao"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/LA/anthem.mp3",
+        "capital": "Vientiane",
+        "latlng": [
+            18.0,
+            105.0
+        ],
+        "borders": [
+            "MMR",
+            "KHM",
+            "CHN",
+            "THA",
+            "VNM"
+        ],
+        "languages": {
+            "lao": "Lao"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 236800.0,
+        "demonym": [
+            "Laotienne",
+            "Laotian",
+            "Laotien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
+        },
+        "legislature": [],
+        "population": 7275556,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "LAO"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".la"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

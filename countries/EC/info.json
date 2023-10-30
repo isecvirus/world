@@ -1,0 +1,89 @@
+{
+    "EC": {
+        "name": {
+            "common": "Ecuador",
+            "official": "Republic of Ecuador"
+        },
+        "country-codes": {
+            "alpha2": "EC",
+            "alpha3": "ECU",
+            "numeric": "218",
+            "ioc": "ECU"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "93"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/EC/flag.png",
+            "main-svg": "countries/EC/flag.svg",
+            "emoji": "\ud83c\uddea\ud83c\udde8",
+            "emblem-png": "countries/EC/emblem.png",
+            "emblem-svg": "countries/EC/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "EC",
+            "Republic of Ecuador",
+            "Rep\u00fablica del Ecuador"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/EC/anthem.mp3",
+        "capital": "Quito",
+        "latlng": [
+            -2.0,
+            -77.5
+        ],
+        "borders": [
+            "COL",
+            "PER"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 276841.0,
+        "demonym": [
+            "\u00c9quatorien",
+            "\u00c9quatorienne",
+            "Ecuadorean"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+        },
+        "legislature": [],
+        "population": 17643060,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00",
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "EC"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ec"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

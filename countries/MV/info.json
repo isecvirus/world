@@ -1,0 +1,86 @@
+{
+    "MV": {
+        "name": {
+            "common": "Maldives",
+            "official": "Republic of the Maldives"
+        },
+        "country-codes": {
+            "alpha2": "MV",
+            "alpha3": "MDV",
+            "numeric": "462",
+            "ioc": "MDV"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "60"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MV/flag.png",
+            "main-svg": "countries/MV/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddfb",
+            "emblem-png": "countries/MV/emblem.png",
+            "emblem-svg": "countries/MV/emblem.svg"
+        },
+        "currencies": {
+            "MVR": {
+                "name": "Maldivian rufiyaa",
+                "symbol": ".\u0783"
+            }
+        },
+        "altSpellings": [
+            "MV",
+            "Maldive Islands",
+            "Republic of the Maldives",
+            "Dhivehi Raajjeyge Jumhooriyya"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/MV/anthem.mp3",
+        "capital": "Mal\u00e9",
+        "latlng": [
+            3.25,
+            73.0
+        ],
+        "borders": [],
+        "languages": {
+            "div": "Maldivian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 300.0,
+        "demonym": [
+            "Maldivienne",
+            "Maldivien",
+            "Maldivan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
+        },
+        "legislature": [],
+        "population": 540542,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MV"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".mv"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

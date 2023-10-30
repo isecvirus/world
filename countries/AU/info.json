@@ -1,0 +1,90 @@
+{
+    "AU": {
+        "name": {
+            "common": "Australia",
+            "official": "Commonwealth of Australia"
+        },
+        "country-codes": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "numeric": "036",
+            "ioc": "AUS"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AU/flag.png",
+            "main-svg": "countries/AU/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddfa",
+            "emblem-png": "countries/AU/emblem.png",
+            "emblem-svg": "countries/AU/emblem.svg"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "AU"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "motto": [],
+        "anthem": "countries/AU/anthem.mp3",
+        "capital": "Canberra",
+        "latlng": [
+            -27.0,
+            133.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 7692024.0,
+        "demonym": [
+            "Australienne",
+            "Australian",
+            "Australien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/80500"
+        },
+        "legislature": [],
+        "population": 25687041,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:30",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:30",
+            "UTC+10:00",
+            "UTC+10:30",
+            "UTC+11:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AUS"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".au"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

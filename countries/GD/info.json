@@ -1,0 +1,83 @@
+{
+    "GD": {
+        "name": {
+            "common": "Grenada",
+            "official": "Grenada"
+        },
+        "country-codes": {
+            "alpha2": "GD",
+            "alpha3": "GRD",
+            "numeric": "308",
+            "ioc": "GRN"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "473"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GD/flag.png",
+            "main-svg": "countries/GD/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\udde9",
+            "emblem-png": "countries/GD/emblem.png",
+            "emblem-svg": "countries/GD/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "GD"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/GD/anthem.mp3",
+        "capital": "St. George's",
+        "latlng": [
+            12.11666666,
+            -61.66666666
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 344.0,
+        "demonym": [
+            "Grenadien",
+            "Grenadian",
+            "Grenadienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
+        },
+        "legislature": [],
+        "population": 112519,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "WG"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".gd"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

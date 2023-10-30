@@ -1,0 +1,94 @@
+{
+    "GB": {
+        "name": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        "country-codes": {
+            "alpha2": "GB",
+            "alpha3": "GBR",
+            "numeric": "826",
+            "ioc": "GBR"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GB/flag.png",
+            "main-svg": "countries/GB/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\udde7",
+            "emblem-png": "countries/GB/emblem.png",
+            "emblem-svg": "countries/GB/emblem.svg"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "GB",
+            "UK",
+            "Great Britain"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/GB/anthem.mp3",
+        "capital": "London",
+        "latlng": [
+            54.0,
+            -2.0
+        ],
+        "borders": [
+            "IRL"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 242900.0,
+        "demonym": [
+            "British",
+            "Britannique"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+        },
+        "legislature": [],
+        "population": 67215293,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".uk"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

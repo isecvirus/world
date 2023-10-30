@@ -1,0 +1,92 @@
+{
+    "ES": {
+        "name": {
+            "common": "Spain",
+            "official": "Kingdom of Spain"
+        },
+        "country-codes": {
+            "alpha2": "ES",
+            "alpha3": "ESP",
+            "numeric": "724",
+            "ioc": "ESP"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ES/flag.png",
+            "main-svg": "countries/ES/flag.svg",
+            "emoji": "\ud83c\uddea\ud83c\uddf8",
+            "emblem-png": "countries/ES/emblem.png",
+            "emblem-svg": "countries/ES/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "ES",
+            "Kingdom of Spain",
+            "Reino de Espa\u00f1a"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/ES/anthem.mp3",
+        "capital": "Madrid",
+        "latlng": [
+            40.0,
+            -4.0
+        ],
+        "borders": [
+            "AND",
+            "FRA",
+            "GIB",
+            "PRT",
+            "MAR"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 505992.0,
+        "demonym": [
+            "Espagnole",
+            "Espagnol",
+            "Spanish"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
+        },
+        "legislature": [],
+        "population": 47351567,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "E"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".es"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

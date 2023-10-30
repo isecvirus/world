@@ -1,0 +1,113 @@
+{
+    "RU": {
+        "name": {
+            "common": "Russia",
+            "official": "Russian Federation"
+        },
+        "country-codes": {
+            "alpha2": "RU",
+            "alpha3": "RUS",
+            "numeric": "643",
+            "ioc": "RUS"
+        },
+        "idd": {
+            "root": "+7",
+            "suffixes": [
+                "3",
+                "4",
+                "5",
+                "8",
+                "9"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/RU/flag.png",
+            "main-svg": "countries/RU/flag.svg",
+            "emoji": "\ud83c\uddf7\ud83c\uddfa",
+            "emblem-png": "countries/RU/emblem.png",
+            "emblem-svg": "countries/RU/emblem.svg"
+        },
+        "currencies": {
+            "RUB": {
+                "name": "Russian ruble",
+                "symbol": "\u20bd"
+            }
+        },
+        "altSpellings": [
+            "RU",
+            "Russian Federation",
+            "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "motto": [],
+        "anthem": "countries/RU/anthem.mp3",
+        "capital": "Moscow",
+        "latlng": [
+            60.0,
+            100.0
+        ],
+        "borders": [
+            "AZE",
+            "BLR",
+            "CHN",
+            "EST",
+            "FIN",
+            "GEO",
+            "KAZ",
+            "PRK",
+            "LVA",
+            "LTU",
+            "MNG",
+            "NOR",
+            "POL",
+            "UKR"
+        ],
+        "languages": {
+            "rus": "Russian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 17098242.0,
+        "demonym": [
+            "Russian",
+            "Russe"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+        },
+        "legislature": [],
+        "population": 144104080,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RUS"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ru",
+            ".su",
+            ".\u0440\u0444"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

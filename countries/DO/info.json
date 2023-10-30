@@ -1,0 +1,87 @@
+{
+    "DO": {
+        "name": {
+            "common": "Dominican Republic",
+            "official": "Dominican Republic"
+        },
+        "country-codes": {
+            "alpha2": "DO",
+            "alpha3": "DOM",
+            "numeric": "214",
+            "ioc": "DOM"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "809",
+                "829",
+                "849"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/DO/flag.png",
+            "main-svg": "countries/DO/flag.svg",
+            "emoji": "\ud83c\udde9\ud83c\uddf4",
+            "emblem-png": "countries/DO/emblem.png",
+            "emblem-svg": "countries/DO/emblem.svg"
+        },
+        "currencies": {
+            "DOP": {
+                "name": "Dominican peso",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "DO"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/DO/anthem.mp3",
+        "capital": "Santo Domingo",
+        "latlng": [
+            19.0,
+            -70.66666666
+        ],
+        "borders": [
+            "HTI"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 48671.0,
+        "demonym": [
+            "Dominicain",
+            "Dominicaine",
+            "Dominican"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+        },
+        "legislature": [],
+        "population": 10847904,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "DOM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".do"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

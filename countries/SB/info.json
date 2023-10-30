@@ -1,0 +1,83 @@
+{
+    "SB": {
+        "name": {
+            "common": "Solomon Islands",
+            "official": "Solomon Islands"
+        },
+        "country-codes": {
+            "alpha2": "SB",
+            "alpha3": "SLB",
+            "numeric": "090",
+            "ioc": "SOL"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "77"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SB/flag.png",
+            "main-svg": "countries/SB/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\udde7",
+            "emblem-png": "countries/SB/emblem.png",
+            "emblem-svg": "countries/SB/emblem.svg"
+        },
+        "currencies": {
+            "SBD": {
+                "name": "Solomon Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "SB"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "motto": [],
+        "anthem": "countries/SB/anthem.mp3",
+        "capital": "Honiara",
+        "latlng": [
+            -8.0,
+            159.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 28896.0,
+        "demonym": [
+            "Salomonien",
+            "Salomonienne",
+            "Solomon Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
+        },
+        "legislature": [],
+        "population": 686878,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SOL"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".sb"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

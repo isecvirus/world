@@ -1,0 +1,90 @@
+{
+    "EG": {
+        "name": {
+            "common": "Egypt",
+            "official": "Arab Republic of Egypt"
+        },
+        "country-codes": {
+            "alpha2": "EG",
+            "alpha3": "EGY",
+            "numeric": "818",
+            "ioc": "EGY"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "0"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/EG/flag.png",
+            "main-svg": "countries/EG/flag.svg",
+            "emoji": "\ud83c\uddea\ud83c\uddec",
+            "emblem-png": "countries/EG/emblem.png",
+            "emblem-svg": "countries/EG/emblem.svg"
+        },
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "EG",
+            "Arab Republic of Egypt"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "motto": [],
+        "anthem": "countries/EG/anthem.mp3",
+        "capital": "Cairo",
+        "latlng": [
+            27.0,
+            30.0
+        ],
+        "borders": [
+            "ISR",
+            "LBY",
+            "PSE",
+            "SDN"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1002450.0,
+        "demonym": [
+            "Egyptian",
+            "\u00c9gyptienne",
+            "\u00c9gyptien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
+        },
+        "legislature": [],
+        "population": 102334403,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ET"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".eg",
+            ".\u0645\u0635\u0631"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

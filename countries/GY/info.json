@@ -1,0 +1,88 @@
+{
+    "GY": {
+        "name": {
+            "common": "Guyana",
+            "official": "Co-operative Republic of Guyana"
+        },
+        "country-codes": {
+            "alpha2": "GY",
+            "alpha3": "GUY",
+            "numeric": "328",
+            "ioc": "GUY"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "92"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GY/flag.png",
+            "main-svg": "countries/GY/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddfe",
+            "emblem-png": "countries/GY/emblem.png",
+            "emblem-svg": "countries/GY/emblem.svg"
+        },
+        "currencies": {
+            "GYD": {
+                "name": "Guyanese dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "GY",
+            "Co-operative Republic of Guyana"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/GY/anthem.mp3",
+        "capital": "Georgetown",
+        "latlng": [
+            5.0,
+            -59.0
+        ],
+        "borders": [
+            "BRA",
+            "SUR",
+            "VEN"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 214969.0,
+        "demonym": [
+            "Guyanese",
+            "Guyanien",
+            "Guyanienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287083"
+        },
+        "legislature": [],
+        "population": 786559,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GUY"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".gy"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "CF": {
+        "name": {
+            "common": "Central African Republic",
+            "official": "Central African Republic"
+        },
+        "country-codes": {
+            "alpha2": "CF",
+            "alpha3": "CAF",
+            "numeric": "140",
+            "ioc": "CAF"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "36"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CF/flag.png",
+            "main-svg": "countries/CF/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddeb",
+            "emblem-png": "countries/CF/emblem.png",
+            "emblem-svg": "countries/CF/emblem.svg"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "CF",
+            "Central African Republic",
+            "R\u00e9publique centrafricaine"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/CF/anthem.mp3",
+        "capital": "Bangui",
+        "latlng": [
+            7.0,
+            21.0
+        ],
+        "borders": [
+            "CMR",
+            "TCD",
+            "COD",
+            "COG",
+            "SSD",
+            "SDN"
+        ],
+        "languages": {
+            "fra": "French",
+            "sag": "Sango"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 622984.0,
+        "demonym": [
+            "Centrafricain",
+            "Centrafricaine",
+            "Central African"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192790"
+        },
+        "legislature": [],
+        "population": 4829764,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RCA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cf"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

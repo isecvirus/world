@@ -1,0 +1,95 @@
+{
+    "SA": {
+        "name": {
+            "common": "Saudi Arabia",
+            "official": "Kingdom of Saudi Arabia"
+        },
+        "country-codes": {
+            "alpha2": "SA",
+            "alpha3": "SAU",
+            "numeric": "682",
+            "ioc": "KSA"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "66"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SA/flag.png",
+            "main-svg": "countries/SA/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\udde6",
+            "emblem-png": "countries/SA/emblem.png",
+            "emblem-svg": "countries/SA/emblem.svg"
+        },
+        "currencies": {
+            "SAR": {
+                "name": "Saudi riyal",
+                "symbol": "\u0631.\u0633"
+            }
+        },
+        "altSpellings": [
+            "Saudi",
+            "SA",
+            "Kingdom of Saudi Arabia",
+            "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/SA/anthem.mp3",
+        "capital": "Riyadh",
+        "latlng": [
+            25.0,
+            45.0
+        ],
+        "borders": [
+            "IRQ",
+            "JOR",
+            "KWT",
+            "OMN",
+            "QAT",
+            "ARE",
+            "YEM"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2149690.0,
+        "demonym": [
+            "Saoudienne",
+            "Saudi Arabian",
+            "Saoudien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307584"
+        },
+        "legislature": [],
+        "population": 34813867,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".sa",
+            ".\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

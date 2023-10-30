@@ -1,0 +1,91 @@
+{
+    "CO": {
+        "name": {
+            "common": "Colombia",
+            "official": "Republic of Colombia"
+        },
+        "country-codes": {
+            "alpha2": "CO",
+            "alpha3": "COL",
+            "numeric": "170",
+            "ioc": "COL"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "7"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CO/flag.png",
+            "main-svg": "countries/CO/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddf4",
+            "emblem-png": "countries/CO/emblem.png",
+            "emblem-svg": "countries/CO/emblem.svg"
+        },
+        "currencies": {
+            "COP": {
+                "name": "Colombian peso",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "CO",
+            "Republic of Colombia",
+            "Rep\u00fablica de Colombia"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/CO/anthem.mp3",
+        "capital": "Bogot\u00e1",
+        "latlng": [
+            4.0,
+            -72.0
+        ],
+        "borders": [
+            "BRA",
+            "ECU",
+            "PAN",
+            "PER",
+            "VEN"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1141748.0,
+        "demonym": [
+            "Colombien",
+            "Colombian",
+            "Colombienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/RdwTG8e7gPwS62oR6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+        },
+        "legislature": [],
+        "population": 50882884,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CO"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".co"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

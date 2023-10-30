@@ -1,0 +1,86 @@
+{
+    "NF": {
+        "name": {
+            "common": "Norfolk Island",
+            "official": "Territory of Norfolk Island"
+        },
+        "country-codes": {
+            "alpha2": "NF",
+            "alpha3": "NFK",
+            "numeric": "574",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "72"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NF/flag.png",
+            "main-svg": "countries/NF/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddeb",
+            "emblem-png": "countries/NF/emblem.png",
+            "emblem-svg": "countries/NF/emblem.svg"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "NF",
+            "Territory of Norfolk Island",
+            "Teratri of Norf'k Ailen"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "motto": [],
+        "anthem": "countries/NF/anthem.mp3",
+        "capital": "Kingston",
+        "latlng": [
+            -29.03333333,
+            167.95
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "pih": "Norfuk"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 36.0,
+        "demonym": [
+            "Norfolk Islander",
+            "Norfolkaise",
+            "Norfolkais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/pbvtm6XYd1iZbjky5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2574988"
+        },
+        "legislature": [],
+        "population": 2302,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+11:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AUS"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".nf"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "PE": {
+        "name": {
+            "common": "Peru",
+            "official": "Republic of Peru"
+        },
+        "country-codes": {
+            "alpha2": "PE",
+            "alpha3": "PER",
+            "numeric": "604",
+            "ioc": "PER"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PE/flag.png",
+            "main-svg": "countries/PE/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\uddea",
+            "emblem-png": "countries/PE/emblem.png",
+            "emblem-svg": "countries/PE/emblem.svg"
+        },
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S/ "
+            }
+        },
+        "altSpellings": [
+            "PE",
+            "Republic of Peru",
+            "Rep\u00fablica del Per\u00fa"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/PE/anthem.mp3",
+        "capital": "Lima",
+        "latlng": [
+            -10.0,
+            -76.0
+        ],
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "COL",
+            "ECU"
+        ],
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1285216.0,
+        "demonym": [
+            "P\u00e9ruvien",
+            "P\u00e9ruvienne",
+            "Peruvian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+        },
+        "legislature": [],
+        "population": 32971846,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PE"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pe"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "ZA": {
+        "name": {
+            "common": "South Africa",
+            "official": "Republic of South Africa"
+        },
+        "country-codes": {
+            "alpha2": "ZA",
+            "alpha3": "ZAF",
+            "numeric": "710",
+            "ioc": "RSA"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "7"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ZA/flag.png",
+            "main-svg": "countries/ZA/flag.svg",
+            "emoji": "\ud83c\uddff\ud83c\udde6",
+            "emblem-png": "countries/ZA/emblem.png",
+            "emblem-svg": "countries/ZA/emblem.svg"
+        },
+        "currencies": {
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "altSpellings": [
+            "ZA",
+            "RSA",
+            "Suid-Afrika",
+            "Republic of South Africa"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "motto": [],
+        "anthem": "countries/ZA/anthem.mp3",
+        "capital": "Pretoria",
+        "latlng": [
+            -29.0,
+            24.0
+        ],
+        "borders": [
+            "BWA",
+            "LSO",
+            "MOZ",
+            "NAM",
+            "SWZ",
+            "ZWE"
+        ],
+        "languages": {
+            "afr": "Afrikaans",
+            "eng": "English",
+            "nbl": "Southern Ndebele",
+            "nso": "Northern Sotho",
+            "sot": "Southern Sotho",
+            "ssw": "Swazi",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zul": "Zulu"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1221037.0,
+        "demonym": [
+            "South African",
+            "Sud-africaine",
+            "Sud-africain"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/87565"
+        },
+        "legislature": [],
+        "population": 59308690,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ZA"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".za"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

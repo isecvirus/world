@@ -1,0 +1,93 @@
+{
+    "CI": {
+        "name": {
+            "common": "Ivory Coast",
+            "official": "Republic of C\u00f4te d'Ivoire"
+        },
+        "country-codes": {
+            "alpha2": "CI",
+            "alpha3": "CIV",
+            "numeric": "384",
+            "ioc": "CIV"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "25"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CI/flag.png",
+            "main-svg": "countries/CI/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddee",
+            "emblem-png": "countries/CI/emblem.png",
+            "emblem-svg": "countries/CI/emblem.svg"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "CI",
+            "C\u00f4te d'Ivoire",
+            "Ivory Coast",
+            "Republic of C\u00f4te d'Ivoire",
+            "R\u00e9publique de C\u00f4te d'Ivoire"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/CI/anthem.mp3",
+        "capital": "Yamoussoukro",
+        "latlng": [
+            8.0,
+            -5.0
+        ],
+        "borders": [
+            "BFA",
+            "GHA",
+            "GIN",
+            "LBR",
+            "MLI"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 322463.0,
+        "demonym": [
+            "Ivorian",
+            "Ivoirien",
+            "Ivoirienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+        },
+        "legislature": [],
+        "population": 26378275,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CI"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ci"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

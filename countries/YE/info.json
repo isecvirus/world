@@ -1,0 +1,87 @@
+{
+    "YE": {
+        "name": {
+            "common": "Yemen",
+            "official": "Republic of Yemen"
+        },
+        "country-codes": {
+            "alpha2": "YE",
+            "alpha3": "YEM",
+            "numeric": "887",
+            "ioc": "YEM"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "67"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/YE/flag.png",
+            "main-svg": "countries/YE/flag.svg",
+            "emoji": "\ud83c\uddfe\ud83c\uddea",
+            "emblem-png": "countries/YE/emblem.png",
+            "emblem-svg": "countries/YE/emblem.svg"
+        },
+        "currencies": {
+            "YER": {
+                "name": "Yemeni rial",
+                "symbol": "\ufdfc"
+            }
+        },
+        "altSpellings": [
+            "YE",
+            "Yemeni Republic",
+            "al-Jumh\u016briyyah al-Yamaniyyah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/YE/anthem.mp3",
+        "capital": "Sana'a",
+        "latlng": [
+            15.0,
+            48.0
+        ],
+        "borders": [
+            "OMN",
+            "SAU"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 527968.0,
+        "demonym": [
+            "Yemeni",
+            "Y\u00e9m\u00e9nite"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/305092"
+        },
+        "legislature": [],
+        "population": 29825968,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "YAR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ye"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

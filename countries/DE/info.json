@@ -1,0 +1,95 @@
+{
+    "DE": {
+        "name": {
+            "common": "Germany",
+            "official": "Federal Republic of Germany"
+        },
+        "country-codes": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "numeric": "276",
+            "ioc": "GER"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "9"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/DE/flag.png",
+            "main-svg": "countries/DE/flag.svg",
+            "emoji": "\ud83c\udde9\ud83c\uddea",
+            "emblem-png": "countries/DE/emblem.png",
+            "emblem-svg": "countries/DE/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "DE",
+            "Federal Republic of Germany",
+            "Bundesrepublik Deutschland"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "motto": [],
+        "anthem": "countries/DE/anthem.mp3",
+        "capital": "Berlin",
+        "latlng": [
+            51.0,
+            9.0
+        ],
+        "borders": [
+            "AUT",
+            "BEL",
+            "CZE",
+            "DNK",
+            "FRA",
+            "LUX",
+            "NLD",
+            "POL",
+            "CHE"
+        ],
+        "languages": {
+            "deu": "German"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 357114.0,
+        "demonym": [
+            "Allemand",
+            "German",
+            "Allemande"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
+        },
+        "legislature": [],
+        "population": 83240525,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "DY"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".de"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

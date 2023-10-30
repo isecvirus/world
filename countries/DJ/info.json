@@ -1,0 +1,94 @@
+{
+    "DJ": {
+        "name": {
+            "common": "Djibouti",
+            "official": "Republic of Djibouti"
+        },
+        "country-codes": {
+            "alpha2": "DJ",
+            "alpha3": "DJI",
+            "numeric": "262",
+            "ioc": "DJI"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "53"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/DJ/flag.png",
+            "main-svg": "countries/DJ/flag.svg",
+            "emoji": "\ud83c\udde9\ud83c\uddef",
+            "emblem-png": "countries/DJ/emblem.png",
+            "emblem-svg": "countries/DJ/emblem.svg"
+        },
+        "currencies": {
+            "DJF": {
+                "name": "Djiboutian franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "DJ",
+            "Jabuuti",
+            "Gabuuti",
+            "Republic of Djibouti",
+            "R\u00e9publique de Djibouti",
+            "Gabuutih Ummuuno",
+            "Jamhuuriyadda Jabuuti"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/DJ/anthem.mp3",
+        "capital": "Djibouti",
+        "latlng": [
+            11.5,
+            43.0
+        ],
+        "borders": [
+            "ERI",
+            "ETH",
+            "SOM"
+        ],
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 23200.0,
+        "demonym": [
+            "Djiboutien",
+            "Djiboutienne",
+            "Djibouti"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192801"
+        },
+        "legislature": [],
+        "population": 988002,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "DJI"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".dj"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

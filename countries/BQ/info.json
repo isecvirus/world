@@ -1,0 +1,86 @@
+{
+    "BQ": {
+        "name": {
+            "common": "Caribbean Netherlands",
+            "official": "Bonaire, Sint Eustatius and Saba"
+        },
+        "country-codes": {
+            "alpha2": "BQ",
+            "alpha3": "BES",
+            "numeric": "535",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "99"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BQ/flag.png",
+            "main-svg": "countries/BQ/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf6",
+            "emblem-png": "countries/BQ/emblem.png",
+            "emblem-svg": "countries/BQ/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "BES islands"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/BQ/anthem.mp3",
+        "capital": "Kralendijk",
+        "latlng": [
+            12.18,
+            -68.25
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 328.0,
+        "demonym": [
+            "N\u00e9erlandaise",
+            "Dutch",
+            "N\u00e9erlandais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1216720"
+        },
+        "legislature": [],
+        "population": 25987,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bq",
+            ".nl"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

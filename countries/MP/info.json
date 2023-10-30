@@ -1,0 +1,87 @@
+{
+    "MP": {
+        "name": {
+            "common": "Northern Mariana Islands",
+            "official": "Commonwealth of the Northern Mariana Islands"
+        },
+        "country-codes": {
+            "alpha2": "MP",
+            "alpha3": "MNP",
+            "numeric": "580",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "670"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MP/flag.png",
+            "main-svg": "countries/MP/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf5",
+            "emblem-png": "countries/MP/emblem.png",
+            "emblem-svg": "countries/MP/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "MP",
+            "Commonwealth of the Northern Mariana Islands",
+            "Sankattan Siha Na Islas Mari\u00e5nas"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "motto": [],
+        "anthem": "countries/MP/anthem.mp3",
+        "capital": "Saipan",
+        "latlng": [
+            15.2,
+            145.75
+        ],
+        "borders": [],
+        "languages": {
+            "cal": "Carolinian",
+            "cha": "Chamorro",
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 464.0,
+        "demonym": [
+            "Am\u00e9ricaine",
+            "Am\u00e9rican",
+            "American"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/cpZ67knoRAcfu1417",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/306004"
+        },
+        "legislature": [],
+        "population": 57557,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mp"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

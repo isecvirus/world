@@ -1,0 +1,88 @@
+{
+    "SV": {
+        "name": {
+            "common": "El Salvador",
+            "official": "Republic of El Salvador"
+        },
+        "country-codes": {
+            "alpha2": "SV",
+            "alpha3": "SLV",
+            "numeric": "222",
+            "ioc": "ESA"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "03"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SV/flag.png",
+            "main-svg": "countries/SV/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddfb",
+            "emblem-png": "countries/SV/emblem.png",
+            "emblem-svg": "countries/SV/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "SV",
+            "Republic of El Salvador",
+            "Rep\u00fablica de El Salvador"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "motto": [],
+        "anthem": "countries/SV/anthem.mp3",
+        "capital": "San Salvador",
+        "latlng": [
+            13.83333333,
+            -88.91666666
+        ],
+        "borders": [
+            "GTM",
+            "HND"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 21041.0,
+        "demonym": [
+            "Salvadoran",
+            "Salvadorienne",
+            "Salvadorien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+        },
+        "legislature": [],
+        "population": 6486201,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ES"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".sv"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

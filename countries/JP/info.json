@@ -1,0 +1,86 @@
+{
+    "JP": {
+        "name": {
+            "common": "Japan",
+            "official": "Japan"
+        },
+        "country-codes": {
+            "alpha2": "JP",
+            "alpha3": "JPN",
+            "numeric": "392",
+            "ioc": "JPN"
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/JP/flag.png",
+            "main-svg": "countries/JP/flag.svg",
+            "emoji": "\ud83c\uddef\ud83c\uddf5",
+            "emblem-png": "countries/JP/emblem.png",
+            "emblem-svg": "countries/JP/emblem.svg"
+        },
+        "currencies": {
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "\u00a5"
+            }
+        },
+        "altSpellings": [
+            "JP",
+            "Nippon",
+            "Nihon"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "motto": [],
+        "anthem": "countries/JP/anthem.mp3",
+        "capital": "Tokyo",
+        "latlng": [
+            36.0,
+            138.0
+        ],
+        "borders": [],
+        "languages": {
+            "jpn": "Japanese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 377930.0,
+        "demonym": [
+            "Japonaise",
+            "Japanese",
+            "Japonais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/382313"
+        },
+        "legislature": [],
+        "population": 125836021,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "J"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".jp",
+            ".\u307f\u3093\u306a"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "GG": {
+        "name": {
+            "common": "Guernsey",
+            "official": "Bailiwick of Guernsey"
+        },
+        "country-codes": {
+            "alpha2": "GG",
+            "alpha3": "GGY",
+            "numeric": "831",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GG/flag.png",
+            "main-svg": "countries/GG/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddec",
+            "emblem-png": "countries/GG/emblem.png",
+            "emblem-svg": "countries/GG/emblem.svg"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "GGP": {
+                "name": "Guernsey pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "GG",
+            "Bailiwick of Guernsey",
+            "Bailliage de Guernesey"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/GG/anthem.mp3",
+        "capital": "St. Peter Port",
+        "latlng": [
+            49.46666666,
+            -2.58333333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nfr": "Guern\u00e9siais"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 78.0,
+        "demonym": [
+            "Guernesiais",
+            "Guernesiaise",
+            "Channel Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/270009"
+        },
+        "legislature": [],
+        "population": 62999,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GBG"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".gg"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

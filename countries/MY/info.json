@@ -1,0 +1,88 @@
+{
+    "MY": {
+        "name": {
+            "common": "Malaysia",
+            "official": "Malaysia"
+        },
+        "country-codes": {
+            "alpha2": "MY",
+            "alpha3": "MYS",
+            "numeric": "458",
+            "ioc": "MAS"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "0"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MY/flag.png",
+            "main-svg": "countries/MY/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddfe",
+            "emblem-png": "countries/MY/emblem.png",
+            "emblem-svg": "countries/MY/emblem.svg"
+        },
+        "currencies": {
+            "MYR": {
+                "name": "Malaysian ringgit",
+                "symbol": "RM"
+            }
+        },
+        "altSpellings": [
+            "MY"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/MY/anthem.mp3",
+        "capital": "Kuala Lumpur",
+        "latlng": [
+            2.5,
+            112.5
+        ],
+        "borders": [
+            "BRN",
+            "IDN",
+            "THA"
+        ],
+        "languages": {
+            "eng": "English",
+            "msa": "Malay"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 330803.0,
+        "demonym": [
+            "Malaisienne",
+            "Malaysian",
+            "Malaisien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
+        },
+        "legislature": [],
+        "population": 32365998,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MAL"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".my"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

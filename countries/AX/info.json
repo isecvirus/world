@@ -1,0 +1,86 @@
+{
+    "AX": {
+        "name": {
+            "common": "\u00c5land Islands",
+            "official": "\u00c5land Islands"
+        },
+        "country-codes": {
+            "alpha2": "AX",
+            "alpha3": "ALA",
+            "numeric": "248",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "5818"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AX/flag.png",
+            "main-svg": "countries/AX/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddfd",
+            "emblem-png": "countries/AX/emblem.png",
+            "emblem-svg": "countries/AX/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "AX",
+            "Aaland",
+            "Aland",
+            "Ahvenanmaa"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/AX/anthem.mp3",
+        "capital": "Mariehamn",
+        "latlng": [
+            60.116667,
+            19.9
+        ],
+        "borders": [],
+        "languages": {
+            "swe": "Swedish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1580.0,
+        "demonym": [
+            "\u00c5landish",
+            "\u00c5landaise",
+            "\u00c5landais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1650407"
+        },
+        "legislature": [],
+        "population": 29458,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ax"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

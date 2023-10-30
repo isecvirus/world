@@ -1,0 +1,83 @@
+{
+    "WF": {
+        "name": {
+            "common": "Wallis and Futuna",
+            "official": "Territory of the Wallis and Futuna Islands"
+        },
+        "country-codes": {
+            "alpha2": "WF",
+            "alpha3": "WLF",
+            "numeric": "876",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "81"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/WF/flag.png",
+            "main-svg": "countries/WF/flag.svg",
+            "emoji": "\ud83c\uddfc\ud83c\uddeb",
+            "emblem-png": "countries/WF/emblem.png",
+            "emblem-svg": "countries/WF/emblem.svg"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
+        "altSpellings": [
+            "WF",
+            "Territory of the Wallis and Futuna Islands",
+            "Territoire des \u00eeles Wallis et Futuna"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/WF/anthem.mp3",
+        "capital": "Mata-Utu",
+        "latlng": [
+            -13.3,
+            -176.2
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 142.0,
+        "demonym": [
+            "Wallis and Futuna Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/3412448"
+        },
+        "legislature": [],
+        "population": 11750,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".wf"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

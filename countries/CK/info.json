@@ -1,0 +1,89 @@
+{
+    "CK": {
+        "name": {
+            "common": "Cook Islands",
+            "official": "Cook Islands"
+        },
+        "country-codes": {
+            "alpha2": "CK",
+            "alpha3": "COK",
+            "numeric": "184",
+            "ioc": "COK"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "82"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CK/flag.png",
+            "main-svg": "countries/CK/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddf0",
+            "emblem-png": "countries/CK/emblem.png",
+            "emblem-svg": "countries/CK/emblem.svg"
+        },
+        "currencies": {
+            "CKD": {
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "CK",
+            "K\u016bki '\u0100irani"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/CK/anthem.mp3",
+        "capital": "Avarua",
+        "latlng": [
+            -21.23333333,
+            -159.76666666
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "rar": "Cook Islands M\u0101ori"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 236.0,
+        "demonym": [
+            "Cookien",
+            "Cook Islander",
+            "Cookienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2184233"
+        },
+        "legislature": [],
+        "population": 18100,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-10:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NZ"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ck"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

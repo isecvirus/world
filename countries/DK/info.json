@@ -1,0 +1,92 @@
+{
+    "DK": {
+        "name": {
+            "common": "Denmark",
+            "official": "Kingdom of Denmark"
+        },
+        "country-codes": {
+            "alpha2": "DK",
+            "alpha3": "DNK",
+            "numeric": "208",
+            "ioc": "DEN"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "5"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/DK/flag.png",
+            "main-svg": "countries/DK/flag.svg",
+            "emoji": "\ud83c\udde9\ud83c\uddf0",
+            "emblem-png": "countries/DK/emblem.png",
+            "emblem-svg": "countries/DK/emblem.svg"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            }
+        },
+        "altSpellings": [
+            "DK",
+            "Danmark",
+            "Kingdom of Denmark",
+            "Kongeriget Danmark"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/DK/anthem.mp3",
+        "capital": "Copenhagen",
+        "latlng": [
+            56.0,
+            10.0
+        ],
+        "borders": [
+            "DEU"
+        ],
+        "languages": {
+            "dan": "Danish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 43094.0,
+        "demonym": [
+            "Danois",
+            "Danish",
+            "Danoise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
+        },
+        "legislature": [],
+        "population": 5831404,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC",
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "DK"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".dk"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "GE": {
+        "name": {
+            "common": "Georgia",
+            "official": "Georgia"
+        },
+        "country-codes": {
+            "alpha2": "GE",
+            "alpha3": "GEO",
+            "numeric": "268",
+            "ioc": "GEO"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "95"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GE/flag.png",
+            "main-svg": "countries/GE/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddea",
+            "emblem-png": "countries/GE/emblem.png",
+            "emblem-svg": "countries/GE/emblem.svg"
+        },
+        "currencies": {
+            "GEL": {
+                "name": "lari",
+                "symbol": "\u20be"
+            }
+        },
+        "altSpellings": [
+            "GE",
+            "Sakartvelo"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/GE/anthem.mp3",
+        "capital": "Tbilisi",
+        "latlng": [
+            42.0,
+            43.5
+        ],
+        "borders": [
+            "ARM",
+            "AZE",
+            "RUS",
+            "TUR"
+        ],
+        "languages": {
+            "kat": "Georgian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 69700.0,
+        "demonym": [
+            "G\u00e9orgien",
+            "G\u00e9orgienne",
+            "Georgian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/28699"
+        },
+        "legislature": [],
+        "population": 3714000,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GE"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ge"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "LR": {
+        "name": {
+            "common": "Liberia",
+            "official": "Republic of Liberia"
+        },
+        "country-codes": {
+            "alpha2": "LR",
+            "alpha3": "LBR",
+            "numeric": "430",
+            "ioc": "LBR"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "31"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LR/flag.png",
+            "main-svg": "countries/LR/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\uddf7",
+            "emblem-png": "countries/LR/emblem.png",
+            "emblem-svg": "countries/LR/emblem.svg"
+        },
+        "currencies": {
+            "LRD": {
+                "name": "Liberian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "LR",
+            "Republic of Liberia"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/LR/anthem.mp3",
+        "capital": "Monrovia",
+        "latlng": [
+            6.5,
+            -9.5
+        ],
+        "borders": [
+            "GIN",
+            "CIV",
+            "SLE"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 111369.0,
+        "demonym": [
+            "Lib\u00e9rien",
+            "Lib\u00e9rienne",
+            "Liberian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192780"
+        },
+        "legislature": [],
+        "population": 5057677,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "LB"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".lr"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

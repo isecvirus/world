@@ -1,0 +1,88 @@
+{
+    "UY": {
+        "name": {
+            "common": "Uruguay",
+            "official": "Oriental Republic of Uruguay"
+        },
+        "country-codes": {
+            "alpha2": "UY",
+            "alpha3": "URY",
+            "numeric": "858",
+            "ioc": "URU"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "98"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/UY/flag.png",
+            "main-svg": "countries/UY/flag.svg",
+            "emoji": "\ud83c\uddfa\ud83c\uddfe",
+            "emblem-png": "countries/UY/emblem.png",
+            "emblem-svg": "countries/UY/emblem.svg"
+        },
+        "currencies": {
+            "UYU": {
+                "name": "Uruguayan peso",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "UY",
+            "Oriental Republic of Uruguay",
+            "Rep\u00fablica Oriental del Uruguay"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/UY/anthem.mp3",
+        "capital": "Montevideo",
+        "latlng": [
+            -33.0,
+            -56.0
+        ],
+        "borders": [
+            "ARG",
+            "BRA"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 181034.0,
+        "demonym": [
+            "Uruguayen",
+            "Uruguayenne",
+            "Uruguayan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287072"
+        },
+        "legislature": [],
+        "population": 3473727,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ROU"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".uy"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

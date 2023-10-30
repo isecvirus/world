@@ -1,0 +1,90 @@
+{
+    "NL": {
+        "name": {
+            "common": "Netherlands",
+            "official": "Kingdom of the Netherlands"
+        },
+        "country-codes": {
+            "alpha2": "NL",
+            "alpha3": "NLD",
+            "numeric": "528",
+            "ioc": "NED"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NL/flag.png",
+            "main-svg": "countries/NL/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddf1",
+            "emblem-png": "countries/NL/emblem.png",
+            "emblem-svg": "countries/NL/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "NL",
+            "Holland",
+            "Nederland",
+            "The Netherlands"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "motto": [],
+        "anthem": "countries/NL/anthem.mp3",
+        "capital": "Amsterdam",
+        "latlng": [
+            52.5,
+            5.75
+        ],
+        "borders": [
+            "BEL",
+            "DEU"
+        ],
+        "languages": {
+            "nld": "Dutch"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 41850.0,
+        "demonym": [
+            "N\u00e9erlandaise",
+            "Dutch",
+            "N\u00e9erlandais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/47796"
+        },
+        "legislature": [],
+        "population": 16655799,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00",
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".nl"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

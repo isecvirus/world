@@ -1,0 +1,87 @@
+{
+    "AD": {
+        "name": {
+            "common": "Andorra",
+            "official": "Principality of Andorra"
+        },
+        "country-codes": {
+            "alpha2": "AD",
+            "alpha3": "AND",
+            "numeric": "020",
+            "ioc": "AND"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "76"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AD/flag.png",
+            "main-svg": "countries/AD/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\udde9",
+            "emblem-png": "countries/AD/emblem.png",
+            "emblem-svg": "countries/AD/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "AD",
+            "Principality of Andorra",
+            "Principat d'Andorra"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/AD/anthem.mp3",
+        "capital": "Andorra la Vella",
+        "latlng": [
+            42.5,
+            1.5
+        ],
+        "borders": [
+            "FRA",
+            "ESP"
+        ],
+        "languages": {
+            "cat": "Catalan"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 468.0,
+        "demonym": [
+            "Andorrane",
+            "Andorran"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
+        },
+        "legislature": [],
+        "population": 77265,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "AND"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ad"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

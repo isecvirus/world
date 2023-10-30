@@ -1,0 +1,93 @@
+{
+    "ET": {
+        "name": {
+            "common": "Ethiopia",
+            "official": "Federal Democratic Republic of Ethiopia"
+        },
+        "country-codes": {
+            "alpha2": "ET",
+            "alpha3": "ETH",
+            "numeric": "231",
+            "ioc": "ETH"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "51"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ET/flag.png",
+            "main-svg": "countries/ET/flag.svg",
+            "emoji": "\ud83c\uddea\ud83c\uddf9",
+            "emblem-png": "countries/ET/emblem.png",
+            "emblem-svg": "countries/ET/emblem.svg"
+        },
+        "currencies": {
+            "ETB": {
+                "name": "Ethiopian birr",
+                "symbol": "Br"
+            }
+        },
+        "altSpellings": [
+            "ET",
+            "\u02be\u012aty\u014d\u1e57\u1e57y\u0101",
+            "Federal Democratic Republic of Ethiopia",
+            "\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u134c\u12f4\u122b\u120b\u12ca \u12f2\u121e\u12ad\u122b\u1232\u12eb\u12ca \u122a\u1350\u1265\u120a\u12ad"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/ET/anthem.mp3",
+        "capital": "Addis Ababa",
+        "latlng": [
+            8.0,
+            38.0
+        ],
+        "borders": [
+            "DJI",
+            "ERI",
+            "KEN",
+            "SOM",
+            "SSD",
+            "SDN"
+        ],
+        "languages": {
+            "amh": "Amharic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1104300.0,
+        "demonym": [
+            "\u00c9thiopienne",
+            "Ethiopian",
+            "\u00c9thiopien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192800"
+        },
+        "legislature": [],
+        "population": 114963583,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ETH"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".et"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "DZ": {
+        "name": {
+            "common": "Algeria",
+            "official": "People's Democratic Republic of Algeria"
+        },
+        "country-codes": {
+            "alpha2": "DZ",
+            "alpha3": "DZA",
+            "numeric": "012",
+            "ioc": "ALG"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "13"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/DZ/flag.png",
+            "main-svg": "countries/DZ/flag.svg",
+            "emoji": "\ud83c\udde9\ud83c\uddff",
+            "emblem-png": "countries/DZ/emblem.png",
+            "emblem-svg": "countries/DZ/emblem.svg"
+        },
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "\u062f.\u062c"
+            }
+        },
+        "altSpellings": [
+            "DZ",
+            "Dzayer",
+            "Alg\u00e9rie"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "motto": [],
+        "anthem": "countries/DZ/anthem.mp3",
+        "capital": "Algiers",
+        "latlng": [
+            28.0,
+            3.0
+        ],
+        "borders": [
+            "TUN",
+            "LBY",
+            "NER",
+            "ESH",
+            "MRT",
+            "MLI",
+            "MAR"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2381741.0,
+        "demonym": [
+            "Alg\u00e9rien",
+            "Algerian",
+            "Alg\u00e9rienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
+        },
+        "legislature": [],
+        "population": 44700000,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "DZ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".dz",
+            "\u0627\u0644\u062c\u0632\u0627\u0626\u0631."
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

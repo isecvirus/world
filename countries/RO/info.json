@@ -1,0 +1,92 @@
+{
+    "RO": {
+        "name": {
+            "common": "Romania",
+            "official": "Romania"
+        },
+        "country-codes": {
+            "alpha2": "RO",
+            "alpha3": "ROU",
+            "numeric": "642",
+            "ioc": "ROU"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "0"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/RO/flag.png",
+            "main-svg": "countries/RO/flag.svg",
+            "emoji": "\ud83c\uddf7\ud83c\uddf4",
+            "emblem-png": "countries/RO/emblem.png",
+            "emblem-svg": "countries/RO/emblem.svg"
+        },
+        "currencies": {
+            "RON": {
+                "name": "Romanian leu",
+                "symbol": "lei"
+            }
+        },
+        "altSpellings": [
+            "RO",
+            "Rumania",
+            "Roumania",
+            "Rom\u00e2nia"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/RO/anthem.mp3",
+        "capital": "Bucharest",
+        "latlng": [
+            46.0,
+            25.0
+        ],
+        "borders": [
+            "BGR",
+            "HUN",
+            "MDA",
+            "SRB",
+            "UKR"
+        ],
+        "languages": {
+            "ron": "Romanian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 238391.0,
+        "demonym": [
+            "Roumaine",
+            "Roumain",
+            "Romanian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
+        },
+        "legislature": [],
+        "population": 19286123,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RO"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ro"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

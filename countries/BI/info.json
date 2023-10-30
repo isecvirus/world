@@ -1,0 +1,91 @@
+{
+    "BI": {
+        "name": {
+            "common": "Burundi",
+            "official": "Republic of Burundi"
+        },
+        "country-codes": {
+            "alpha2": "BI",
+            "alpha3": "BDI",
+            "numeric": "108",
+            "ioc": "BDI"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "57"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BI/flag.png",
+            "main-svg": "countries/BI/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddee",
+            "emblem-png": "countries/BI/emblem.png",
+            "emblem-svg": "countries/BI/emblem.svg"
+        },
+        "currencies": {
+            "BIF": {
+                "name": "Burundian franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "BI",
+            "Republic of Burundi",
+            "Republika y'Uburundi",
+            "R\u00e9publique du Burundi"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/BI/anthem.mp3",
+        "capital": "Gitega",
+        "latlng": [
+            -3.5,
+            30.0
+        ],
+        "borders": [
+            "COD",
+            "RWA",
+            "TZA"
+        ],
+        "languages": {
+            "fra": "French",
+            "run": "Kirundi"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 27834.0,
+        "demonym": [
+            "Burundian",
+            "Burundais",
+            "Burundaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
+        },
+        "legislature": [],
+        "population": 11890781,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RU"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bi"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

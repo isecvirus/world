@@ -1,0 +1,91 @@
+{
+    "SN": {
+        "name": {
+            "common": "Senegal",
+            "official": "Republic of Senegal"
+        },
+        "country-codes": {
+            "alpha2": "SN",
+            "alpha3": "SEN",
+            "numeric": "686",
+            "ioc": "SEN"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "21"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SN/flag.png",
+            "main-svg": "countries/SN/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddf3",
+            "emblem-png": "countries/SN/emblem.png",
+            "emblem-svg": "countries/SN/emblem.svg"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "SN",
+            "Republic of Senegal",
+            "R\u00e9publique du S\u00e9n\u00e9gal"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/SN/anthem.mp3",
+        "capital": "Dakar",
+        "latlng": [
+            14.0,
+            -14.0
+        ],
+        "borders": [
+            "GMB",
+            "GIN",
+            "GNB",
+            "MLI",
+            "MRT"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 196722.0,
+        "demonym": [
+            "S\u00e9n\u00e9galais",
+            "S\u00e9n\u00e9galaise",
+            "Senegalese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
+        },
+        "legislature": [],
+        "population": 16743930,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SN"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".sn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

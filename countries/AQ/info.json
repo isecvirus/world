@@ -1,0 +1,78 @@
+{
+    "AQ": {
+        "name": {
+            "common": "Antarctica",
+            "official": "Antarctica"
+        },
+        "country-codes": {
+            "alpha2": "AQ",
+            "alpha3": "ATA",
+            "numeric": "010",
+            "ioc": ""
+        },
+        "idd": {},
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AQ/flag.png",
+            "main-svg": "countries/AQ/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddf6",
+            "emblem-png": "countries/AQ/emblem.png",
+            "emblem-svg": "countries/AQ/emblem.svg"
+        },
+        "currencies": {},
+        "altSpellings": [
+            "AQ"
+        ],
+        "region": "Antarctic",
+        "subregion": "",
+        "motto": [],
+        "anthem": "countries/AQ/anthem.mp3",
+        "capital": "",
+        "latlng": [
+            -90.0,
+            0.0
+        ],
+        "borders": [],
+        "languages": [],
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 14000000.0,
+        "demonym": [
+            "Antarctican",
+            "Antarcticaine",
+            "Antarcticain"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/kyBuJriu4itiXank7",
+            "openStreetMaps": "https://www.openstreetmap.org/node/36966060"
+        },
+        "legislature": [],
+        "population": 1000,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-03:00",
+            "UTC+03:00",
+            "UTC+05:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".aq"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "CD": {
+        "name": {
+            "common": "DR Congo",
+            "official": "Democratic Republic of the Congo"
+        },
+        "country-codes": {
+            "alpha2": "CD",
+            "alpha3": "COD",
+            "numeric": "180",
+            "ioc": "COD"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "43"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CD/flag.png",
+            "main-svg": "countries/CD/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\udde9",
+            "emblem-png": "countries/CD/emblem.png",
+            "emblem-svg": "countries/CD/emblem.svg"
+        },
+        "currencies": {
+            "CDF": {
+                "name": "Congolese franc",
+                "symbol": "FC"
+            }
+        },
+        "altSpellings": [
+            "CD",
+            "DR Congo",
+            "Congo-Kinshasa",
+            "Congo, the Democratic Republic of the",
+            "DRC"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/CD/anthem.mp3",
+        "capital": "Kinshasa",
+        "latlng": [
+            0.0,
+            25.0
+        ],
+        "borders": [
+            "AGO",
+            "BDI",
+            "CAF",
+            "COG",
+            "RWA",
+            "SSD",
+            "TZA",
+            "UGA",
+            "ZMB"
+        ],
+        "languages": {
+            "fra": "French",
+            "kon": "Kikongo",
+            "lin": "Lingala",
+            "lua": "Tshiluba",
+            "swa": "Swahili"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2344858.0,
+        "demonym": [
+            "Congolais",
+            "Congolese",
+            "Congolaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
+        },
+        "legislature": [],
+        "population": 108407721,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CGO"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cd"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

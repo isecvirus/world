@@ -1,0 +1,90 @@
+{
+    "SS": {
+        "name": {
+            "common": "South Sudan",
+            "official": "Republic of South Sudan"
+        },
+        "country-codes": {
+            "alpha2": "SS",
+            "alpha3": "SSD",
+            "numeric": "728",
+            "ioc": "SSD"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "11"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SS/flag.png",
+            "main-svg": "countries/SS/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddf8",
+            "emblem-png": "countries/SS/emblem.png",
+            "emblem-svg": "countries/SS/emblem.svg"
+        },
+        "currencies": {
+            "SSP": {
+                "name": "South Sudanese pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "SS"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "motto": [],
+        "anthem": "countries/SS/anthem.mp3",
+        "capital": "Juba",
+        "latlng": [
+            7.0,
+            30.0
+        ],
+        "borders": [
+            "CAF",
+            "COD",
+            "ETH",
+            "KEN",
+            "SDN",
+            "UGA"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 619745.0,
+        "demonym": [
+            "Sud-Soudanais",
+            "Sud-Soudanaise",
+            "South Sudanese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1656678"
+        },
+        "legislature": [],
+        "population": 11193729,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ss"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

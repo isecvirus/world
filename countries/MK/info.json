@@ -1,0 +1,93 @@
+{
+    "MK": {
+        "name": {
+            "common": "North Macedonia",
+            "official": "Republic of North Macedonia"
+        },
+        "country-codes": {
+            "alpha2": "MK",
+            "alpha3": "MKD",
+            "numeric": "807",
+            "ioc": "MKD"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "89"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MK/flag.png",
+            "main-svg": "countries/MK/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddf0",
+            "emblem-png": "countries/MK/emblem.png",
+            "emblem-svg": "countries/MK/emblem.svg"
+        },
+        "currencies": {
+            "MKD": {
+                "name": "denar",
+                "symbol": "den"
+            }
+        },
+        "altSpellings": [
+            "MK",
+            "The former Yugoslav Republic of Macedonia",
+            "Republic of North Macedonia",
+            "Macedonia, The Former Yugoslav Republic of",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/MK/anthem.mp3",
+        "capital": "Skopje",
+        "latlng": [
+            41.83333333,
+            22.0
+        ],
+        "borders": [
+            "ALB",
+            "BGR",
+            "GRC",
+            "UNK",
+            "SRB"
+        ],
+        "languages": {
+            "mkd": "Macedonian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 25713.0,
+        "demonym": [
+            "Mac\u00e9donienne",
+            "Macedonian",
+            "Mac\u00e9donien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+        },
+        "legislature": [],
+        "population": 2077132,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MK"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mk"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

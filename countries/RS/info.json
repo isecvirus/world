@@ -1,0 +1,96 @@
+{
+    "RS": {
+        "name": {
+            "common": "Serbia",
+            "official": "Republic of Serbia"
+        },
+        "country-codes": {
+            "alpha2": "RS",
+            "alpha3": "SRB",
+            "numeric": "688",
+            "ioc": "SRB"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "81"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/RS/flag.png",
+            "main-svg": "countries/RS/flag.svg",
+            "emoji": "\ud83c\uddf7\ud83c\uddf8",
+            "emblem-png": "countries/RS/emblem.png",
+            "emblem-svg": "countries/RS/emblem.svg"
+        },
+        "currencies": {
+            "RSD": {
+                "name": "Serbian dinar",
+                "symbol": "\u0434\u0438\u043d."
+            }
+        },
+        "altSpellings": [
+            "RS",
+            "Srbija",
+            "Republic of Serbia",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "Republika Srbija"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/RS/anthem.mp3",
+        "capital": "Belgrade",
+        "latlng": [
+            44.0,
+            21.0
+        ],
+        "borders": [
+            "BIH",
+            "BGR",
+            "HRV",
+            "HUN",
+            "UNK",
+            "MKD",
+            "MNE",
+            "ROU"
+        ],
+        "languages": {
+            "srp": "Serbian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 88361.0,
+        "demonym": [
+            "Serbian",
+            "Serbe"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
+        },
+        "legislature": [],
+        "population": 6908224,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SRB"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".rs",
+            ".\u0441\u0440\u0431"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

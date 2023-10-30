@@ -1,0 +1,92 @@
+{
+    "MZ": {
+        "name": {
+            "common": "Mozambique",
+            "official": "Republic of Mozambique"
+        },
+        "country-codes": {
+            "alpha2": "MZ",
+            "alpha3": "MOZ",
+            "numeric": "508",
+            "ioc": "MOZ"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "58"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MZ/flag.png",
+            "main-svg": "countries/MZ/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddff",
+            "emblem-png": "countries/MZ/emblem.png",
+            "emblem-svg": "countries/MZ/emblem.svg"
+        },
+        "currencies": {
+            "MZN": {
+                "name": "Mozambican metical",
+                "symbol": "MT"
+            }
+        },
+        "altSpellings": [
+            "MZ",
+            "Republic of Mozambique",
+            "Rep\u00fablica de Mo\u00e7ambique"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/MZ/anthem.mp3",
+        "capital": "Maputo",
+        "latlng": [
+            -18.25,
+            35.0
+        ],
+        "borders": [
+            "MWI",
+            "ZAF",
+            "SWZ",
+            "TZA",
+            "ZMB",
+            "ZWE"
+        ],
+        "languages": {
+            "por": "Portuguese"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 801590.0,
+        "demonym": [
+            "Mozambicain",
+            "Mozambican",
+            "Mozambicaine"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195273"
+        },
+        "legislature": [],
+        "population": 31255435,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MOC"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".mz"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "HT": {
+        "name": {
+            "common": "Haiti",
+            "official": "Republic of Haiti"
+        },
+        "country-codes": {
+            "alpha2": "HT",
+            "alpha3": "HTI",
+            "numeric": "332",
+            "ioc": "HAI"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "09"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/HT/flag.png",
+            "main-svg": "countries/HT/flag.svg",
+            "emoji": "\ud83c\udded\ud83c\uddf9",
+            "emblem-png": "countries/HT/emblem.png",
+            "emblem-svg": "countries/HT/emblem.svg"
+        },
+        "currencies": {
+            "HTG": {
+                "name": "Haitian gourde",
+                "symbol": "G"
+            }
+        },
+        "altSpellings": [
+            "HT",
+            "Republic of Haiti",
+            "R\u00e9publique d'Ha\u00efti",
+            "Repiblik Ayiti"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/HT/anthem.mp3",
+        "capital": "Port-au-Prince",
+        "latlng": [
+            19.0,
+            -72.41666666
+        ],
+        "borders": [
+            "DOM"
+        ],
+        "languages": {
+            "fra": "French",
+            "hat": "Haitian Creole"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 27750.0,
+        "demonym": [
+            "Haitian",
+            "Ha\u00eftien",
+            "Ha\u00eftienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307829"
+        },
+        "legislature": [],
+        "population": 11402533,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RH"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ht"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "IS": {
+        "name": {
+            "common": "Iceland",
+            "official": "Iceland"
+        },
+        "country-codes": {
+            "alpha2": "IS",
+            "alpha3": "ISL",
+            "numeric": "352",
+            "ioc": "ISL"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "54"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/IS/flag.png",
+            "main-svg": "countries/IS/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\uddf8",
+            "emblem-png": "countries/IS/emblem.png",
+            "emblem-svg": "countries/IS/emblem.svg"
+        },
+        "currencies": {
+            "ISK": {
+                "name": "Icelandic kr\u00f3na",
+                "symbol": "kr"
+            }
+        },
+        "altSpellings": [
+            "IS",
+            "Island",
+            "Republic of Iceland",
+            "L\u00fd\u00f0veldi\u00f0 \u00cdsland"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/IS/anthem.mp3",
+        "capital": "Reykjavik",
+        "latlng": [
+            65.0,
+            -18.0
+        ],
+        "borders": [],
+        "languages": {
+            "isl": "Icelandic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 103000.0,
+        "demonym": [
+            "Islandais",
+            "Icelander",
+            "Islandaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/299133"
+        },
+        "legislature": [],
+        "population": 366425,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "IS"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".is"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

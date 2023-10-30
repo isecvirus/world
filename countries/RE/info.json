@@ -1,0 +1,84 @@
+{
+    "RE": {
+        "name": {
+            "common": "R\u00e9union",
+            "official": "R\u00e9union Island"
+        },
+        "country-codes": {
+            "alpha2": "RE",
+            "alpha3": "REU",
+            "numeric": "638",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "62"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/RE/flag.png",
+            "main-svg": "countries/RE/flag.svg",
+            "emoji": "\ud83c\uddf7\ud83c\uddea",
+            "emblem-png": "countries/RE/emblem.png",
+            "emblem-svg": "countries/RE/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "RE",
+            "Reunion"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/RE/anthem.mp3",
+        "capital": "Saint-Denis",
+        "latlng": [
+            -21.15,
+            55.5
+        ],
+        "borders": [],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2511.0,
+        "demonym": [
+            "R\u00e9unionnais",
+            "R\u00e9unionnaise",
+            "R\u00e9unionese"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
+        },
+        "legislature": [],
+        "population": 840974,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".re"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

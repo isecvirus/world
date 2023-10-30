@@ -1,0 +1,85 @@
+{
+    "WS": {
+        "name": {
+            "common": "Samoa",
+            "official": "Independent State of Samoa"
+        },
+        "country-codes": {
+            "alpha2": "WS",
+            "alpha3": "WSM",
+            "numeric": "882",
+            "ioc": "SAM"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "85"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/WS/flag.png",
+            "main-svg": "countries/WS/flag.svg",
+            "emoji": "\ud83c\uddfc\ud83c\uddf8",
+            "emblem-png": "countries/WS/emblem.png",
+            "emblem-svg": "countries/WS/emblem.svg"
+        },
+        "currencies": {
+            "WST": {
+                "name": "Samoan t\u0101l\u0101",
+                "symbol": "T"
+            }
+        },
+        "altSpellings": [
+            "WS",
+            "Independent State of Samoa",
+            "Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/WS/anthem.mp3",
+        "capital": "Apia",
+        "latlng": [
+            -13.58333333,
+            -172.33333333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2842.0,
+        "demonym": [
+            "Samoane",
+            "Samoan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1872673"
+        },
+        "legislature": [],
+        "population": 198410,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "WS"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ws"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "GN": {
+        "name": {
+            "common": "Guinea",
+            "official": "Republic of Guinea"
+        },
+        "country-codes": {
+            "alpha2": "GN",
+            "alpha3": "GIN",
+            "numeric": "324",
+            "ioc": "GUI"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "24"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GN/flag.png",
+            "main-svg": "countries/GN/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddf3",
+            "emblem-png": "countries/GN/emblem.png",
+            "emblem-svg": "countries/GN/emblem.svg"
+        },
+        "currencies": {
+            "GNF": {
+                "name": "Guinean franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "GN",
+            "Republic of Guinea",
+            "R\u00e9publique de Guin\u00e9e"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/GN/anthem.mp3",
+        "capital": "Conakry",
+        "latlng": [
+            11.0,
+            -10.0
+        ],
+        "borders": [
+            "CIV",
+            "GNB",
+            "LBR",
+            "MLI",
+            "SEN",
+            "SLE"
+        ],
+        "languages": {
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 245857.0,
+        "demonym": [
+            "Guin\u00e9enne",
+            "Guin\u00e9en",
+            "Guinean"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192778"
+        },
+        "legislature": [],
+        "population": 13132792,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RG"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

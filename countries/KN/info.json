@@ -1,0 +1,84 @@
+{
+    "KN": {
+        "name": {
+            "common": "Saint Kitts and Nevis",
+            "official": "Federation of Saint Christopher and Nevis"
+        },
+        "country-codes": {
+            "alpha2": "KN",
+            "alpha3": "KNA",
+            "numeric": "659",
+            "ioc": "SKN"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "869"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KN/flag.png",
+            "main-svg": "countries/KN/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddf3",
+            "emblem-png": "countries/KN/emblem.png",
+            "emblem-svg": "countries/KN/emblem.svg"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "KN",
+            "Federation of Saint Christopher and Nevis"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/KN/anthem.mp3",
+        "capital": "Basseterre",
+        "latlng": [
+            17.33333333,
+            -62.75
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 261.0,
+        "demonym": [
+            "Kittitien-et-nevicien",
+            "Kittitian or Nevisian",
+            "Kittitienne-et-nevicienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
+        },
+        "legislature": [],
+        "population": 53192,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "KN"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".kn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

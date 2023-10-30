@@ -1,0 +1,89 @@
+{
+    "GW": {
+        "name": {
+            "common": "Guinea-Bissau",
+            "official": "Republic of Guinea-Bissau"
+        },
+        "country-codes": {
+            "alpha2": "GW",
+            "alpha3": "GNB",
+            "numeric": "624",
+            "ioc": "GBS"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "45"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GW/flag.png",
+            "main-svg": "countries/GW/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddfc",
+            "emblem-png": "countries/GW/emblem.png",
+            "emblem-svg": "countries/GW/emblem.svg"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "GW",
+            "Republic of Guinea-Bissau",
+            "Rep\u00fablica da Guin\u00e9-Bissau"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/GW/anthem.mp3",
+        "capital": "Bissau",
+        "latlng": [
+            12.0,
+            -15.0
+        ],
+        "borders": [
+            "GIN",
+            "SEN"
+        ],
+        "languages": {
+            "por": "Portuguese",
+            "pov": "Upper Guinea Creole"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 36125.0,
+        "demonym": [
+            "Guinea-Bissauan",
+            "Bissau-Guin\u00e9enne",
+            "Bissau-Guin\u00e9en"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192776"
+        },
+        "legislature": [],
+        "population": 1967998,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RGB"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

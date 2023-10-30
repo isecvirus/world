@@ -1,0 +1,92 @@
+{
+    "KE": {
+        "name": {
+            "common": "Kenya",
+            "official": "Republic of Kenya"
+        },
+        "country-codes": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "numeric": "404",
+            "ioc": "KEN"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "54"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KE/flag.png",
+            "main-svg": "countries/KE/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddea",
+            "emblem-png": "countries/KE/emblem.png",
+            "emblem-svg": "countries/KE/emblem.svg"
+        },
+        "currencies": {
+            "KES": {
+                "name": "Kenyan shilling",
+                "symbol": "Sh"
+            }
+        },
+        "altSpellings": [
+            "KE",
+            "Republic of Kenya",
+            "Jamhuri ya Kenya"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/KE/anthem.mp3",
+        "capital": "Nairobi",
+        "latlng": [
+            1.0,
+            38.0
+        ],
+        "borders": [
+            "ETH",
+            "SOM",
+            "SSD",
+            "TZA",
+            "UGA"
+        ],
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 580367.0,
+        "demonym": [
+            "Kenyan",
+            "K\u00e9nyane",
+            "K\u00e9nyan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192798"
+        },
+        "legislature": [],
+        "population": 53771300,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "EAK"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".ke"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

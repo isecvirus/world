@@ -1,0 +1,93 @@
+{
+    "RW": {
+        "name": {
+            "common": "Rwanda",
+            "official": "Republic of Rwanda"
+        },
+        "country-codes": {
+            "alpha2": "RW",
+            "alpha3": "RWA",
+            "numeric": "646",
+            "ioc": "RWA"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "50"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/RW/flag.png",
+            "main-svg": "countries/RW/flag.svg",
+            "emoji": "\ud83c\uddf7\ud83c\uddfc",
+            "emblem-png": "countries/RW/emblem.png",
+            "emblem-svg": "countries/RW/emblem.svg"
+        },
+        "currencies": {
+            "RWF": {
+                "name": "Rwandan franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "RW",
+            "Republic of Rwanda",
+            "Repubulika y'u Rwanda",
+            "R\u00e9publique du Rwanda"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "motto": [],
+        "anthem": "countries/RW/anthem.mp3",
+        "capital": "Kigali",
+        "latlng": [
+            -2.0,
+            30.0
+        ],
+        "borders": [
+            "BDI",
+            "COD",
+            "TZA",
+            "UGA"
+        ],
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "kin": "Kinyarwanda"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 26338.0,
+        "demonym": [
+            "Rwandais",
+            "Rwandan",
+            "Rwandaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/171496"
+        },
+        "legislature": [],
+        "population": 12952209,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "RWA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".rw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

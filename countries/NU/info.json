@@ -1,0 +1,84 @@
+{
+    "NU": {
+        "name": {
+            "common": "Niue",
+            "official": "Niue"
+        },
+        "country-codes": {
+            "alpha2": "NU",
+            "alpha3": "NIU",
+            "numeric": "570",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "83"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NU/flag.png",
+            "main-svg": "countries/NU/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddfa",
+            "emblem-png": "countries/NU/emblem.png",
+            "emblem-svg": "countries/NU/emblem.svg"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "NU"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "motto": [],
+        "anthem": "countries/NU/anthem.mp3",
+        "capital": "Alofi",
+        "latlng": [
+            -19.03333333,
+            -169.86666666
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "niu": "Niuean"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 260.0,
+        "demonym": [
+            "Niu\u00e9en",
+            "Niuean",
+            "Niu\u00e9enne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1558556"
+        },
+        "legislature": [],
+        "population": 1470,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NZ"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".nu"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

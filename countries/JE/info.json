@@ -1,0 +1,92 @@
+{
+    "JE": {
+        "name": {
+            "common": "Jersey",
+            "official": "Bailiwick of Jersey"
+        },
+        "country-codes": {
+            "alpha2": "JE",
+            "alpha3": "JEY",
+            "numeric": "832",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/JE/flag.png",
+            "main-svg": "countries/JE/flag.svg",
+            "emoji": "\ud83c\uddef\ud83c\uddea",
+            "emblem-png": "countries/JE/emblem.png",
+            "emblem-svg": "countries/JE/emblem.svg"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "JEP": {
+                "name": "Jersey pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "JE",
+            "Bailiwick of Jersey",
+            "Bailliage de Jersey",
+            "Bailliage d\u00e9 J\u00e8rri"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/JE/anthem.mp3",
+        "capital": "Saint Helier",
+        "latlng": [
+            49.25,
+            -2.16666666
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nrf": "J\u00e8rriais"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 116.0,
+        "demonym": [
+            "Jersiais",
+            "Channel Islander",
+            "Jersiaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/367988"
+        },
+        "legislature": [],
+        "population": 100800,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GBJ"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".je"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

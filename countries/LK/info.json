@@ -1,0 +1,90 @@
+{
+    "LK": {
+        "name": {
+            "common": "Sri Lanka",
+            "official": "Democratic Socialist Republic of Sri Lanka"
+        },
+        "country-codes": {
+            "alpha2": "LK",
+            "alpha3": "LKA",
+            "numeric": "144",
+            "ioc": "SRI"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LK/flag.png",
+            "main-svg": "countries/LK/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\uddf0",
+            "emblem-png": "countries/LK/emblem.png",
+            "emblem-svg": "countries/LK/emblem.svg"
+        },
+        "currencies": {
+            "LKR": {
+                "name": "Sri Lankan rupee",
+                "symbol": "Rs  \u0dbb\u0dd4"
+            }
+        },
+        "altSpellings": [
+            "LK",
+            "ila\u1e45kai",
+            "Democratic Socialist Republic of Sri Lanka"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/LK/anthem.mp3",
+        "capital": "Sri Jayawardenepura Kotte",
+        "latlng": [
+            7.0,
+            81.0
+        ],
+        "borders": [
+            "IND"
+        ],
+        "languages": {
+            "sin": "Sinhala",
+            "tam": "Tamil"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 65610.0,
+        "demonym": [
+            "Sri-lankaise",
+            "Sri Lankan",
+            "Sri-lankais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/536807"
+        },
+        "legislature": [],
+        "population": 21919000,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CL"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".lk",
+            ".\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            ".\u0dbd\u0d82\u0d9a\u0dcf"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

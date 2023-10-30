@@ -1,0 +1,89 @@
+{
+    "FJ": {
+        "name": {
+            "common": "Fiji",
+            "official": "Republic of Fiji"
+        },
+        "country-codes": {
+            "alpha2": "FJ",
+            "alpha3": "FJI",
+            "numeric": "242",
+            "ioc": "FIJ"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "79"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/FJ/flag.png",
+            "main-svg": "countries/FJ/flag.svg",
+            "emoji": "\ud83c\uddeb\ud83c\uddef",
+            "emblem-png": "countries/FJ/emblem.png",
+            "emblem-svg": "countries/FJ/emblem.svg"
+        },
+        "currencies": {
+            "FJD": {
+                "name": "Fijian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "FJ",
+            "Viti",
+            "Republic of Fiji",
+            "Matanitu ko Viti",
+            "Fij\u012b Ga\u1e47ar\u0101jya"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "motto": [],
+        "anthem": "countries/FJ/anthem.mp3",
+        "capital": "Suva",
+        "latlng": [
+            17.7134,
+            178.065
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "fij": "Fijian",
+            "hif": "Fiji Hindi"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 18272.0,
+        "demonym": [
+            "Fidjienne",
+            "Fidjien",
+            "Fijian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
+        },
+        "legislature": [],
+        "population": 896444,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "FJI"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".fj"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

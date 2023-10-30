@@ -1,0 +1,90 @@
+{
+    "CZ": {
+        "name": {
+            "common": "Czechia",
+            "official": "Czech Republic"
+        },
+        "country-codes": {
+            "alpha2": "CZ",
+            "alpha3": "CZE",
+            "numeric": "203",
+            "ioc": "CZE"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "20"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CZ/flag.png",
+            "main-svg": "countries/CZ/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddff",
+            "emblem-png": "countries/CZ/emblem.png",
+            "emblem-svg": "countries/CZ/emblem.svg"
+        },
+        "currencies": {
+            "CZK": {
+                "name": "Czech koruna",
+                "symbol": "K\u010d"
+            }
+        },
+        "altSpellings": [
+            "CZ",
+            "\u010cesk\u00e1 republika",
+            "\u010cesko"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "motto": [],
+        "anthem": "countries/CZ/anthem.mp3",
+        "capital": "Prague",
+        "latlng": [
+            49.75,
+            15.5
+        ],
+        "borders": [
+            "AUT",
+            "DEU",
+            "POL",
+            "SVK"
+        ],
+        "languages": {
+            "ces": "Czech",
+            "slk": "Slovak"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 78865.0,
+        "demonym": [
+            "Czech",
+            "Tch\u00e8que"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
+        },
+        "legislature": [],
+        "population": 10698896,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CZ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cz"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

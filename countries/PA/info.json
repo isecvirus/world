@@ -1,0 +1,92 @@
+{
+    "PA": {
+        "name": {
+            "common": "Panama",
+            "official": "Republic of Panama"
+        },
+        "country-codes": {
+            "alpha2": "PA",
+            "alpha3": "PAN",
+            "numeric": "591",
+            "ioc": "PAN"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "07"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/PA/flag.png",
+            "main-svg": "countries/PA/flag.svg",
+            "emoji": "\ud83c\uddf5\ud83c\udde6",
+            "emblem-png": "countries/PA/emblem.png",
+            "emblem-svg": "countries/PA/emblem.svg"
+        },
+        "currencies": {
+            "PAB": {
+                "name": "Panamanian balboa",
+                "symbol": "B/."
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "PA",
+            "Republic of Panama",
+            "Rep\u00fablica de Panam\u00e1"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "motto": [],
+        "anthem": "countries/PA/anthem.mp3",
+        "capital": "Panama City",
+        "latlng": [
+            9.0,
+            -80.0
+        ],
+        "borders": [
+            "COL",
+            "CRI"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 75417.0,
+        "demonym": [
+            "Panam\u00e9en",
+            "Panam\u00e9enne",
+            "Panamanian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+        },
+        "legislature": [],
+        "population": 4314768,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "PA"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".pa"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

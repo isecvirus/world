@@ -1,0 +1,103 @@
+{
+    "ZW": {
+        "name": {
+            "common": "Zimbabwe",
+            "official": "Republic of Zimbabwe"
+        },
+        "country-codes": {
+            "alpha2": "ZW",
+            "alpha3": "ZWE",
+            "numeric": "716",
+            "ioc": "ZIM"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "63"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/ZW/flag.png",
+            "main-svg": "countries/ZW/flag.svg",
+            "emoji": "\ud83c\uddff\ud83c\uddfc",
+            "emblem-png": "countries/ZW/emblem.png",
+            "emblem-svg": "countries/ZW/emblem.svg"
+        },
+        "currencies": {
+            "ZWL": {
+                "name": "Zimbabwean dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "motto": [],
+        "anthem": "countries/ZW/anthem.mp3",
+        "capital": "Harare",
+        "latlng": [
+            -20.0,
+            30.0
+        ],
+        "borders": [
+            "BWA",
+            "MOZ",
+            "ZAF",
+            "ZMB"
+        ],
+        "languages": {
+            "bwg": "Chibarwe",
+            "eng": "English",
+            "kck": "Kalanga",
+            "khi": "Khoisan",
+            "ndc": "Ndau",
+            "nde": "Northern Ndebele",
+            "nya": "Chewa",
+            "sna": "Shona",
+            "sot": "Sotho",
+            "toi": "Tonga",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zib": "Zimbabwean Sign Language"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 390757.0,
+        "demonym": [
+            "Zimbabw\u00e9enne",
+            "Zimbabw\u00e9en",
+            "Zimbabwean"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195272"
+        },
+        "legislature": [],
+        "population": 14862927,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "ZW"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".zw"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

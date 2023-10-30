@@ -1,0 +1,83 @@
+{
+    "BB": {
+        "name": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "country-codes": {
+            "alpha2": "BB",
+            "alpha3": "BRB",
+            "numeric": "052",
+            "ioc": "BAR"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "246"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BB/flag.png",
+            "main-svg": "countries/BB/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\udde7",
+            "emblem-png": "countries/BB/emblem.png",
+            "emblem-svg": "countries/BB/emblem.svg"
+        },
+        "currencies": {
+            "BBD": {
+                "name": "Barbadian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "BB"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/BB/anthem.mp3",
+        "capital": "Bridgetown",
+        "latlng": [
+            13.16666666,
+            -59.53333333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 430.0,
+        "demonym": [
+            "Barbadien",
+            "Barbadienne",
+            "Barbadian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/547511"
+        },
+        "legislature": [],
+        "population": 287371,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BDS"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".bb"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

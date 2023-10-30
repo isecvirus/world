@@ -1,0 +1,94 @@
+{
+    "IQ": {
+        "name": {
+            "common": "Iraq",
+            "official": "Republic of Iraq"
+        },
+        "country-codes": {
+            "alpha2": "IQ",
+            "alpha3": "IRQ",
+            "numeric": "368",
+            "ioc": "IRQ"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "64"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/IQ/flag.png",
+            "main-svg": "countries/IQ/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\uddf6",
+            "emblem-png": "countries/IQ/emblem.png",
+            "emblem-svg": "countries/IQ/emblem.svg"
+        },
+        "currencies": {
+            "IQD": {
+                "name": "Iraqi dinar",
+                "symbol": "\u0639.\u062f"
+            }
+        },
+        "altSpellings": [
+            "IQ",
+            "Republic of Iraq",
+            "Jumh\u016briyyat al-\u2018Ir\u0101q"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/IQ/anthem.mp3",
+        "capital": "Baghdad",
+        "latlng": [
+            33.0,
+            44.0
+        ],
+        "borders": [
+            "IRN",
+            "JOR",
+            "KWT",
+            "SAU",
+            "SYR",
+            "TUR"
+        ],
+        "languages": {
+            "ara": "Arabic",
+            "arc": "Aramaic",
+            "ckb": "Sorani"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 438317.0,
+        "demonym": [
+            "Irakien",
+            "Iraqi",
+            "Irakienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/304934"
+        },
+        "legislature": [],
+        "population": 40222503,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "IRQ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".iq"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

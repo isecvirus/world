@@ -1,0 +1,92 @@
+{
+    "KG": {
+        "name": {
+            "common": "Kyrgyzstan",
+            "official": "Kyrgyz Republic"
+        },
+        "country-codes": {
+            "alpha2": "KG",
+            "alpha3": "KGZ",
+            "numeric": "417",
+            "ioc": "KGZ"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "96"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KG/flag.png",
+            "main-svg": "countries/KG/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddec",
+            "emblem-png": "countries/KG/emblem.png",
+            "emblem-svg": "countries/KG/emblem.svg"
+        },
+        "currencies": {
+            "KGS": {
+                "name": "Kyrgyzstani som",
+                "symbol": "\u0441"
+            }
+        },
+        "altSpellings": [
+            "KG",
+            "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+            "Kyrgyz Republic",
+            "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "Kyrgyz Respublikasy"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "motto": [],
+        "anthem": "countries/KG/anthem.mp3",
+        "capital": "Bishkek",
+        "latlng": [
+            41.0,
+            75.0
+        ],
+        "borders": [
+            "CHN",
+            "KAZ",
+            "TJK",
+            "UZB"
+        ],
+        "languages": {
+            "kir": "Kyrgyz",
+            "rus": "Russian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 199951.0,
+        "demonym": [
+            "Kirghiz",
+            "Kirghize"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/178009"
+        },
+        "legislature": [],
+        "population": 6591600,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "KS"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".kg"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

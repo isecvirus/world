@@ -1,0 +1,93 @@
+{
+    "LU": {
+        "name": {
+            "common": "Luxembourg",
+            "official": "Grand Duchy of Luxembourg"
+        },
+        "country-codes": {
+            "alpha2": "LU",
+            "alpha3": "LUX",
+            "numeric": "442",
+            "ioc": "LUX"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "52"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LU/flag.png",
+            "main-svg": "countries/LU/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\uddfa",
+            "emblem-png": "countries/LU/emblem.png",
+            "emblem-svg": "countries/LU/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "LU",
+            "Grand Duchy of Luxembourg",
+            "Grand-Duch\u00e9 de Luxembourg",
+            "Gro\u00dfherzogtum Luxemburg",
+            "Groussherzogtum L\u00ebtzebuerg"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "motto": [],
+        "anthem": "countries/LU/anthem.mp3",
+        "capital": "Luxembourg",
+        "latlng": [
+            49.75,
+            6.16666666
+        ],
+        "borders": [
+            "BEL",
+            "FRA",
+            "DEU"
+        ],
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "ltz": "Luxembourgish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 2586.0,
+        "demonym": [
+            "Luxembourgeois",
+            "Luxembourger",
+            "Luxembourgeoise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
+        },
+        "legislature": [],
+        "population": 632275,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "L"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".lu"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

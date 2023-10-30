@@ -1,0 +1,90 @@
+{
+    "BG": {
+        "name": {
+            "common": "Bulgaria",
+            "official": "Republic of Bulgaria"
+        },
+        "country-codes": {
+            "alpha2": "BG",
+            "alpha3": "BGR",
+            "numeric": "100",
+            "ioc": "BUL"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "59"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BG/flag.png",
+            "main-svg": "countries/BG/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddec",
+            "emblem-png": "countries/BG/emblem.png",
+            "emblem-svg": "countries/BG/emblem.svg"
+        },
+        "currencies": {
+            "BGN": {
+                "name": "Bulgarian lev",
+                "symbol": "\u043b\u0432"
+            }
+        },
+        "altSpellings": [
+            "BG",
+            "Republic of Bulgaria",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "motto": [],
+        "anthem": "countries/BG/anthem.mp3",
+        "capital": "Sofia",
+        "latlng": [
+            43.0,
+            25.0
+        ],
+        "borders": [
+            "GRC",
+            "MKD",
+            "ROU",
+            "SRB",
+            "TUR"
+        ],
+        "languages": {
+            "bul": "Bulgarian"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 110879.0,
+        "demonym": [
+            "Bulgarian",
+            "Bulgare"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
+        },
+        "legislature": [],
+        "population": 6927288,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BG"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bg"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

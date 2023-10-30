@@ -1,0 +1,89 @@
+{
+    "IM": {
+        "name": {
+            "common": "Isle of Man",
+            "official": "Isle of Man"
+        },
+        "country-codes": {
+            "alpha2": "IM",
+            "alpha3": "IMN",
+            "numeric": "833",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/IM/flag.png",
+            "main-svg": "countries/IM/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\uddf2",
+            "emblem-png": "countries/IM/emblem.png",
+            "emblem-svg": "countries/IM/emblem.svg"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "IMP": {
+                "name": "Manx pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "altSpellings": [
+            "IM",
+            "Ellan Vannin",
+            "Mann",
+            "Mannin"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/IM/anthem.mp3",
+        "capital": "Douglas",
+        "latlng": [
+            54.25,
+            -4.5
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "glv": "Manx"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 572.0,
+        "demonym": [
+            "Manx"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62269"
+        },
+        "legislature": [],
+        "population": 85032,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GBM"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".im"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

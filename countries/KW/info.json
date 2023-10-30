@@ -1,0 +1,88 @@
+{
+    "KW": {
+        "name": {
+            "common": "Kuwait",
+            "official": "State of Kuwait"
+        },
+        "country-codes": {
+            "alpha2": "KW",
+            "alpha3": "KWT",
+            "numeric": "414",
+            "ioc": "KUW"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "65"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/KW/flag.png",
+            "main-svg": "countries/KW/flag.svg",
+            "emoji": "\ud83c\uddf0\ud83c\uddfc",
+            "emblem-png": "countries/KW/emblem.png",
+            "emblem-svg": "countries/KW/emblem.svg"
+        },
+        "currencies": {
+            "KWD": {
+                "name": "Kuwaiti dinar",
+                "symbol": "\u062f.\u0643"
+            }
+        },
+        "altSpellings": [
+            "KW",
+            "State of Kuwait",
+            "Dawlat al-Kuwait"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/KW/anthem.mp3",
+        "capital": "Kuwait City",
+        "latlng": [
+            29.5,
+            45.75
+        ],
+        "borders": [
+            "IRQ",
+            "SAU"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 17818.0,
+        "demonym": [
+            "Kowe\u00eftien",
+            "Kowe\u00eftienne",
+            "Kuwaiti"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/305099"
+        },
+        "legislature": [],
+        "population": 4270563,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "KWT"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".kw"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

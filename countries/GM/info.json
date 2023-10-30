@@ -1,0 +1,86 @@
+{
+    "GM": {
+        "name": {
+            "common": "Gambia",
+            "official": "Republic of the Gambia"
+        },
+        "country-codes": {
+            "alpha2": "GM",
+            "alpha3": "GMB",
+            "numeric": "270",
+            "ioc": "GAM"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "20"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/GM/flag.png",
+            "main-svg": "countries/GM/flag.svg",
+            "emoji": "\ud83c\uddec\ud83c\uddf2",
+            "emblem-png": "countries/GM/emblem.png",
+            "emblem-svg": "countries/GM/emblem.svg"
+        },
+        "currencies": {
+            "GMD": {
+                "name": "dalasi",
+                "symbol": "D"
+            }
+        },
+        "altSpellings": [
+            "GM",
+            "Republic of the Gambia"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "motto": [],
+        "anthem": "countries/GM/anthem.mp3",
+        "capital": "Banjul",
+        "latlng": [
+            13.46666666,
+            -16.56666666
+        ],
+        "borders": [
+            "SEN"
+        ],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 10689.0,
+        "demonym": [
+            "Gambian",
+            "Gambien",
+            "Gambienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192774"
+        },
+        "legislature": [],
+        "population": 2416664,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "WAG"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".gm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

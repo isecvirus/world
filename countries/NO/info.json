@@ -1,0 +1,94 @@
+{
+    "NO": {
+        "name": {
+            "common": "Norway",
+            "official": "Kingdom of Norway"
+        },
+        "country-codes": {
+            "alpha2": "NO",
+            "alpha3": "NOR",
+            "numeric": "578",
+            "ioc": "NOR"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "7"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NO/flag.png",
+            "main-svg": "countries/NO/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddf4",
+            "emblem-png": "countries/NO/emblem.png",
+            "emblem-svg": "countries/NO/emblem.svg"
+        },
+        "currencies": {
+            "NOK": {
+                "name": "Norwegian krone",
+                "symbol": "kr"
+            }
+        },
+        "altSpellings": [
+            "NO",
+            "Norge",
+            "Noreg",
+            "Kingdom of Norway",
+            "Kongeriket Norge",
+            "Kongeriket Noreg"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/NO/anthem.mp3",
+        "capital": "Oslo",
+        "latlng": [
+            62.0,
+            10.0
+        ],
+        "borders": [
+            "FIN",
+            "SWE",
+            "RUS"
+        ],
+        "languages": {
+            "nno": "Norwegian Nynorsk",
+            "nob": "Norwegian Bokm\u00e5l",
+            "smi": "Sami"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 323802.0,
+        "demonym": [
+            "Norv\u00e9gien",
+            "Norv\u00e9gienne",
+            "Norwegian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
+        },
+        "legislature": [],
+        "population": 5379475,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "N"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".no"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "IR": {
+        "name": {
+            "common": "Iran",
+            "official": "Islamic Republic of Iran"
+        },
+        "country-codes": {
+            "alpha2": "IR",
+            "alpha3": "IRN",
+            "numeric": "364",
+            "ioc": "IRI"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "8"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/IR/flag.png",
+            "main-svg": "countries/IR/flag.svg",
+            "emoji": "\ud83c\uddee\ud83c\uddf7",
+            "emblem-png": "countries/IR/emblem.png",
+            "emblem-svg": "countries/IR/emblem.svg"
+        },
+        "currencies": {
+            "IRR": {
+                "name": "Iranian rial",
+                "symbol": "\ufdfc"
+            }
+        },
+        "altSpellings": [
+            "IR",
+            "Islamic Republic of Iran",
+            "Iran, Islamic Republic of",
+            "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "motto": [],
+        "anthem": "countries/IR/anthem.mp3",
+        "capital": "Tehran",
+        "latlng": [
+            32.0,
+            53.0
+        ],
+        "borders": [
+            "AFG",
+            "ARM",
+            "AZE",
+            "IRQ",
+            "PAK",
+            "TUR",
+            "TKM"
+        ],
+        "languages": {
+            "fas": "Persian (Farsi)"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1648195.0,
+        "demonym": [
+            "Iranienne",
+            "Iranien",
+            "Iranian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/304938"
+        },
+        "legislature": [],
+        "population": 83992953,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "IR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ir",
+            "\u0627\u06cc\u0631\u0627\u0646."
+        ],
+        "cities": {},
+        "startOfWeek": "saturday"
+    }
+}

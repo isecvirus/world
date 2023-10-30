@@ -1,0 +1,92 @@
+{
+    "FI": {
+        "name": {
+            "common": "Finland",
+            "official": "Republic of Finland"
+        },
+        "country-codes": {
+            "alpha2": "FI",
+            "alpha3": "FIN",
+            "numeric": "246",
+            "ioc": "FIN"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "58"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/FI/flag.png",
+            "main-svg": "countries/FI/flag.svg",
+            "emoji": "\ud83c\uddeb\ud83c\uddee",
+            "emblem-png": "countries/FI/emblem.png",
+            "emblem-svg": "countries/FI/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "FI",
+            "Suomi",
+            "Republic of Finland",
+            "Suomen tasavalta",
+            "Republiken Finland"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/FI/anthem.mp3",
+        "capital": "Helsinki",
+        "latlng": [
+            64.0,
+            26.0
+        ],
+        "borders": [
+            "NOR",
+            "SWE",
+            "RUS"
+        ],
+        "languages": {
+            "fin": "Finnish",
+            "swe": "Swedish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 338424.0,
+        "demonym": [
+            "Finlandais",
+            "Finnish",
+            "Finlandaise"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+            "openStreetMaps": "openstreetmap.org/relation/54224"
+        },
+        "legislature": [],
+        "population": 5530719,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "FIN"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".fi"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

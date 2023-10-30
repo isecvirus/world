@@ -1,0 +1,92 @@
+{
+    "LY": {
+        "name": {
+            "common": "Libya",
+            "official": "State of Libya"
+        },
+        "country-codes": {
+            "alpha2": "LY",
+            "alpha3": "LBY",
+            "numeric": "434",
+            "ioc": "LBA"
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "18"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LY/flag.png",
+            "main-svg": "countries/LY/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\uddfe",
+            "emblem-png": "countries/LY/emblem.png",
+            "emblem-svg": "countries/LY/emblem.svg"
+        },
+        "currencies": {
+            "LYD": {
+                "name": "Libyan dinar",
+                "symbol": "\u0644.\u062f"
+            }
+        },
+        "altSpellings": [
+            "LY",
+            "State of Libya",
+            "Dawlat Libya"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "motto": [],
+        "anthem": "countries/LY/anthem.mp3",
+        "capital": "Tripoli",
+        "latlng": [
+            25.0,
+            17.0
+        ],
+        "borders": [
+            "DZA",
+            "TCD",
+            "EGY",
+            "NER",
+            "SDN",
+            "TUN"
+        ],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1759540.0,
+        "demonym": [
+            "Libyen",
+            "Libyan",
+            "Libyenne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+            "openStreetMaps": "openstreetmap.org/relation/192758"
+        },
+        "legislature": [],
+        "population": 6871287,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "LAR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ly"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

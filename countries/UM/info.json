@@ -1,0 +1,83 @@
+{
+    "UM": {
+        "name": {
+            "common": "United States Minor Outlying Islands",
+            "official": "United States Minor Outlying Islands"
+        },
+        "country-codes": {
+            "alpha2": "UM",
+            "alpha3": "UMI",
+            "numeric": "581",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "68"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/UM/flag.png",
+            "main-svg": "countries/UM/flag.svg",
+            "emoji": "\ud83c\uddfa\ud83c\uddf2",
+            "emblem-png": "countries/UM/emblem.png",
+            "emblem-svg": "countries/UM/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "UM"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "motto": [],
+        "anthem": "countries/UM/anthem.mp3",
+        "capital": "Washington DC",
+        "latlng": [
+            19.3,
+            166.633333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 34.2,
+        "demonym": [
+            "American Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/6430384"
+        },
+        "legislature": [],
+        "population": 300,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".us"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "NI": {
+        "name": {
+            "common": "Nicaragua",
+            "official": "Republic of Nicaragua"
+        },
+        "country-codes": {
+            "alpha2": "NI",
+            "alpha3": "NIC",
+            "numeric": "558",
+            "ioc": "NCA"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "05"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NI/flag.png",
+            "main-svg": "countries/NI/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddee",
+            "emblem-png": "countries/NI/emblem.png",
+            "emblem-svg": "countries/NI/emblem.svg"
+        },
+        "currencies": {
+            "NIO": {
+                "name": "Nicaraguan c\u00f3rdoba",
+                "symbol": "C$"
+            }
+        },
+        "altSpellings": [
+            "NI",
+            "Republic of Nicaragua",
+            "Rep\u00fablica de Nicaragua"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "motto": [],
+        "anthem": "countries/NI/anthem.mp3",
+        "capital": "Managua",
+        "latlng": [
+            13.0,
+            -85.0
+        ],
+        "borders": [
+            "CRI",
+            "HND"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 130373.0,
+        "demonym": [
+            "Nicaraguayen",
+            "Nicaraguan",
+            "Nicaraguayenne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+        },
+        "legislature": [],
+        "population": 6624554,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NIC"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ni"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

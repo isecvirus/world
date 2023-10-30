@@ -1,0 +1,88 @@
+{
+    "SE": {
+        "name": {
+            "common": "Sweden",
+            "official": "Kingdom of Sweden"
+        },
+        "country-codes": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "numeric": "752",
+            "ioc": "SWE"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SE/flag.png",
+            "main-svg": "countries/SE/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddea",
+            "emblem-png": "countries/SE/emblem.png",
+            "emblem-svg": "countries/SE/emblem.svg"
+        },
+        "currencies": {
+            "SEK": {
+                "name": "Swedish krona",
+                "symbol": "kr"
+            }
+        },
+        "altSpellings": [
+            "SE",
+            "Kingdom of Sweden",
+            "Konungariket Sverige"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "motto": [],
+        "anthem": "countries/SE/anthem.mp3",
+        "capital": "Stockholm",
+        "latlng": [
+            62.0,
+            15.0
+        ],
+        "borders": [
+            "FIN",
+            "NOR"
+        ],
+        "languages": {
+            "swe": "Swedish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 450295.0,
+        "demonym": [
+            "Swedish",
+            "Su\u00e9doise",
+            "Su\u00e9dois"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
+        },
+        "legislature": [],
+        "population": 10353442,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "S"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".se"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "NZ": {
+        "name": {
+            "common": "New Zealand",
+            "official": "New Zealand"
+        },
+        "country-codes": {
+            "alpha2": "NZ",
+            "alpha3": "NZL",
+            "numeric": "554",
+            "ioc": "NZL"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/NZ/flag.png",
+            "main-svg": "countries/NZ/flag.svg",
+            "emoji": "\ud83c\uddf3\ud83c\uddff",
+            "emblem-png": "countries/NZ/emblem.png",
+            "emblem-svg": "countries/NZ/emblem.svg"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "NZ",
+            "Aotearoa"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "motto": [],
+        "anthem": "countries/NZ/anthem.mp3",
+        "capital": "Wellington",
+        "latlng": [
+            -41.0,
+            174.0
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "mri": "M\u0101ori",
+            "nzs": "New Zealand Sign Language"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 270467.0,
+        "demonym": [
+            "New Zealander",
+            "Neo-Z\u00e9landaise",
+            "Neo-Z\u00e9landais"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
+        },
+        "legislature": [],
+        "population": 5084300,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00",
+            "UTC+12:45",
+            "UTC+13:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "NZ"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".nz"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

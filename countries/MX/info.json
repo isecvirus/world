@@ -1,0 +1,92 @@
+{
+    "MX": {
+        "name": {
+            "common": "Mexico",
+            "official": "United Mexican States"
+        },
+        "country-codes": {
+            "alpha2": "MX",
+            "alpha3": "MEX",
+            "numeric": "484",
+            "ioc": "MEX"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/MX/flag.png",
+            "main-svg": "countries/MX/flag.svg",
+            "emoji": "\ud83c\uddf2\ud83c\uddfd",
+            "emblem-png": "countries/MX/emblem.png",
+            "emblem-svg": "countries/MX/emblem.svg"
+        },
+        "currencies": {
+            "MXN": {
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "MX",
+            "Mexicanos",
+            "United Mexican States",
+            "Estados Unidos Mexicanos"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "motto": [],
+        "anthem": "countries/MX/anthem.mp3",
+        "capital": "Mexico City",
+        "latlng": [
+            23.0,
+            -102.0
+        ],
+        "borders": [
+            "BLZ",
+            "GTM",
+            "USA"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 1964375.0,
+        "demonym": [
+            "Mexican",
+            "Mexicain",
+            "Mexicaine"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+        },
+        "legislature": [],
+        "population": 128932753,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "MEX"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".mx"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "LI": {
+        "name": {
+            "common": "Liechtenstein",
+            "official": "Principality of Liechtenstein"
+        },
+        "country-codes": {
+            "alpha2": "LI",
+            "alpha3": "LIE",
+            "numeric": "438",
+            "ioc": "LIE"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "23"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/LI/flag.png",
+            "main-svg": "countries/LI/flag.svg",
+            "emoji": "\ud83c\uddf1\ud83c\uddee",
+            "emblem-png": "countries/LI/emblem.png",
+            "emblem-svg": "countries/LI/emblem.svg"
+        },
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr"
+            }
+        },
+        "altSpellings": [
+            "LI",
+            "Principality of Liechtenstein",
+            "F\u00fcrstentum Liechtenstein"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "motto": [],
+        "anthem": "countries/LI/anthem.mp3",
+        "capital": "Vaduz",
+        "latlng": [
+            47.26666666,
+            9.53333333
+        ],
+        "borders": [
+            "AUT",
+            "CHE"
+        ],
+        "languages": {
+            "deu": "German"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 160.0,
+        "demonym": [
+            "Liechtensteinois",
+            "Liechtensteinoise",
+            "Liechtensteiner"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
+        },
+        "legislature": [],
+        "population": 38137,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "FL"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".li"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

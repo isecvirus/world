@@ -1,0 +1,90 @@
+{
+    "VE": {
+        "name": {
+            "common": "Venezuela",
+            "official": "Bolivarian Republic of Venezuela"
+        },
+        "country-codes": {
+            "alpha2": "VE",
+            "alpha3": "VEN",
+            "numeric": "862",
+            "ioc": "VEN"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "8"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/VE/flag.png",
+            "main-svg": "countries/VE/flag.svg",
+            "emoji": "\ud83c\uddfb\ud83c\uddea",
+            "emblem-png": "countries/VE/emblem.png",
+            "emblem-svg": "countries/VE/emblem.svg"
+        },
+        "currencies": {
+            "VES": {
+                "name": "Venezuelan bol\u00edvar soberano",
+                "symbol": "Bs.S."
+            }
+        },
+        "altSpellings": [
+            "VE",
+            "Bolivarian Republic of Venezuela",
+            "Venezuela, Bolivarian Republic of",
+            "Rep\u00fablica Bolivariana de Venezuela"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "motto": [],
+        "anthem": "countries/VE/anthem.mp3",
+        "capital": "Caracas",
+        "latlng": [
+            8.0,
+            -66.0
+        ],
+        "borders": [
+            "BRA",
+            "COL",
+            "GUY"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 916445.0,
+        "demonym": [
+            "V\u00e9n\u00e9zu\u00e9lien",
+            "V\u00e9n\u00e9zu\u00e9lienne",
+            "Venezuelan"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+        },
+        "legislature": [],
+        "population": 28435943,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "YV"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ve"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

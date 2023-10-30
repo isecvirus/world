@@ -1,0 +1,84 @@
+{
+    "TT": {
+        "name": {
+            "common": "Trinidad and Tobago",
+            "official": "Republic of Trinidad and Tobago"
+        },
+        "country-codes": {
+            "alpha2": "TT",
+            "alpha3": "TTO",
+            "numeric": "780",
+            "ioc": "TTO"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "868"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TT/flag.png",
+            "main-svg": "countries/TT/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddf9",
+            "emblem-png": "countries/TT/emblem.png",
+            "emblem-svg": "countries/TT/emblem.svg"
+        },
+        "currencies": {
+            "TTD": {
+                "name": "Trinidad and Tobago dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "TT",
+            "Republic of Trinidad and Tobago"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/TT/anthem.mp3",
+        "capital": "Port of Spain",
+        "latlng": [
+            10.6918,
+            61.2225
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 5130.0,
+        "demonym": [
+            "Trinidadienne",
+            "Trinidadien",
+            "Trinidadian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/555717"
+        },
+        "legislature": [],
+        "population": 1399491,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "TT"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".tt"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

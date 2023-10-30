@@ -1,0 +1,84 @@
+{
+    "JM": {
+        "name": {
+            "common": "Jamaica",
+            "official": "Jamaica"
+        },
+        "country-codes": {
+            "alpha2": "JM",
+            "alpha3": "JAM",
+            "numeric": "388",
+            "ioc": "JAM"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "876"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/JM/flag.png",
+            "main-svg": "countries/JM/flag.svg",
+            "emoji": "\ud83c\uddef\ud83c\uddf2",
+            "emblem-png": "countries/JM/emblem.png",
+            "emblem-svg": "countries/JM/emblem.svg"
+        },
+        "currencies": {
+            "JMD": {
+                "name": "Jamaican dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "JM"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/JM/anthem.mp3",
+        "capital": "Kingston",
+        "latlng": [
+            18.25,
+            -77.5
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English",
+            "jam": "Jamaican Patois"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 10991.0,
+        "demonym": [
+            "Jamaican",
+            "Jama\u00efcain",
+            "Jama\u00efcaine"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/555017"
+        },
+        "legislature": [],
+        "population": 2961161,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "JA"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".jm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

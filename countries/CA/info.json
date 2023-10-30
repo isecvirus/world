@@ -1,0 +1,91 @@
+{
+    "CA": {
+        "name": {
+            "common": "Canada",
+            "official": "Canada"
+        },
+        "country-codes": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "numeric": "124",
+            "ioc": "CAN"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                ""
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CA/flag.png",
+            "main-svg": "countries/CA/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\udde6",
+            "emblem-png": "countries/CA/emblem.png",
+            "emblem-svg": "countries/CA/emblem.svg"
+        },
+        "currencies": {
+            "CAD": {
+                "name": "Canadian dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "CA"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "motto": [],
+        "anthem": "countries/CA/anthem.mp3",
+        "capital": "Ottawa",
+        "latlng": [
+            60.0,
+            -95.0
+        ],
+        "borders": [
+            "USA"
+        ],
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 9984670.0,
+        "demonym": [
+            "Canadien",
+            "Canadian",
+            "Canadienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+        },
+        "legislature": [],
+        "population": 38005238,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:30"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CDN"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".ca"
+        ],
+        "cities": {},
+        "startOfWeek": "sunday"
+    }
+}

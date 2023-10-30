@@ -1,0 +1,89 @@
+{
+    "HN": {
+        "name": {
+            "common": "Honduras",
+            "official": "Republic of Honduras"
+        },
+        "country-codes": {
+            "alpha2": "HN",
+            "alpha3": "HND",
+            "numeric": "340",
+            "ioc": "HON"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "04"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/HN/flag.png",
+            "main-svg": "countries/HN/flag.svg",
+            "emoji": "\ud83c\udded\ud83c\uddf3",
+            "emblem-png": "countries/HN/emblem.png",
+            "emblem-svg": "countries/HN/emblem.svg"
+        },
+        "currencies": {
+            "HNL": {
+                "name": "Honduran lempira",
+                "symbol": "L"
+            }
+        },
+        "altSpellings": [
+            "HN",
+            "Republic of Honduras",
+            "Rep\u00fablica de Honduras"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "motto": [],
+        "anthem": "countries/HN/anthem.mp3",
+        "capital": "Tegucigalpa",
+        "latlng": [
+            15.0,
+            -86.5
+        ],
+        "borders": [
+            "GTM",
+            "SLV",
+            "NIC"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 112492.0,
+        "demonym": [
+            "Hondurien",
+            "Hondurienne",
+            "Honduran"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
+        },
+        "legislature": [],
+        "population": 9904608,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "HN"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".hn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

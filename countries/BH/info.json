@@ -1,0 +1,85 @@
+{
+    "BH": {
+        "name": {
+            "common": "Bahrain",
+            "official": "Kingdom of Bahrain"
+        },
+        "country-codes": {
+            "alpha2": "BH",
+            "alpha3": "BHR",
+            "numeric": "048",
+            "ioc": "BHR"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "73"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BH/flag.png",
+            "main-svg": "countries/BH/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\udded",
+            "emblem-png": "countries/BH/emblem.png",
+            "emblem-svg": "countries/BH/emblem.svg"
+        },
+        "currencies": {
+            "BHD": {
+                "name": "Bahraini dinar",
+                "symbol": ".\u062f.\u0628"
+            }
+        },
+        "altSpellings": [
+            "BH",
+            "Kingdom of Bahrain",
+            "Mamlakat al-Ba\u1e25rayn"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "motto": [],
+        "anthem": "countries/BH/anthem.mp3",
+        "capital": "Manama",
+        "latlng": [
+            26.0,
+            50.55
+        ],
+        "borders": [],
+        "languages": {
+            "ara": "Arabic"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 765.0,
+        "demonym": [
+            "Bahre\u00efnien",
+            "Bahre\u00efnienne",
+            "Bahraini"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/378734"
+        },
+        "legislature": [],
+        "population": 1701583,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BRN"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".bh"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

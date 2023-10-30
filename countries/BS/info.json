@@ -1,0 +1,88 @@
+{
+    "BS": {
+        "name": {
+            "common": "Bahamas",
+            "official": "Commonwealth of the Bahamas"
+        },
+        "country-codes": {
+            "alpha2": "BS",
+            "alpha3": "BHS",
+            "numeric": "044",
+            "ioc": "BAH"
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "242"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BS/flag.png",
+            "main-svg": "countries/BS/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf8",
+            "emblem-png": "countries/BS/emblem.png",
+            "emblem-svg": "countries/BS/emblem.svg"
+        },
+        "currencies": {
+            "BSD": {
+                "name": "Bahamian dollar",
+                "symbol": "$"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "BS",
+            "Commonwealth of the Bahamas"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/BS/anthem.mp3",
+        "capital": "Nassau",
+        "latlng": [
+            25.0343,
+            77.3963
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 13943.0,
+        "demonym": [
+            "Bahamian",
+            "Bahamienne",
+            "Bahamien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/547469"
+        },
+        "legislature": [],
+        "population": 393248,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BS"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".bs"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

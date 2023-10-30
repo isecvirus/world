@@ -1,0 +1,88 @@
+{
+    "CY": {
+        "name": {
+            "common": "Cyprus",
+            "official": "Republic of Cyprus"
+        },
+        "country-codes": {
+            "alpha2": "CY",
+            "alpha3": "CYP",
+            "numeric": "196",
+            "ioc": "CYP"
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "57"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CY/flag.png",
+            "main-svg": "countries/CY/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddfe",
+            "emblem-png": "countries/CY/emblem.png",
+            "emblem-svg": "countries/CY/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "CY",
+            "K\u00fdpros",
+            "K\u0131br\u0131s",
+            "Republic of Cyprus",
+            "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
+            "K\u0131br\u0131s Cumhuriyeti"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "motto": [],
+        "anthem": "countries/CY/anthem.mp3",
+        "capital": "Nicosia",
+        "latlng": [
+            35.0,
+            33.0
+        ],
+        "borders": [],
+        "languages": {
+            "ell": "Greek",
+            "tur": "Turkish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 9251.0,
+        "demonym": [
+            "Chypriote",
+            "Cypriot"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
+        },
+        "legislature": [],
+        "population": 1207361,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CY"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".cy"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

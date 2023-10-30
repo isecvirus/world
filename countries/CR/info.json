@@ -1,0 +1,88 @@
+{
+    "CR": {
+        "name": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica"
+        },
+        "country-codes": {
+            "alpha2": "CR",
+            "alpha3": "CRI",
+            "numeric": "188",
+            "ioc": "CRC"
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "06"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/CR/flag.png",
+            "main-svg": "countries/CR/flag.svg",
+            "emoji": "\ud83c\udde8\ud83c\uddf7",
+            "emblem-png": "countries/CR/emblem.png",
+            "emblem-svg": "countries/CR/emblem.svg"
+        },
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican col\u00f3n",
+                "symbol": "\u20a1"
+            }
+        },
+        "altSpellings": [
+            "CR",
+            "Republic of Costa Rica",
+            "Rep\u00fablica de Costa Rica"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "motto": [],
+        "anthem": "countries/CR/anthem.mp3",
+        "capital": "San Jos\u00e9",
+        "latlng": [
+            10.0,
+            -84.0
+        ],
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "languages": {
+            "spa": "Spanish"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 51100.0,
+        "demonym": [
+            "Costaricaine",
+            "Costa Rican",
+            "Costaricain"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+        },
+        "legislature": [],
+        "population": 5094114,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "CR"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".cr"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

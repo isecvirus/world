@@ -1,0 +1,90 @@
+{
+    "SK": {
+        "name": {
+            "common": "Slovakia",
+            "official": "Slovak Republic"
+        },
+        "country-codes": {
+            "alpha2": "SK",
+            "alpha3": "SVK",
+            "numeric": "703",
+            "ioc": "SVK"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "21"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/SK/flag.png",
+            "main-svg": "countries/SK/flag.svg",
+            "emoji": "\ud83c\uddf8\ud83c\uddf0",
+            "emblem-png": "countries/SK/emblem.png",
+            "emblem-svg": "countries/SK/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "SK",
+            "Slovak Republic",
+            "Slovensk\u00e1 republika"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "motto": [],
+        "anthem": "countries/SK/anthem.mp3",
+        "capital": "Bratislava",
+        "latlng": [
+            48.66666666,
+            19.5
+        ],
+        "borders": [
+            "AUT",
+            "CZE",
+            "HUN",
+            "POL",
+            "UKR"
+        ],
+        "languages": {
+            "slk": "Slovak"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 49037.0,
+        "demonym": [
+            "Slovaque",
+            "Slovak"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/14296"
+        },
+        "legislature": [],
+        "population": 5458827,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "SK"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".sk"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

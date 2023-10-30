@@ -1,0 +1,81 @@
+{
+    "TC": {
+        "name": {
+            "common": "Turks and Caicos Islands",
+            "official": "Turks and Caicos Islands"
+        },
+        "country-codes": {
+            "alpha2": "TC",
+            "alpha3": "TCA",
+            "numeric": "796",
+            "ioc": ""
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "649"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TC/flag.png",
+            "main-svg": "countries/TC/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\udde8",
+            "emblem-png": "countries/TC/emblem.png",
+            "emblem-svg": "countries/TC/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "TC"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "motto": [],
+        "anthem": "countries/TC/anthem.mp3",
+        "capital": "Cockburn Town",
+        "latlng": [
+            21.75,
+            -71.58333333
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 948.0,
+        "demonym": [
+            "Turks and Caicos Islander"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/547479"
+        },
+        "legislature": [],
+        "population": 38718,
+        "landlocked": false,
+        "independent": false,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".tc"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "TJ": {
+        "name": {
+            "common": "Tajikistan",
+            "official": "Republic of Tajikistan"
+        },
+        "country-codes": {
+            "alpha2": "TJ",
+            "alpha3": "TJK",
+            "numeric": "762",
+            "ioc": "TJK"
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "92"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/TJ/flag.png",
+            "main-svg": "countries/TJ/flag.svg",
+            "emoji": "\ud83c\uddf9\ud83c\uddef",
+            "emblem-png": "countries/TJ/emblem.png",
+            "emblem-svg": "countries/TJ/emblem.svg"
+        },
+        "currencies": {
+            "TJS": {
+                "name": "Tajikistani somoni",
+                "symbol": "\u0405\u041c"
+            }
+        },
+        "altSpellings": [
+            "TJ",
+            "To\u00e7ikiston",
+            "Republic of Tajikistan",
+            "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+            "\u00c7umhuriyi To\u00e7ikiston"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "motto": [],
+        "anthem": "countries/TJ/anthem.mp3",
+        "capital": "Dushanbe",
+        "latlng": [
+            39.0,
+            71.0
+        ],
+        "borders": [
+            "AFG",
+            "CHN",
+            "KGZ",
+            "UZB"
+        ],
+        "languages": {
+            "rus": "Russian",
+            "tgk": "Tajik"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 143100.0,
+        "demonym": [
+            "Tadzhik",
+            "Tadjike"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/214626"
+        },
+        "legislature": [],
+        "population": 9537642,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "TJ"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".tj"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

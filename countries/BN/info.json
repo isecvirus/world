@@ -1,0 +1,92 @@
+{
+    "BN": {
+        "name": {
+            "common": "Brunei",
+            "official": "Nation of Brunei, Abode of Peace"
+        },
+        "country-codes": {
+            "alpha2": "BN",
+            "alpha3": "BRN",
+            "numeric": "096",
+            "ioc": "BRU"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "73"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/BN/flag.png",
+            "main-svg": "countries/BN/flag.svg",
+            "emoji": "\ud83c\udde7\ud83c\uddf3",
+            "emblem-png": "countries/BN/emblem.png",
+            "emblem-svg": "countries/BN/emblem.svg"
+        },
+        "currencies": {
+            "BND": {
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "BN",
+            "Brunei Darussalam",
+            "Nation of Brunei",
+            "the Abode of Peace"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "motto": [],
+        "anthem": "countries/BN/anthem.mp3",
+        "capital": "Bandar Seri Begawan",
+        "latlng": [
+            4.5,
+            114.66666666
+        ],
+        "borders": [
+            "MYS"
+        ],
+        "languages": {
+            "msa": "Malay"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 5765.0,
+        "demonym": [
+            "Brun\u00e9ien",
+            "Brun\u00e9ienne",
+            "Bruneian"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
+        },
+        "legislature": [],
+        "population": 437483,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "BRU"
+            ],
+            "side": "left"
+        },
+        "tld": [
+            ".bn"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

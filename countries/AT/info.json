@@ -1,0 +1,94 @@
+{
+    "AT": {
+        "name": {
+            "common": "Austria",
+            "official": "Republic of Austria"
+        },
+        "country-codes": {
+            "alpha2": "AT",
+            "alpha3": "AUT",
+            "numeric": "040",
+            "ioc": "AUT"
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "3"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/AT/flag.png",
+            "main-svg": "countries/AT/flag.svg",
+            "emoji": "\ud83c\udde6\ud83c\uddf9",
+            "emblem-png": "countries/AT/emblem.png",
+            "emblem-svg": "countries/AT/emblem.svg"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "altSpellings": [
+            "AT",
+            "Osterreich",
+            "Oesterreich"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "motto": [],
+        "anthem": "countries/AT/anthem.mp3",
+        "capital": "Vienna",
+        "latlng": [
+            47.33333333,
+            13.33333333
+        ],
+        "borders": [
+            "CZE",
+            "DEU",
+            "HUN",
+            "ITA",
+            "LIE",
+            "SVK",
+            "SVN",
+            "CHE"
+        ],
+        "languages": {
+            "bar": "Austro-Bavarian German"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 83871.0,
+        "demonym": [
+            "Austrian",
+            "Autrichienne",
+            "Autrichien"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
+        },
+        "legislature": [],
+        "population": 8917205,
+        "landlocked": true,
+        "independent": true,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "A"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".at"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}

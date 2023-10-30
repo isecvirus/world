@@ -1,0 +1,86 @@
+{
+    "FM": {
+        "name": {
+            "common": "Micronesia",
+            "official": "Federated States of Micronesia"
+        },
+        "country-codes": {
+            "alpha2": "FM",
+            "alpha3": "FSM",
+            "numeric": "583",
+            "ioc": "FSM"
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "91"
+            ]
+        },
+        "phone-number": {},
+        "flag": {
+            "main-png": "countries/FM/flag.png",
+            "main-svg": "countries/FM/flag.svg",
+            "emoji": "\ud83c\uddeb\ud83c\uddf2",
+            "emblem-png": "countries/FM/emblem.png",
+            "emblem-svg": "countries/FM/emblem.svg"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "altSpellings": [
+            "FM",
+            "Federated States of Micronesia",
+            "Micronesia, Federated States of"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "motto": [],
+        "anthem": "countries/FM/anthem.mp3",
+        "capital": "Palikir",
+        "latlng": [
+            6.91666666,
+            158.25
+        ],
+        "borders": [],
+        "languages": {
+            "eng": "English"
+        },
+        "ethnic-groups": {},
+        "religion": {},
+        "area": 702.0,
+        "demonym": [
+            "Micron\u00e9sien",
+            "Micronesian",
+            "Micron\u00e9sienne"
+        ],
+        "establishment": {},
+        "government": {},
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/571802"
+        },
+        "legislature": [],
+        "population": 115021,
+        "landlocked": false,
+        "independent": true,
+        "timezones": [
+            "UTC+10:00",
+            "UTC+11:00"
+        ],
+        "date-format": "",
+        "car": {
+            "signs": [
+                "FSM"
+            ],
+            "side": "right"
+        },
+        "tld": [
+            ".fm"
+        ],
+        "cities": {},
+        "startOfWeek": "monday"
+    }
+}
